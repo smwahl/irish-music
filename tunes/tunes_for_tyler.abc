@@ -1,0 +1,69 @@
+%abc-2.1
+I:abc-creator eTuneBook-1.2.4
+%%etbk:bname tunes_for_tyler.abc
+%%etbk:bvers 2015-08-27T00:23
+%%etbk:bdesc 
+
+X: 1
+%%etbk:tnset id:1,pos:1,rep:3x,ant:
+%%etbk:skill ?
+T: The Snowy Path
+R: slip jig
+M: 9/8
+L: 1/8
+V: 1 clef=bass
+K:Dmaj
+|"D,,"F,,2A,, B,,2F,, A,,2F,,|"G,,"G,,2B,, D,2E, D,B,,A,,|"D,,"F,,2A,, B,,2F,, A,,2F,,|"E,,m"E,,2D,, E,,2F,, G,,F,,E,,|
+"D,,"F,,2A,, B,,2F,, A,,2F,,|"G,,"G,,2B,, D,2E, D,B,,A,,|"D,,"F,,2A,, B,,2F,, A,,2F,,|"E,,m"E,,2D,, E,,2F,, G,,A,,B,,||
+|"A,,"C,3 C,2E, D,2C,|"G,,"B,,2G,, B,,2C, D,2E,|"B,,m"F,3 F,2E, D,2B,,|"D,,"A,,2G,, F,,2G,, A,,2B,,|
+"A,,"C,3 C,2E, D,2C,|"G,,"B,,2G,, B,,2C, D,2E,|"D,,"D,2A,, B,,2F,, A,,2F,,|"E,,m"E,,2D,, E,,2F,, G,,F,,E,,||
+
+X: 1
+%%etbk:tnset id:2,pos:1,rep:3x,ant:
+%%etbk:skill ?
+T: If Ever You Were Mine
+R: waltz
+M: 3/4
+L: 1/8
+V: 1 clef=bass
+K:Gmaj
+D,,E,,|G,,4 E,2|{E,}D,4 (3B,,A,,G,,|A,,B,, G,,4|{A,,}G,,4 D,,E,,|
+G,,4 E,2|{E,}D,4 B,,D,|D,6-|D,2 E,2 F,2|
+G,4 E,D,|G,4 E,D,|E,2 {E,}D,3 B,,|A,,B,, G,,2 (3G,,F,,E,,|
+D,,4 E,D,|D,4 (3B,,A,,G,,|D,,E,,G,,2{A,,}G,,A,,|G,,6|1 {A,,}G,,4:|2 {A,,}G,,6||
+B,,3 D, (3B,,A,,G,,|D,4 (3B,,C,D,|C,2 D,2 E,2|D,4 (3B,,C,D,|
+B,,3 D,(3B,,A,,G,,|D,4 (3B,,C,D,|C,2 D,2 E,2|D,E, F,D, E,F,|
+G,2{A,}G,2 E,D,|G,2{A,}G,2 E,D,|E,2 {E,}D,3 B,,|A,,B,, G,,2 (3G,,F,,E,,|
+D,,4 E,D,|D,4 (3B,,A,,G,,|D,,E,, G,,2{A,,}G,,A,,|G,,6|1 {A,,}G,,6:|2 {A,,}G,,4|
+
+X: 1
+%%etbk:tnset id:3,pos:1,rep:3x,ant:
+%%etbk:skill ?
+T: Banish Misfortune
+R: jig
+M: 6/8
+L: 1/8
+V: 1 clef=bass
+K:Dmix
+F,E,D, C,A,,G,,| A,,2D, C,A,,G,,| F,,2D,, D,,E,,D,,| F,,E,,F,, G,,F,,G,,|
+A,,G,,A,, C,A,,G,,| A,,G,,A,, C,D,E,|F,E,D, C,A,,G,,| A,,D,^C, D,3:|
+F,2D, D,^C,D,| F,2G, A,G,F,| E,2C, C,B,,C,|E,2F, G,F,E,|
+F,2G, A,G,F,| E,2F, G,F,E,|F,E,D, C,A,,G,,|A,,D,^C, D,3:|
+F,2G, E,2F,| D,2E, C,2D,|A,,B,,A,, G,,A,,G,,| F,,2F,, G,,E,,D,,|
+C,3 C,A,,G,,| A,,G,,A,, C,D,E,| F,E,D, C,A,,G,,| A,,D,^C, D,3:|
+
+X: 3
+%%etbk:tnset id:4,pos:1,rep:3x,ant:
+%%etbk:skill ?
+T: The Cup Of Tea
+R: reel
+M: 4/4
+L: 1/8
+V: 1 clef=bass
+K:Edor
+|:B,,A,,G,,F,, G,,E,, E,,2|G,,E,,B,,E,, G,,E,, E,,2|B,,A,,G,,F,, G,,E,, E,,2|F,,D,,A,,D,, F,,D,, D,,2|
+B,,A,,G,,F,, G,,E,, E,,2|G,,B,,E,,G,, B,,E,, E,,2|B,,A,,G,,F,, G,,A,,B,,C,|D,B,,A,,G,, F,,D,, D,,2:|
+|:D,2 (3E,F,G, F,D,E,C,|D,F,E,G, F,B,, B,,2|D,2 (3E,F,G, F,D,E,C,|D,B,,A,,G,, F,,D,, D,,2|
+D,2 (3E,F,G, F,D,E,C,|D,F,A,F, G,2 F,G,|A,F, (3G,F,E, F,D,E,C,|D,B,,A,,G,, F,,D,, D,,2:|
+|:F,,A,, A,,2 F,,A,,D,A,,|F,,A,,D,A,, F,,E,, E,,2|F,,A,, A,,2 B,,A,,B,,C,|D,B,,A,,G,, F,,D,, D,,2|
+F,,A,, A,,2 F,,A,,D,A,,|F,,A,,D,A,, F,,E,, E,,2|F,D,E,C, D,B,,A,,G,,|F,,A,,E,,G,, F,,D,, D,,2:|

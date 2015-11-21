@@ -1,0 +1,24 @@
+X: 4
+T: MacArthur Road
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: dA A2 ABde | f2 fd edBd | e2 ef edBd | gefe edBe |
+dA A2 ABde | f2 fd edBd | e2 ef edBA | Bdde d3e :|
+|: fA A2 fAgA | fAgA fdBd | e2 ef edBd | effd edBe |
+fA A2 fAgA | fAgA fdBd | e2 ef edBA | Bdde d3e |
+fA A2 fAgA | fAgA fdBd | e2 ef edBd | gefe edBe |
+dA A2 ABde | f2 fd edBd | e2 ef edBA | Bdde d3e ||
+
+X: 3
+T: MacArthur Road
+R: reel
+M: 4/4
+L: 1/8
+K:Dmaj
+|: A2 FB ABde | f2 (3fff edBd | ~e3 f edBd | g2 fg fedB |
+A2 FB ABde | f2 (3fff edBd | e3 f edBG | ABde d4 :|
+|: ad (3ddd adbd | addf edBd | ~e3 f edBd | g2 fg fedB |
+[2 A2 FB ABde | f2 (3fff edBd | e3 f edBG | ABde d4 |]
+[1 ad (3ddd adbd | addf edBd | ~e3 f edBG | ABde d4 :|

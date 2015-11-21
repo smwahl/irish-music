@@ -1,0 +1,32 @@
+X: 1
+T: Old Hag, You Have Killed Me
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+FDD cAA|ded cAG|A3 ABG|ABA A2G|
+FDD cAA|ded cAF|G3 GcA|1 GAG G2E:|2 GAG G2e||
+|:f3 gfg|afd cAG|A3 ABG|ABA A2e|
+f3 gfg|afd cAF|G3 GcA|1 GAG G2e:|2 GAG G2E||
+
+X: 3
+T: The Hag With The Money
+R: jig
+M: 6/8
+L: 1/8
+K:Dmix
+|Adc A3|AGE G3|AdcA3|GEA GED|
+Adc A3|AGE G3|AGE cde|dcA GED||
+|ABc^ dcd|fed efd|ABc^ dcd|eag edc|
+ABc^ dcd|fed efg|age cde|dcA GED||
+
+X: 3
+T: The Hag At The Churn
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A2G ADD|A2G Adc|A2G ADD|EFG EFG|
+AB/A/G ADD|AB/A/G Adc|AB/A/G ADD|EFG EFG||
+|:AdB c3|Add efg|AdB c2G|E3 GED|
+AdB c3|Add efg|fge dcA|GEF GED||

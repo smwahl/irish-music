@@ -1,0 +1,79 @@
+X: 2
+T: The Teetotallers
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|G3F GABc|d2ge dBAc|BEED EFGA |BGAF GFED|
+G3F GABc|d2ge dBAc|BEED EFGA |BGAF G2:||
+|:A2|Beed e3f| geaf gfed| Add^c d3e | fdaf gfed|
+Beed e3f|geaf gfed|BEED EFGA|BGAF G2:||
+
+X: 1
+T: The Silver Spire
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:FE|D2FE DFAc|dcdf edAF|GABG FGAF|GFED CEA,C|
+D2FE DFAc|d2df edAF|G2BG F2AF|EA,CE D2:|
+|:CB,|A,B,CD EFGE|GFEF GABc|dcBA Bcde|f2gf e2 (3ABc|
+d2fd c2ec|dcdA BAFD|G2BG F2AF|EA,CE D2:|
+
+X: 1
+T: The Banshee
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE EDDE|
+G2 GD EDEG|AGAB d2 Bd|eged BAGA|BAGE ED D2:|
+|:ea a2 efgf|eBBA B2 Bd|eB B2 efgf| eBBA B2 Bd|
+ea a2 efgf|eBBA B2 Bd|eged BAGA|BAGE EDD2:|
+
+X: 3
+T: MacArthur Road
+R: reel
+M: 4/4
+L: 1/8
+K:Dmaj
+|: A2 FB ABde | f2 (3fff edBd | ~e3 f edBd | g2 fg fedB |
+A2 FB ABde | f2 (3fff edBd | e3 f edBG | ABde d4 :|
+|: ad (3ddd adbd | addf edBd | ~e3 f edBd | g2 fg fedB |
+[1 ad (3ddd adbd | addf edBd | ~e3 f edBG | ABde d4 :|
+[2 A2 FB ABde | f2 (3fff edBd | e3 f edBG | ABde d4 |]
+
+X: 1
+T: MacArthur Road
+R: reel
+M: 4/4
+L: 1/8
+K:Dmaj
+|:AF (3FFF ABde|fedf edBd|e3f edBd|gBfB edBd|
+AF (3FFF ABde|fedf edBd|e3f edBA|1 Bdef d2z2:|2 Bdef defg||
+ad(3ddd adbd|adfd edBd|e3f edBd|gdfd edBd|
+ad(3ddd adbd|adfd edBd|e3f edBA|Bdef defg|
+ad(3ddd adbd|adfd edBd|e3f edBd|gdfd edBd|
+AF(3FFF ABde|fedf edBd|e3f edBA|Bdef d2z2|
+
+X: 1
+T: Now She's Purring
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+G3A B2gB|BAGB AGEG|BGAF GABd|(3efg fa gedB|
+G3A B2gB|BAGB AGED|GBAF GABd|(3efg fa g4:|
+|:~g3a bgaf|g2ba gfed|AB{c}BA GABd|(3efg fa gfed|
+~g3a bgaf|g2ba gfed|Bz{c}BA GABd|(3efg fa g4:|
+
+X: 4
+T: Paddy's Trip To Scotland
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:dA A2 BAGF|GA (3Bcd cABc|d2ed cABc|dfed cABc|
+dA A2 BAGF|GA (3Bcd cABc|d2ed cABc|1 dfec d2dc:|2 dfec d2dB||
+|:Adfd Adfd|g3f edcB|Acec Acec|f3e dcBc|
+Adfd Adfd|g3f efge|eA A2 BABc|1 dfec d2dB:|2 dfec dABc||
