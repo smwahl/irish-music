@@ -46,21 +46,8 @@ R: jig
 M: 6/8
 L: 1/8
 K: Dmaj
-F2D DAF|GED D2A,|DFA DGE|FDD D2E|
-~F3 ~G3|~A3 (3Bcd e|dcA GEA|1DED D2E:|2DED D2B||
-|=c2A AGF|G3 GFG|A2B =cAG|Adc d2e|
-fed cAG|FAF GED|dcA GEA|1DED D2B:|2DED D2E:||
-
-X: 1
-T: Denis Murphy's
-R: slide
-M: 12/8
-L: 1/8
-K: Dmaj
-|:A2D FED F2A A2f|gfe fed e2d BdB|
-A2D FED F2A A2f|a2f efe d3 d3:|
-|:d2e f3 gfe f3|gfe fed e2d BdB|
-d2e f3 gfe f2f|a2f efe d3 d3:|
+AGA DFA | BAF DFA | dcd ede | f2 f def |
+g2g gab | afd d3 | e2e efe | 1[ d2d dcB | 2[ d2d dcd :|
 
 X: 1
 T: The Boys Of The Town
