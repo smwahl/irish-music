@@ -1,0 +1,32 @@
+X: 1
+T: Niel Gow's Style
+C: Simon Fraser
+R: strathspey
+S: rearranged to be played on the D whistle
+Z: 2006 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+K:Edor
+d2 \
+| "Em"BE3 B3A B3E Ed3 | BE3 B3G "D"{Bc}d3D Dd3 \
+| "Em"BE3 B3A "D"{FG}A3F "C"G3E | "D"D3B A d3 FD3 D2 :|
+F2 \
+| "em"E3e Ge3 BE3 E3G | E3e Ge3 "d"dD3 D3F \
+| "em"E3e Ge3 Be3 {f}g3e | "d"d3B Ad3 FD3 D2 |]
+F2 \
+| "em"EBe2 Ge3 BE3 E3G | EBe2 Ge3 "d"dD3 D3F \
+| "em"EBe2 G3e B3e {f}g3b | "d"dcBA {c}d3A FD3 D2 |]
+
+X:1
+T:Stoile Neill Ghobha
+T:Niel Gow's Style
+M:C
+L:1/8
+R:Strathspey
+S:Fraser Collection  (1816/1874)
+Z:AK/Fiddler's Companion
+K:Edor
+d|B<E B>A B>E E<d|B<E B>A d>F F<d|B<E B>G A>FG>E|D>B A<d F>DDd|
+B<E B>A B>E E<d|B<E B>A d>d d<d|B<E B>G A>FG>E|D>B A<d F>DD|
+F|E/B/e Ge B<E E<G|E/B/e Ge d>D D<F|E/B/e Ge B<e g>e|d>B A<d F>D D>F|
+E/B/e Ge B>E E<G|E/B/e Ge d>F, D<F|E/B/e Ge B>e g<b|d/^c/B/A/ d>A FDD||
