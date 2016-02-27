@@ -2,31 +2,33 @@ X: 1
 T: Niel Gow's Style
 C: Simon Fraser
 R: strathspey
-S: rearranged to be played on the D whistle
+S: printed MS in Highland Whisky arrangement
 Z: 2006 John Chambers <jc:trillian.mit.edu>
 M: C
 L: 1/16
-K:Edor
-d2 \
-| "Em"BE3 B3A B3E Ed3 | BE3 B3G "D"{Bc}d3D Dd3 \
-| "Em"BE3 B3A "D"{FG}A3F "C"G3E | "D"D3B A d3 FD3 D2 :|
-F2 \
-| "em"E3e Ge3 BE3 E3G | E3e Ge3 "d"dD3 D3F \
-| "em"E3e Ge3 Be3 {f}g3e | "d"d3B Ad3 FD3 D2 |]
-F2 \
-| "em"EBe2 Ge3 BE3 E3G | EBe2 Ge3 "d"dD3 D3F \
-| "em"EBe2 G3e B3e {f}g3b | "d"dcBA {c}d3A FD3 D2 |]
+K: Bdor
+a2 \
+| "Bm"fB3 f3e f3B Ba3 | fB3 f3d "A"{fg}a3A Aa3 \
+| "Bm"fB3 f3e "A"{cd}e3c "G"d3B | "A"A3F EA3 CA,3 A,2 :|
+C2 \
+| "Bm"B,3B DB3 FB,3 B,3D | B,3B DB3 "A"AA,3 A,3C \
+| "Bm"B,3B DB3 FB3 {c}d3B | "A"A3F EA3 CA,3 A,2 |]
+C2 \
+| "Bm"B,FB2 DB3 FB,3 B,3D | B,FB2 DB3 "A"AA,3 A,3C \
+| "Bm"B,FB2 D3B F3B {c}d3f | "A"agfe {g}a3e cA3 A2 |]
+
+
 
 X:1
-T:Stoile Neill Ghobha
 T:Niel Gow's Style
+T:Stoile Neill Ghobha
 M:C
 L:1/8
 R:Strathspey
 S:Fraser Collection  (1816/1874)
 Z:AK/Fiddler's Companion
-K:Edor
-d|B<E B>A B>E E<d|B<E B>A d>F F<d|B<E B>G A>FG>E|D>B A<d F>DDd|
-B<E B>A B>E E<d|B<E B>A d>d d<d|B<E B>G A>FG>E|D>B A<d F>DD|
-F|E/B/e Ge B<E E<G|E/B/e Ge d>D D<F|E/B/e Ge B<e g>e|d>B A<d F>D D>F|
-E/B/e Ge B>E E<G|E/B/e Ge d>F, D<F|E/B/e Ge B>e g<b|d/^c/B/A/ d>A FDD||
+K:D
+a|f<B f>e f>B B<a|f<B f>e a>c c<a|f<B f>d e>cd>B|A>F E<A C>A,A,a|
+f<B f>e f>B B<a|f<B f>e a>a a<a|f<B f>d e>cd>B|A>F E<A C>A,A,:|
+C|B,/F/B DB F<B, B,<D|B,/F/B DB A>A, A,<C|B,/F/B DB F<B d>B|A>F E<A C>A, A,>C|
+B,/F/B DB F>B, B,<D|B,/F/B DB A>C, A,<C|B,/F/B DB F>B d<f|a/^g/f/e/ a>e cAA||

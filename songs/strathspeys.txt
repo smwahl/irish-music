@@ -1,0 +1,77 @@
+X:1
+T:Stoile Neill Ghobha
+T:Niel Gow's Style
+M:C
+L:1/8
+R:Strathspey
+S:Fraser Collection  (1816/1874)
+Z:AK/Fiddler's Companion
+K:D
+a|f<B f>e f>B B<a|f<B f>e a>c c<a|f<B f>d e>cd>B|A>F E<A C>A,A,a|
+f<B f>e f>B B<a|f<B f>e a>a a<a|f<B f>d e>cd>B|A>F E<A C>A,A,:|
+C|B,/F/B DB F<B, B,<D|B,/F/B DB A>A, A,<C|B,/F/B DB F<B d>B|A>F E<A C>A, A,>C|
+B,/F/B DB F>B, B,<D|B,/F/B DB A>C, A,<C|B,/F/B DB F>B d<f|a/^g/f/e/ a>e cAA||
+
+X:1
+T:Stoile Neill Ghobha
+T:Niel Gow's Style
+M:C
+L:1/8
+R:Strathspey
+S:Fraser Collection  (1816/1874)
+Z:AK/Fiddler's Companion
+K:Edor
+d|B<E B>A B>E E<d|B<E B>A d>F F<d|B<E B>G A>FG>E|D>B A<d F>DDd|
+B<E B>A B>E E<d|B<E B>A d>d d<d|B<E B>G A>FG>E|D>B A<d F>DD|
+F|E/B/e Ge B<E E<G|E/B/e Ge d>D D<F|E/B/e Ge B<e g>e|d>B A<d F>D D>F|
+E/B/e Ge B>E E<G|E/B/e Ge d>F, D<F|E/B/e Ge B>e g<b|d/^c/B/A/ d>A FDD||
+
+X: 1
+T: Niel Gow's Style
+C: Simon Fraser
+R: strathspey
+S: printed MS in Highland Whisky arrangement
+Z: 2006 John Chambers <jc:trillian.mit.edu>
+M: C
+L: 1/16
+K: Bdor
+a2 \
+| "Bm"fB3 f3e f3B Ba3 | fB3 f3d "A"{fg}a3A Aa3 \
+| "Bm"fB3 f3e "A"{cd}e3c "G"d3B | "A"A3F EA3 CA,3 A,2 :|
+C2 \
+| "Bm"B,3B DB3 FB,3 B,3D | B,3B DB3 "A"AA,3 A,3C \
+| "Bm"B,3B DB3 FB3 {c}d3B | "A"A3F EA3 CA,3 A,2 |]
+C2 \
+| "Bm"B,FB2 DB3 FB,3 B,3D | B,FB2 DB3 "A"AA,3 A,3C \
+| "Bm"B,FB2 D3B F3B {c}d3f | "A"agfe {g}a3e cA3 A2 |]
+
+
+
+X: 1
+T: The Banks Of Spey
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amin
+"Am"[A,2E2A2] A>B A>Bc>e|"G"d<c B>A {A}G2 G2|"Am"[A,2E2A2] A>B A>Bc>d|e>cde "C"g2 ~g2|
+"Am"a>ge>c d<e g<a |"G"e<g g>B G2 GB | "Am"A<E A>B c>de>g|"G"e<d !trill!c>B "Am"{B}A2Ac|]
+"Am"A<E A>c A<E A>c|"G"~B>cdB ~G2 GB|"Am"A<E A>c A<E c>d|"C"e>cde g2~g2|
+"Am"a>g e<c dega |"G"e<g g>B G2 GB|"Am"A<E A>B c>d e<g |"G"e<d !trill!c>B {B}A2 A2|]
+
+X: 1
+T: Grand Etang
+C: Howie MacDonald, SOCAN
+R: march, strathspey
+Z: 2014 John Chambers <jc:trillian.mit.edu>
+S: PDF image from Lance Ramshaw labelled 2009-07-26
+D: Howie MacDona.d, A Few Tunes, LP, 1987
+M: C
+L: 1/8
+K: G
+%%slurgraces
+EF |\
+G3 E F>E D>F | TE>G, B,<E {DEF}G2 (G/A/B) | Tc>B A<c TB>A G>B | A>D D/D/D E>D E<F |
+{EF}G3 E F>E D>F | TE>B, B,<E | {DEF}G2 (G/A/B) | Tc>B A<c TB>F D<B, | E4 E2 :|
+|: zF |\
+E>e e/e/e E>d d/d/d | E>e d<B {Bc}d2 A>G | F>D D/D/D E>D E<F | (E<D) d>B A>F D>F |
+E>e e/e/e E>d d/d/d | E>e d<B {Bc}d2 A>G | F>E D>d TB>G A<F | E4 E2 :|
