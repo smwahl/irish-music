@@ -1,0 +1,22 @@
+X: 1
+T: Da Full Rigged Ship
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+e|(e2 a) (aea)|(aea) (aba)|e2 ^f g2 g|(gag) (^f2 d)|
+(e2 a) (aea)|(aea) (aba)|g2 e e(dB)|A3 E3:|
+(efe) (edB)|(A2 B) c3|B2 G B2 G|(Bcd) E3|
+(efe) (edB)|(A2 B) (c2 d)|(efe) (dBG)|1A3 A3:|2 A3 (A2 E)||
+(EGE) (EGE)|(EGE) c3|(EGE) (E2 D)|(E2 F) (GEC)|
+(EGE) (EGE)|(EGE) (c2 d)|(efe) (dBG)|1A3 (A2 G):|2 A3 A2||
+
+X: 2
+T: Da New Rigged Ship
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eg|:a2ab ageg|agab agef|g2ge fgag|1 f2d2-d2eg:|2 f2d2-d2ed|
+|:^cecA B2 ed|^cecA E2 ed|^cecA B2 ed|1 ^c2A2-A2ed:|2 ^c2A2-A2AB|
+|:cdec BcdB|ABAF GF ED|cdec BcdB|1 c2A2-A2AB:|2 c2A2-A4||

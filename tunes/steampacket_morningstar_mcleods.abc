@@ -1,0 +1,57 @@
+X: 8
+T: The Steampacket
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:AG G2 AGFD | AG G2 Addc | AG G2 AGFD | F3G Addc |
+AG G2 AGFD | AG G2 Addc | (3AcA GB AGFD | F3G ABcA||
+|:dg g2 ag g2 | dg g2 fdcA | dg g2 ag g2 | dcde fdcA |
+dg g2 ag (3efg | abag f3g | af (3gfe fdec | dfeg fdcA ||
+
+X: 7
+T: The Morning Star
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:B3c BGEF|G2 (3Bcd efge|dBAd BGEF|GBAF G3A|
+BA A2 BGEF|G2 Bd efge|dBAd BGEF|GBAF G3A||
+|:(3Bcd ef g2 ga|fd d2 bdad|Bdef gfga|afdf e3d|
+(3Bcd ef g2 ga|fd d2 bdad|Bd d2 dBde|fggf gfed||
+
+X: 1
+T: The Morning Star
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+~B3 A BGEF|~G2 Bd ef{b}gd|~B3 A BGEF|GB{c}AF ~G3 A:|
+(3Bcd ef ~g3 e|~f3 e {a}edBG|(3Bcd ef g2 fg|{c'}afdf ~e3 d|
+(3Bcd ef ~g3 e|~f3 e {a}edBG|Bddc d3 e|f ~a3 gfed||
+
+X: 1
+T: Miss McLeod's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2 BG AGBG|B2 BA BcBA|G2 BG AGBG|A2 AG AcBA|
+G2 BG AGBG| B2 BA B2 d2|e2 ef edef|gfed BcBA:|
+|:G2 gf edeg|B2 BA BcBA| G2 gf edeg|a2 ag aeef|
+g2 gf edeg|BcBA B2 d2|edef edef|gfed BcBA:|
+
+X: 17
+T: Miss McLeod's
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G2BG dGBG|B2 BA BcBA|G2BG dGBG|A2 AG AcBA|
+G2BG dGBG|B2 BA B2 d2|e3f edef|gedB A2 BA :||
+|:G2 g2 edeg|B2BA BcBA|G2 g2 edeg|a3b aged|
+G2gf edeg|B2 BA B2 d2|e3f edef|gedB A2 BA|
+|:GBDG BDGB|DBBA BcBA|GBDG BDGB|ADFA DFAD|
+GBDG BDGB|DBBA B3d|e3f edef|gedB A2 BA :||
+|:g2 fg efge|dBBA (3Bcd ef|g2 fg ef g2|a3b c'bag|
+g2 fg efge|dBBA B3d|e3f edef|gedB A2 BA :||
