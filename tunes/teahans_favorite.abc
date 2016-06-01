@@ -1,0 +1,33 @@
+X: 3
+T: Teahan's Favourite
+R: slide
+M: 12/8
+L: 1/8
+K: Edor
+B|: efe B2 A GFE B2A | FED A2 D d2 D A2 d |
+efe B2 A GFE B2A | FED F2 A FE2 E3 :|
+|: B2 e ede f2 a afa | baf a2 f e2 d B2A |
+[1 B2 e ede f2 a a^ga | baf a2 f e3 e2d :|
+[2 fgf f2 e ded B2A | FED F2 A FE2 E3 |]
+
+X: 4
+T: Dinny Delaney's
+R: slide
+M: 12/8
+L: 1/8
+K: Dmix
+|:A2D D3 A2G EFG|A2D D3 G2A GED|A2D D3 c2d e2d|dcA AGE G2A GED:|
+|:dcA AGE c3 ABc|dcA AGE G2A GED|dcA AGE c2d e2d|dcA AGE G2A GED:|
+|:A2D D3 A2B G2B|A2B G2A E3 GED|A2D D3 c2d e2d|dcA AGE G2A GED:|
+|:dcA AGE c3 ABc|dcA AGE G2A GED|dcA AGE c2d e2d|dcA AGE G2A GED:|
+
+X: 2
+T: The Old Favourite
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+"G"B3 BAB| dBA G2B| ded d2B| ded "D"B2A|
+"G"B3 BAB| dBA G2B| ded "D"cBA| "G"G3 G3 :|
+|:"G"g3 "D"f3| "C"efe "G"d2B| ded d2B| ded Bdf| "G"g3 "D"f3|
+"C"efe "G"d2B|1 "D"dge dBA| "G"G3 G3 :|2 "G"dge dge| dge "D"dBA |]
