@@ -8,3 +8,48 @@ K: Dmaj
 | (3ABA FA DA FA| BA (3Bcd e2 de |fa gf eg fe|d2 f2 d2 :|
 |: fg| af df a2 g2 | ef ga b2 ag |fa gf eg fe |df ed B2 dB|
 | BA FA D2 FA| BA (3Bcd e2 de |fa gf eg fe|d2 f2 d2 :|
+
+X: 2
+T: The Red Haired Boy
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+AG|E2A2 AB cd|ef ec d2cd|e2A2 AB cA|BA EF G2 GF|
+E2A2 AB cd|ef ec d2cd|e a2 b ag ed|c2A2A2:|
+|:ef|gf ga gf ef|gf ec d2cd|e2A2 AB cA|BA EF G3F|
+E2A2 AB cd|ef ec d2cd|e a2 b ag ed|c2 A2 A2:|
+
+X: 1
+T: Chief O'Neill's Favourite
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:de|fefg afge|fdec dBAG|FEDE FGAB|=cAd^c A2 de|
+fefg afge|fdec dBAG|FEDF GBAG|F2 D2 D2:|
+|:DE|=F2FE FGAB|=cAdB =cAGB|Adde fded|=cAd^c A2de|
+fefg afge|fdec dBAG|FEDF GBAG|F2 D2 D2:|
+
+X: 4
+T: Off To California
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|: "G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|"Am"ABAG "D"E2 (3DEF|
+"G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|[1 "D"(3ABA GF "G"G2 (3DEF:|[2 "D"(3ABA GF "G"G2 (3def|]
+|:"E"gfeg "Bm"fedf|"C"edef "Em"edBd|"G"gfgd "Em"edBG|"Am"ABAG "D"E2 (3DEF|
+"G"GFGB "D"AGED|"G"GBdg "C"e2 (3def|"G"gfgd "Em"edBG|[1 "D"(3ABA GF "G"G2 (3def:|[2 "D"(3ABA GF "G"G4|]
+
+X: 1
+T: The Sailor's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+gf | g2G2G2dc | Bdgf gbag | a2A2A2AG | FAd2d2ef |
+gfed edcB | cBAG GFED | EGFA GBAc | B2G2G2 :|
+dc | Bdgd Bdgd | e2c2c2ed | ^ceae ^ceae | f2d2d2ef |
+gfed edcB | cBAG GFED | EGFA GBAc | B2G2G2 :|
+

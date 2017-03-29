@@ -1,8 +1,13 @@
+ [E] Em(iE5)   D(oD5)   [BA]  G(oD4) [B]  D  [BA]   Am(iA8+5)  Em    
 A long time ago in the county Mayo, me story it first began
+ [E] Em     G   [B]    D (GA) oD8    (B)      Am   [F#A]      Bm(oB8+5)  
 Before this country was finally cured by the First Economical Plan
+ [D] Em       G   [B_]   D   (GA)  D8  (B)  Am    [F#]        Bm  
 A brave young man had to leave his home and sail far over the sea
+[GA]   Em       D  [BA]     G   [B]    D     [BA]    Am             Em    
 But he got well paid in the job and he stayed on the shores of Amerikay
 
+[GA]
 He got on very well but he sent nothing home and his mother began to think
 That maybe he’d run away with a blonde or spent all his money on drink!
 She wrote him a letter enquiring the news and sent it straight away
@@ -10,17 +15,21 @@ And upon the cover she carefully wrote “To me son in Amerikay!”
 
 Well, the postman collected the letter she wrote and he drove in his van to Cork
 Where he placed it on board on a liner at Cobh that landed it in New York
+    i[E    D   E] i[G  E   G] o[A  G  A]  oD8   [B] Am          [F#]    Bn
 It there with the whiskey and everything else – the mailbags lay on the quay
 And among the rest was a letter addressed “To me son in Amerikay”
 
 Oh, American postmen, I needn’t relate, they are rather like me and you
 And when at last to this letter they came, they didn’t know what to do
 They looked up all the official lists, but these had nothing to say
-There was no directory could help them to find a son in Amerikay!
+Oh there was no directory could help them find a son in Amerikay.
+
 
 And it laid at the office for years and years and it gave all the boys a laugh
 Until at length it found some use – in the training of the staff
+    i[E    D   E] i[G  E   G] o[A  G  A]  oD8   [B] Am    [F#]     
 To every new postman that came on the job it was shown as Example A
+(slower)
 Oh, “Insufficiently addressed to ‘Me Son in Amerikay'”!
 
 Well, the son he got older and wiser too and at last to himself he said
@@ -30,5 +39,10 @@ He walked ’round the blocks to the GPO, where he stood with his cap in his hand
 
 “Oh Yes! Kind sir – and here it is – we’ve been waiting for you to call!
 We knew someone someday would come from Cork or auld Donegal
+ [D]   i[E    D   E] i[G  E  G] o[A G A] oD8   [B] Am       [F#] Bn
 From the two hundred million are living now in the whole of the USA
+(slowly)
+[G  A] Em       D          iG8+5        D    (stacato)Am    iE_+E5
 For a mother in Ireland at last we have found a ‘Son in Amerikay’
+
+[] = bridging notes
