@@ -5,7 +5,7 @@ M: 3/4
 L: 1/8
 K: Gmin
 |: G2 GABc|d2 GdBd|c{g}c fedc| 1 BA GAFA :| 2 BA GABc|
-|: d2 cBAG| G2 DF^GA| A2 cBAG | 1 F^G GABc :| 2 G2 GAFA|
+|: d2 dcBA| G2 DF^GA| A2 cBAG | 1 F^G GABc :| 2 G2 GAFA|
 
 Alternate
 |: G2 GABc|d2 (3 GAB}cd|c{g}c fedc| 1 B2 GAFA :| 2 B2 GABc|
@@ -18,6 +18,19 @@ L: 1/8
 K:Gmin
 |: dd Gd fe dc BA GA | A2 Bc ed cB AG G2 :|
 |:DG AB G2 EG AB A2 | FG AB G2 cG BA G2 :|
+
+
+X: 5
+T: Ridée Six Temps
+R: three-two
+M: 3/2
+L: 1/8
+K:Gmin
+d| dG d2 cd | ed cB AG | AB cd cB | Ac BA Gd |
+dG d2 cd | ed cB A2 | AB cd c2 | Ac BA G2||
+dG AB G2 | eG AB G2 | FG AB cB | Ac BA AG | 
+dG AB G2 | eG AB G2 | FG AB cB | Ac BA G2 ||
+
 
 X: 1
 T: Mazurka 
