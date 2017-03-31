@@ -1,19 +1,18 @@
 
-        Bsus(iB8+4) A(iE4)     G(oG5)  D(oD8+5)
+[F#]    Bsus(iB8+4) A(iE4)     G(oG5)  D(oD8+5)
 Come    all ye      lads, draw near by me
-        Bm(oB8+5)   A       G(iD4) D(oD5)
-That    I be        not forsaken
-        Bm(oB5)     A           iD+E4      G(oD4)
-This    day was     lost the    Jeannie C.
-        A(iA8+5)   (Dsus?)    G     oG+D4
-And my  living has been       taken
+        Baug(oB8+6)   A         G(iD4) D(oD5)
+That    I be          not   forsaken
+        Baug(oB8+6)   A         iD+E4      G(oD4)
+This    day was       lost the  Jeannie C.
+        A(iA8+5)            G     oG+D4
+And my  living has been     taken
         A       Dsus(oD5+4)  oD5
 I'll    go to   sea no       more
 
 
-
 Bridge
-Bmsus / G    / A / Bm7 / A7 / A
+Bsus / G    / A / Bm7 / A7 / A
 iB8+4  oB+D4  iA5  oA6  oA7  oA8
 
 
