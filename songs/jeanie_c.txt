@@ -1,20 +1,18 @@
 
         Bsus(iB8+4) A(iE4)     G(oG5)  D(oD8+5)
 Come    all ye      lads, draw near by me
-        Bm(oB8+5)   A       G(iD4) D(oD5)
+
+        Bm(oG8+10)   A(iA8+       G(iD4) D(oD5)
 That    I be        not forsaken
-        Bm(oB5)     A           iD+E4      G(oD4)
+
+        Bm(oG8+10)  A(iE4)      iD+E4      G(oD4)
 This    day was     lost the    Jeannie C.
-        A(iA8+5)   (Dsus?)    G     oG+D4
+
+        A(iA8+5)       G     oG+D4
 And my  living has been       taken
+
         A       Dsus(oD5+4)  oD5
 I'll    go to   sea no       more
-
-
-
-Bridge
-Bmsus / G    / A / Bm7 / A7 / A
-iB8+4  oB+D4  iA5  oA6  oA7  oA8
 
 
 We set out this day in the bright sunrise
@@ -28,6 +26,11 @@ It's been scarce and hard and cruel
 But this day, by God, we sure caught cod,
 And we sang and we laughed like fools
 I'll go to sea no more
+
+Bridge:
+
+Bmsus / G    / A / Bm7 / A7 / A
+iB8+4  oB+D4  iA5  oA6  oA7  oA8
 
 I'll never know what it was we struck
 But strike we did like thunder
@@ -43,6 +46,7 @@ I'll go to sea no more
 
 But no leak I found from bow to hold
 No rock it was that got her
+                              (low G only)
 But what I found made my heart stop cold
 For every seam poured water
 I'll go to sea no more
@@ -52,6 +56,8 @@ That boat was like no other
 My father built her when I was nine
 And named her for my mother
 I'll go to sea no more
+
+(Bridge)
 
 And sure I could have another made
 In the boat shop down in Dover

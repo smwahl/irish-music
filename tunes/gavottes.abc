@@ -1,0 +1,25 @@
+X: 1
+T: Gavotte
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Bmin
+| B2Bd efdf | edec B3A | B2cd efdf| edec B4 |
+|: fgfe def2 | ~e2ed cde2 | B2cd efdf | edec B4 :|
+
+
+T: Gavotte
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Bmin
+| f2gf efdf | (3efg fe d2B2 | f2gf efdf | (3efg fe d2B2 |
+|: f2gf efdc  | (3Bcd ef bafe | (3def gf efdf | edec B3 :|
+
+T: Gavotte
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Bmin
+| f2BB cde2 | fafe d2B2 | f2BB cde2 | fafe d2B2 |
+|: f2BB cde2 | faga faga | d2BB cde2 | fafe d2B2 :|
