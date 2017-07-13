@@ -1,16 +1,17 @@
 
-        Bsus(iB8+4) A(iE4)     G(oG5)  D(oD8+5)
+        Bsus(iB,8+4) A(iE4)     G(oG5)  D(oD8+5)
 Come    all ye      lads, draw near by me
 
-        Bm(oG8+10)   A(iA8+       G(iD4) D(oD5)
+        Bm(oG,8+10)   A(iA,8+5       G(iD4) D(oD5)
 That    I be        not forsaken
 
-        Bm(oG8+10)  A(iE4)      iD+E4      G(oD4)
+        Bm(oG,8+10)  A(iE4)      iD+E4      G(oD4)
 This    day was     lost the    Jeannie C.
 
-        A(iA8+5)       G     oG+D4
+        A(iA8+5)       G     oG,8D4
 And my  living has been       taken
 
+				    (oG5+2)
         A       Dsus(oD5+4)  oD5
 I'll    go to   sea no       more
 
@@ -30,7 +31,7 @@ I'll go to sea no more
 Bridge:
 
 Bmsus / G    / A / Bm7 / A7 / A
-iB8+4  oB+D4  iA5  oA6  oA7  oA8
+iB8+4  oD4  iA5  oA6  oA7  oA8
 
 I'll never know what it was we struck
 But strike we did like thunder

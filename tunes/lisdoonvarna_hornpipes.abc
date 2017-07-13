@@ -1,0 +1,43 @@
+X:1
+T:Lisdoonvarna Hornpipe 1
+R:hornpipe
+C:Trad
+O:Ireland
+W: Collected in Lisdoonvarana, Co. Clare
+M:4/4
+L:1/8
+K:Gmaj
+|: Bc | dedB GAGD | E2E2 D2GA | B2d2 dedB | A4 A2Bc |
+| d2dB G2BG | E2E2 D2GA | B2dB AGAB | G4 G2 :|
+|: Bd | e2ef g2ge | eddB d2Bd | efge edBG | A4 A2Bc |
+| dedB GAGD | E2E2 D2GA | B2dB AGAB | G4 G2 :|
+
+X:2
+T: Lisdoonvarna Hornpipe 2
+R: hornpipe
+A:Clare
+C:Trad
+O: Ireland
+W: Collected in Lisdoonvarana, Co. Clare
+M: 4/4
+L: 1/8
+K: Ador
+|: AG | EAAG A2(3ABc | edef g2ab | aged BedB | A2AE G2ED  |
+|       EAAG A2(3ABc | edef g2ab | aged BedB | A4   A2   :|
+|: Bd | eaab c'2ba   | geef g2ce | aged BedB | A2A2 G2ED  |
+|       EAAG A2(3ABc | edef g2ab | aged BedB | A4   A2   :|
+
+X: 3
+T: The Humours Of Tullycrine (Bobby Casey's)
+R: hornpipe
+O: Ireland
+C: Trad.
+M: 4/4
+L: 1/8
+K: Ador
+ed |: cAAB  c3d  | eaag (3efe dB | cAAc dBGA |  Bdde  dBAG       |
+      EAAB  c3d  | eaag (3efe dB | cAAc dBGB |1 A2A^G A2        :|2 A2 A^G ABcd||
+   |  eaa2  aged | eaa2 aged     | egg2 ged2 |  (3efg fa   gedB  |
+      A^GAB c3d  | eaag (3efe dB | cAAc dBGB |  A2A^G ABcd       |
+      eaag  aged | eaag aged     | eggf ged2 |  (3efg fa   gedB  |
+       A^GAB cBcd | eaag (3efe dB | cAAc dBGB |  A2A^G A2ed      ||
