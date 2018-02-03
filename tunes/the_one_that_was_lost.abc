@@ -1,0 +1,36 @@
+X: 1
+T: The One That Was Lost
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+| f |: edB BAF | E2 D EFA | BAF D2 F |AFA def |
+edB BAF | E2 D EFA | dfb afd |1 e2f g2f :|2 efe e2 ||
+d | Bee efa | baf edB | ~d3 Bdd |AFA dcd |
+Bee efa | baf edB | dfb afd |efe e2 d |
+Bee efa | baf edB | ~d3 Bdd |AFA def |
+{f}g2 e fed | BeB dBA | dfb afd |efe e2 ||
+
+X:2
+T:The Sheep In The Boat
+R:jig
+M:6/8
+L:1/8
+K:Edor
+|:D | B,EF GFE | ~F3 def | edB BAF | AFE FED |
+| BEF G2 A | FEF d2 f | edB {d}BAF | AFE E2  :||
+| A | B2 e ede | fef d2 f | edB BAF | AFE FGA |
+| Bee ede | fef def | edB BAF | AFE EF/2G/2A |
+| B2 e ede | ~f3 d2 f | edB BAF | AFE FED |
+| B,EF GFE | ~F3 def | edB {d}BAF | AFE E2D ||
+
+X: 3
+T: Lost And Found
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:~G3 d3|edB dBA|~G3 dGd|edB AGE|
+~G3 dGG|edB def|gfe dBA|B2e dBA:|
+|:~g3 bge|~f3 afd|~g3 bge|edB GBd|
+gfg bge|f2g aga|bag agf|efg edB:|
