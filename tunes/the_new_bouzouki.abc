@@ -1,0 +1,22 @@
+X: 1
+T: The New Bouzouki
+C: Sean Wahl
+L: 1/8
+M: 4/4
+K: Ddor
+|: "D,no3"cBAE "F/C"FADA     | "D,no3/A"cBAF "G"G2G2   | "D,no3"cBAE "F/C"FABc | "D,no3/A"fed^c     "D,no3"d2d2 :|
+|  "D,no3"Bcde "Gsus2/C"fdec | "G"BcdB       "C/G"c2c2 | "D,no3"Bcde "F/C"fdge | "D,no3/A"fe"C/G"dc "D,no3"d2d2  |
+|  "D,no3"Bcde "Gsus2/C"fdec | "G"BcdB       "C/G"c2c2 | "D,no3"cBAE "F/C"FABc | "D,no3/A"fed^c     "D,no3"d2d2  |
+|  "D,no3"fedg "F/C"fefe     | "D,no3/A"fedB "C/G"c2c2 | "D,no3"fedg "F/C"fedA | "G"Bc"C/G"de       "D,no3"d2d2  |
+|  "D,no3"fedf edgd          | "G"BcdB       "C/G"c2c2 | "D,no3"cBAE "F/C"FABc | "D,no3/A"fed^c     "D,no3"d2d2  |
+X:2
+T:The New Bouzouki
+C:Sean Wahl
+L:1/8
+M:4/4
+K:Edor
+|: "E,no3"dcBF "G/D"GBEB | "E,no3/B"dcBG "A"A2A2 | "E,no3"dcBF "G/D"GBcd | "E,no3/B"gfe^d "E,no3"e2e2 :|
+| "E,no3"cdef "Asus2/D"gefd | "A"cdec "D/A"d2d2 | "E,no3"cdef "G/D"geaf | "E,no3/B"gf"D/A"ed "E,no3"e2e2 |
+| "E,no3"cdef "Asus2/D"gefd | "A"cdec "D/A"d2d2 | "E,no3"dcBF "G/D"GBcd | "E,no3/B"gfe^d "E,no3"e2e2 |
+| "E,no3"gfea "G/D"gfgf | "E,no3/B"gfec "D/A"d2d2 | "E,no3"gfea "G/D"gfeB | "A"cd"D/A"ef "E,no3"e2e2 |
+| "E,no3"gfeg feae | "A"cdec "D/A"d2d2 | "E,no3"dcBF "G/D"GBcd | "E,no3/B"gfe^d "E,no3"e2e2 |

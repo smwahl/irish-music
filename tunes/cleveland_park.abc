@@ -1,0 +1,51 @@
+X: 3
+T: Cleveland Park
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+"Dm" A,DE FED | "Bb" B,DE FED | "G" =B,DE FED | "C" (E/2F/2G)E CDE |
+"Dm" A,DE FED | "Bb" B,DE FED | "C" (E/2F/2G)E CEG | "Am" GFE "Dm" D z2 :|
+"Dm" DFA dAF | "Gm" GAB AFD | "Bb" B,DF A,DF | "A" FED ^CDE |
+"Dm" DFA dAF | "Gm" GAB AFD | "Bb" B,DF A,DF | "A" ED^C "Dm" D3 :|
+
+
+X:4
+T:Cleveland Park
+R:jig
+M:6/8
+L:1/8
+K:Dmin
+A,DE FED | B,DE FED | =B,DE FED  | G2E  FED  |
+A,DE FED | B,DE FED | G2E   C2C  | GFE  D3  :|
+DFA  dAF | GAB  AFD | B,DF  A,DF | B,DF EDC  |
+DFA  dAF | GAB  AFD | B,DF  A,DF | EDC  D3   |
+DFA  dAF | GAB  AFD | B,DF  A,DF | B,DF EDC  |
+A,DE FED | B,DE FED | G2E   C2C  | GFE  D3   |
+
+X:4
+T:Cleveland Park
+R:jig
+M:6/8
+L:1/8
+K:Dmin
+A,DE FED | B,DE FED | =B,DE FED  | G2E  FED  |
+A,DE FED | B,DE FED | G2E   C2C  | GFE  D3  :|
+DFA  dAF | GAB  AFD | B,DF  A,DF | FED ^CDE  |
+DFA  dAF | GAB  AFD | B,DF  A,DF | ED^C  D3   |
+DFA  dAF | GAB  AFD | B,DF  A,DF | FED ^CDE  |
+A,DE FED | B,DE FED | G2E   C2C  | GFE  D3   |
+
+
+X:4
+T:Cleveland Park
+R:jig
+M:6/8
+L:1/8
+K:Dmin
+"D,no3/A"A,DE FED | "Bb"B,DE FED | "G/B"=B,DE FED  | "C"G2E  "G,no3"FED  |
+"D,no3/A"A,DE FED | "Bb"B,DE FED | "C"G2E   "Am"C2C  | "G,no3"G" D/F"F"D/E"E  "D/A"D3  :|
+"D,no3"DFA  dAF | "Gmin"GAB  "D,no3/A"AFD | "Bb"B,DF  "Asus4"A,DF | "Gmin"B,DF "C/G"EDC  |
+"D,no3"DFA  dAF | "Gmin"GAB "D,no3/A" AFD | "Bb"B,DF  "Asus4"A,DF | "C/G"EDC  D3   |
+"D,no3"DFA  dAF | "Gmin"GAB  "D,no3/A"AFD | "Bb"B,DF  "Asus4"A,DF | "Gmin"B,DF "C/G"EDC  
+"D,no3/A"A,DE FED | "Bb"B,DE FED | "C"G2E   "Am"C2C  | "G,no3"G" D/F"F"D/E"E  "D/A"D3 |
