@@ -6,11 +6,53 @@ C:Ryan McKasson
 L:1/8
 M:4/4
 K:Bmin
-|: d2 cB Afed | fBBA B2 de | cAde cAde | c/c/c de cABc | 
-d2 cB Afed | fBBA BAfe | dBde cAde | ef ef dB B2 :| `
+Bc|: d2 cB Afed | fBBA B2 de | cAde cAde | c/c/c de cABc | 
+d2 cB Afed | fBBA BAfe | dBde cAde |1 ef ef dB Bc :|2 `ef ef dB B2||
 B2 dB fdga | fdga fdad | eA A/A/A eA de | A/A/A e dcA A/A/A | 
 B2 dB fdga | faga fdad | eA A/A/A eAde | f2 ef dB B2 | 
 B2 dB fdga | fdga fdef | dAef dAde | cAde cAdc | 
 B2 dB fdga | faga fdad | eA A/A/A eAde | ef ef dB B2 | 
 
+X:2
+T:Eric MacDonald's
+R: reel
+C:Ryan McKasson
+L:1/8
+M:4/4
+K:Bmin
+Bc|: d2 cB AFED | FBBA B2 de | cAde cAde | c/c/c de cABc | 
+d2 cB AFED | FBBA BAFE | DB,DE CA,DE |1 E2 EF DB, Bc :|2 EF EF DB, B,2 ||
+B,2 DB, FDGA | FDGA FDAD | EA, A,/2A,/2A, EA, DE | A,/2A,/2A, E DCA, A,/2A,/2A, | 
+B,2 DB, FDGA | FAGA FDAD | EA, A,/2A,/2A, EA,DE | F2 EF DB, B,2 | 
+B,2 DB, FDGA | FDGA FDef |dAef dAde | cAde cAdc | 
+B2 dB fdga | faga fdad | eA A/A/A eAde | ef ef dB B2 |
 
+
+X:3
+T:Eric MacDonald's
+R: reel
+C:Ryan McKasson
+L:1/8
+M:4/4
+K:Bmin
+Bc|: d2 cB AFED | FBBA B2 de | cAde cAde | c/c/c de cABc | 
+d2 cB AFED | FBBA BAFE | DB,DE CA,DE |1 E2 EF DB, Bc :|2 EF EF DB, B,2 ||
+B,2 DB, FDGA | FDGA FDAD | EA, A,/2A,/2A, EA, DE | A,/2A,/2A, E DCA, A,/2A,/2A, | 
+B,2 DB, FDGA | FAGA FDAD | EA, A,/2A,/2A, EA,DE | F2 EF DB, B,2 | 
+B,2 DB, FDGA | FDGA FDef |dAef dAde | cAde cAEC | 
+B,2 DB, FDGA | FAGA FDAD | EA, A,/2A,/2A, EA,DE | EF EF DB, B,2 |
+
+
+X:4
+T:Eric MacDonald's
+R: reel
+C:Ryan McKasson
+L:1/8
+M:4/4
+K:Bmin
+Bc|: d2 cB AFED | FBBA B2 de | cAde cAde | c/c/c de cABc | 
+d2 cB AFED | FBBA BAFE | DB,DE CA,DE |1 E2 EF DB, Bc :|2 EF EF DB, B,2 ||
+B,2 DB, FDGA | FDGA FDAD | EA, A,/2A,/2A, EA, DE | A,/2A,/2A, E DCA, A,/2A,/2A, | 
+B,2 DB, FDGA | FAGA FDef | dAef dAde | f2 ef dB B2| 
+B,2 DB, FDGA | FDGA FDef |dAef dAde | cAde cAEC | 
+B,2 DB, FDGA | FAGA FDAD | EA, A,/2A,/2A, EA,DE | EF EF DB, B,2 |

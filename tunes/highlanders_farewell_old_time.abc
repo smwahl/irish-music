@@ -1,0 +1,21 @@
+X: 1
+T: Highlander's Farewell
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:{A,}[A,E]4 [A,E]4 | B,A,G,B, A,A,3 | B,A,G,2 A,CDD | GEDD EA3 |
+|[A,E]4 [A,E]4 | B,A,G,2 A,B,3 | A,CDG EFGE | EDB,G, A,4 :|
+|: ea2 ea2 ba | ggag ed [Dd]2 | e3 de2 ef | gedB AG [G,G] |
+| ea2 ea2 ba | ggag ed [Dd]2 | e3 e efge | edBG A4 :|
+
+X: 2
+T: Highlander's Farewell
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:{A,}[A,E]4 [A,E]4 | B,A,G,B, A,A,3 | B,A,G,B, A,B,CD | GEDG EA3 |
+|[A,E]4 [A,E]4 | B,A,G,2 {A,}B,4 | A,BCD EFGE | EDB,G, A,4 :|
+|: ea2 a3 ba | g2ag ed [Dd]2 | e3 d edef | gedB AG [G,G] |
+| ea2 e eaba | g2ag ed [Dd]2 | e3 d efge | edBG A4 :|

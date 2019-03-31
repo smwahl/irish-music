@@ -29,9 +29,9 @@ And the bee that flew when summer shone in winter cannot sting
 And I've seen a woman's anger melt between the night and the morn
 So it's surely not a harder thing to melt a woman's scorn
 
-So don't you bid me farewell here, no farewell I'll receive
-For you will lie with me, my lass, then you kiss and take your leave
-And I'll wait here till the moorcock calls and the martin takes the wing
+So send me no farewell here, no farewell I'll receive
+For you shall set me to the stile, then kiss and take your leave
+And I'll wait here till the moorcock calls and the martlet takes the wing
         iB,4+7    oD4       oG4     iC,8+12  iB,8+4  oD4      iE5     
 For the snows they melt the soonest when the winds   begin to sing
 
@@ -48,3 +48,40 @@ EF | G2 B2 B3 c | d2 B4 BA | G2 E2 E3 F | E6 EF |
 G2 B2 B3 c | d6 ed | c2 A2 B2 ^G2 | A6 EF |
 G2 B2 B3 c | d2 d4 ed | c2 A2 A2 c2 | d4 =c4 |
 B2 E2 G3 A | B=c d2 c2 BA | B2 E2 E3 D | E8 |
+
+So don't you bid me farewell here, no farewell I'll receive
+For you will lie with me, my lass, then you kiss and take your leave
+And I'll wait here till the moorcock calls and the martin takes the wing
+        iB,4+7    oD4       oG4     iC,8+12  iB,8+4  oD4      iE5     
+For the snows they melt the soonest when the winds   begin to sing
+
+
+     Dmod               Bbsus    Gm       Dm/A  C/G     Dmod
+The snows they melt the soonest when the winda begin to sing
+    Dm                G/C  Gmod                Gmod+F#  Gmod
+The corn it ripens fastest when the frosts are settling in
+    Dm           G/C       Gmod    G+B  G+A   G+B   Fsus  Bb
+And when a lover tells me that my face she'll soon forget
+   Dm     G/C        Bbsus  Gm           Dm/A     C/G     Dmod 
+
+
+Before we part, I'll wage a crown, she's fain to follow it yet
+
+Dmod   7000
+Bbsus  3300
+Gmin   0010
+Dm/A   2300
+C/G    0230
+
+Dm     7090
+G/C    5050
+Gmod   0550
+Gmod+F# 0450
+
+G+B    0520 
+G+A    0500
+Fsus   3030
+Bb     3010
+  
+
+

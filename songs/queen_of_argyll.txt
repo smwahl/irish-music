@@ -1,10 +1,11 @@
-      Dm                C G C      Dm              Am      C G C
+
+      Dno3              C G C      Dno3                  C G C
 Gentle men it is my duty      To inform you of one beauty
-            Dm           Am          F           (G) Am       
+            Dno3,A      Ano3          F,C            Am       
 Though I'd ask you of a favor, no to seek her for awhile
-         Dm                   C G C   Dm                   C G C
+         Dno3                 C G C   Dno3,A         Am
 Though I own she is a creature     Of character and feature
-   Dm        Bb        F          (G)  Am             Dm
+    Bb                 F              Ano3          Dno3
 No words can paint the picture of the Queen of all Argyll
 
 CHORUS (Same chord progression)
@@ -32,3 +33,12 @@ I must find some way to gain her, to court her and to tame her
 I fear my heart's in danger from the Queen of all Argyll
 
 CHORUS (do it twice or so)
+
+Dno3	7 0 0 0              
+C 	X 2 3 0
+G       0 0 2 0
+Dno3,A  2 0 0 0     
+Ano3    2 2 0 2        
+F,C     5 3 3 3           
+Am	2 2 3 2
+Bb      3 3 1 0            

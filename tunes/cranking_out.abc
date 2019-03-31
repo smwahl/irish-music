@@ -1,0 +1,34 @@
+
+
+X: 2
+T: Cranking Out
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+D2 AD BDAD|(3FED AD BcGE|(3FED AD BDAB|ccAc EcGE|
+D2 AD BDAD|(3FED AD BcGE|(3FED AD BDAB|ccGE DEGg|
+fdAd FADg|fdAB cGEg|fdAd FADB|cBcG EDEg|
+fdAd FADg|fdAB cGEg|fdAd FADB|cBcG EDEC`|
+
+
+X: 2
+T: Cranking Out transition m                                     
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+cBcG EDE^c|: dAFA DAF^c | dAFB =cGE^c | dAFA DAFB | =cBcG ECC^c :|
+Add^c AB=cd | 
+
+X: 3
+T: Tucking in                                    
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+^c|: dAFA DAF^c | dAFB =cGE^c | dAFA DAFB | =cBcG ECC^c :|
+| Ad^cd AFED | Ad^cd AB=cG | Ad^cd AFED | _B,A,B,C DCDE | 
+| Ad^cd AFED | Ad^cd AB=c^c | Ad^cd AFED | _B,A,B,D ECC^c|
+|: dagf eAB^c | dagf e=cG^c | dagf e=cGE | DEFG ABc^c :|
+|: dafa fed^c | dafa AB=c^c | dafa daf=c |1 _BABc dcde :|2 _BABd ecc^c|

@@ -1,0 +1,25 @@
+X: 1
+T: Tucking in                                    
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+C: Sean Wahl
+^c|: dAFA DAF^c | dAFB =cGE^c | dAFA DAFB | =cBcG ECC^c :|
+| Ad^cd AFED | Ad^cd AB=cG | Ad^cd AFED | _B,A,B,C DCDE | 
+| Ad^cd AFED | Ad^cd AB=c^c | Ad^cd AFED | _B,A,B,D ECC^c|
+|: dagf eAB^c | dagf e=cG^c | dagf e=cGE | DEFG ABc^c :|
+|: dafa fed^c | dafa AB=c^c | dafa daf=c |1 _BABc dcde :|2 _BABd ecc^c|
+
+X: 2
+T: Tucking in                                    
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+C: Sean Wahl
+^c|: "Dm" dAFA DAF^c | dAFB "C" =cG"(C#)"E^c | "Dm" dAFA DAFB | "Gm" =cBcG "C" ECC^c :|
+| "Dm" Ad^cd AFED | Ad^cd "C" AB"(C#)"=cG | "Dm" Ad^cd AFED | "Bb" _B,A,B,C "C" DCDE | 
+| "Dm"Ad^cd AFED | Ad^cd "C" AB"(C#)"=c^c |"Dm" Ad^cd AFED | "Gm"_B,A,B,D "C"ECC^c|
+|: "Dm"dagf "C"eAB^c | "Dm"dagf "Am"e=cG^c | "Dm"dagf "C"e=cGE | "Bb"DEFG "C"AB"(C#)"c^c :|
+|: "Dm"dafa "F"fed^c | "Dm"dafa "C"AB"(C#)"=c^c | "Dm"dafa "F"daf=c |1 "Bb"_BABc "C"dcde :|2 "Gm"_BABd "C"ecc^c|

@@ -1,0 +1,19 @@
+X:1
+T: Sweet Dreams
+R: reel
+M: 4/4
+L: 1/8
+K: Cmin
+|: CC cc EeCc| A,A, Ac G,GBc | CC cc EeCc | A,A, Ac G,GBc :|
+| "Ab" A,z A,A, zA,A,A,| "G" G,z G,G, zG,G,G,| "Cmin" Cz CC zCCC| "Fmin"F,z F,F, zF,F,F,|
+| "Ab"A,z A,A, zA,A,A, | "G"G,z G,G, zG,G,G, |
+
+X:1
+T:Sweet Dreams
+R:reel
+M:4/4
+L:1/8
+K:Dmin
+|: DD dd FfDd| B,B, Bd A,Acd | DD dd FfDd | B,B, Bd A,Acd :|
+| "Bb" B,z B,B, zB,B,B,| "A" A,z A,A, zA,A,A,| "Dmin" Dz DD zDDD| "Gmin"G,z G,G, zG,G,G,|
+| "Bb"B,z B,B, zB,B,B, | "A"A,z A,A, zA,A,A, |

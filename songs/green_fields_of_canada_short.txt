@@ -8,7 +8,7 @@ May their hearts be as merry as e'er I would wish them
      C        G (oD4)         D(iD5) (iD4)  iD54                 (substitute dmin for C?) **note D4/G equivalent here
 When far, far away across the ocean I'm bound
 
-      D(oD5)    F(oF3(+5))    G(iD4)     D                 (Pattern 2)
+      D(iD5)    F(oF3(+5))    G(iD4)     D                 (Pattern 2)
 Oh my father is old and my mother quite feeble
    D               F(oF3)       G                    D Dsus4
 To leave their own country it grieves their hearts sore
@@ -17,7 +17,7 @@ Oh the tears in great drops down their cheeks they are rolling
    C               G (oD4)        D(iD5)   (iD4)   (iD)      
 To think they must die upon some (far and) foreign shore
 
-         D(OD5)          F           G             D        (Pattern 2)
+         D(iD5)          F           G             D        (Pattern 2)
 But what matters to me where my bones may lie buried
       D          F                G        D  Dsus4 
 If in peace and contentment I can spend my life

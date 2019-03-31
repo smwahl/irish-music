@@ -1,0 +1,27 @@
+X: 6
+T: The Maids Of Mitchelstown
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|D2 AG EG G2| A2 GA cAGE|D2 AG EG G2|Ac GE EDDC|
+DAAG EG G2| A2 GA cAGE|DAAG EG G2|Ac GE EDDG||
+|(3EFG AB c2 AG|Adde =f2 ed|cAGE =F3G|(3ABc GE EDDG|
+|(3EFG AB c2 AG|Adde =f2 ed|cAGE =F3G|(3ABc Bd cAGE||
+
+X: 6
+T: The Maids Of Mitchelstown
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|"Dmod"D2 AG EG G2| A2 GA "C2"cAGE|"Dmod"D2 AG EG G2|"C1"Ac GE "Gsus"EDDC|
+"Dmod"DAAG EG G2| "C2"A2 GA cAGE|"Bb"DAAG EG G2|"C1"Ac GE "Gsus"EDDG||
+|"Dmod"(3EFG AB "C2"c2 AG|"Dmod/A"Adde "F/A"=f2 ed|"C2"cAGE "Dm/A"=F3G|(3ABc GE EDDG|
+|"Dmod"(3EFG AB "C2"c2 AG"Dmod/A"|Adde =f2 ed|cAGE =F3G|(3ABc Bd cAGE||
+
+C1 0230
+C2 5530
+Gsus 0530
+Bb 3010
+F/A 2333 or 2303

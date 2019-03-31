@@ -8,7 +8,7 @@ K: Dmix
 FDFG A2 fe | d^cde fdAF | [M: 2/4] GAGF | [M: 4/4] D2 D2 D2- :|
 | de |fede fdfg | a2 ag fgaf | g2 gf gbaf | gagf d3 g |
 fede fefg | abag fgaf | gagf d2 d2 | defg a2ag |
-fgaf g2ge | f3 e dcAB | cBcd efge | a4 A2 AG |
+fgaf g2ge | =f3 e dcAB | cBcd efge | a4 A2 AG |
 FGAB cBce | dcAF GAGF | D2 D2 D2- ||
 
 
@@ -38,3 +38,21 @@ FDFG A2 fe | d^cde fdAF | [M: 2/4] GAGF | [M: 4/4] D2 D2 D2- :|
 f2 de fefg | abag fgaf | gagf d2 d2 | defg abag |
 fgaf gage | f3 e dcAB | cBcd efge | a4 A2 AG |
 FGAB cBce | dcAF GAGF | D2 D2 D2- :|
+
+
+
+
+X: 3
+T: The Blackbird
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmix
+dc | B2    d2   c2 B2 | A2    AG   ABcA     | d^cde d=cAF       | GAGF D2 DE             |
+   | FDFG  A2   fe    | d^cde fdAF          | [M:   2/4]  GAGF  | [M:  4/4] D2 D2 D2-dc  |
+   | B2-B2 c2   B2    | AG    FG   AB (3cBA | d^cde d=cAF       | GAGF D2 DE             |
+   | FDFG  A2   (3gfe | d^cde fdAF          | [M:   2/4]  GAGF  | [M:  4/4] D2 D2 D2-   ||
+de | fede  fdfg       | a2    ag   fgaf     | g2    gf    gbaf  | gagf d3 g              |
+   | fede  fefg       | abag  fgaf          | gagf  d2    d2    | defg a2ag              |
+   | fgaf  g2ge       | =f3   e    dcAB     | cBcd  ef (3gfe        | a4   A2 AG             |
+   | FGAB  cBce       | dcAF  GAGF          | D2    D2    D2-  ||

@@ -1,0 +1,51 @@
+X: 1
+T: Snake In The Cupboard
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+"Bm" BBf fed | "A" efe edc | "G" B2f fed | "Em" gfg fed |
+"Bm" B2f fed | "A" efe edc | "G" BBf fef |1 "Em" afa fdA :|2 "Em" a3 fdA |
+|: "Bm" ABc dcd | efe edA | "F#m" Bcd edc | fgf edc |
+"Bm" cde edc | gfe fed | "A" cde cde | "G" cde aec :|
+|: "Bm" FGF FDD | "G" FGF FDD | "Em" EFE EFG| "G" AGF FDD
+|1 "Bm" FGF FDD | "G" FGF FDD | "Em" EFE EFG | FGA Bcf :|
+|2 "Em" EFE EFG | FGA Bcf | "G" gaf gef | "A" ded fed |
+
+X: 2
+T: Snake In The Cupboard
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+B2f fed |efe edc |B2f fef |g3 fed|
+B2f fed |efe edc |efe edc |a3 fed :|
+ABc dcd |edc dcA |Bcd ede|fed edc|
+cde fed |gfe fed |cde cde |cde afd :|
+FGF FDD |FGF FDD |EFE EFG| AGF FDD|
+FGF FDD | FGF FDD| EFE EFG| FGA Bcf :|
+X: 2
+T: Snake In The Cupboard
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+B2f fed |efe edc |B2f fef |g3 fed|
+B2f fed |efe edc |efe edc |a3 edc :|
+ABc dcd |edc dcA |Bcd ede|fed edc|
+cde fed |gfe fed |cde cde |cde aec :|
+FGF FDD |FGF FDD |EFE EFG| AGF FDD|
+FGF FDD | FGF FDD| EFE EFG| FGA Bcf :|
+X: 3
+T: Snake In The Cupboard (from recording)
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+B2f fed |efe edc |B2f fef |g3 fed|
+B2f fed |efe edc |B2f fef |a3 fed :|
+ABc dcd |edc dcA |Bcd ede|fed edc|
+cde fed |gfe fed |cde cde |1 cde aec :|2 cde a3 ||
+FGF FDD |FGF FDD |EFE EFG| AGF FDD|
+|1 FGF FDD | FGF FDD| EFE EFG| ABd f3 :|
+|2 EFE EFG | ABd fdd| gaf gdB| efd cBA ||
