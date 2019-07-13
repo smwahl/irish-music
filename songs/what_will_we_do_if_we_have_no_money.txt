@@ -1,45 +1,61 @@
-A,o
+
+Bmix
+
+B drone
 What will we do when we have no money?
-A,i                             A,ei           
 Oh true lovers what will we do then?
-     A,ao
 Only hawk through the town for a hungry crown,
-          A,ei           A,i
+          B3out    B3in  Bout 
 And we'll yodel it over again.
 
-
-A,o
+B8out                     B9in    B10out
 And what will we do if we marry a sailor?
-A,i      A,c#i                   A,f#o
+B8in              B8out        B6in 
 Oh true lovers what will we do then?
-     A,ai                        A,c#i       A,F#o
+B8out            B8in           B10out        B5out
 Only sail on his ships and we'll play on his lips,
-          A,Ei     A,Di  A,i
+          B3out    B3in  Bout 
 And we'll yodel it over again.
 
 
 And what will we do if we marry a soldier?
 Oh true lovers what will we do then?
-Only handle his gun and we'll fight for the fun,
+Only handle his   gun and we'll fight for the fun,
 And we'll yodel it over again.
 
+B8out                     B9in     B10out
 And what will we do if we marry a tinker?
+B+(bout  g#in   f#out  D#in) B8out      B6in
 Oh true lovers what will we do then?
-Only mend a tin can and walk on with me man,
+  B+(bout   g#in f#out   C#in  D#in) B8out   B5out
+Only mend a tin  can and walk on with me man,
 And we'll yodel it over again.
-
 
 And what will we do if we have a young daughter?
 Oh true lovers what will we do then?
 Only throw her on our back and walk on for the craic,
 And we'll yodel it over again.
 
-A,c#ei                             A,Aeo
+B8out                  B10out
 So what will we do when we have no money?
-        A,B,Ei                 A,DF#o
 Oh true lovers what will we do then?
-A,c#ei                                  A,DAo
 Only hawk through the town for a hungry crown,
-          A,E     A,D      A,E
+          B3out    B3in  Bout 
 And we'll yodel it over again.
 
+
+
+
+
+
+
+
+And we'll yodel it over again.
+G8out                     G8in
+And what will we do if we marry a sailor?
+G10out              G8out      G6in 
+Oh true lovers what will we do then?
+G12out          B10out          B8in        B5in
+Only sail on his ships and we'll play on his lips,
+          G3out    G3in  Gout 
+And we'll yodel it over again.

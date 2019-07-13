@@ -1,0 +1,29 @@
+X: 1
+T: Gavotte des Montagnes (1)
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Dmin
+| d^cde fed^c | defe dAd2 | d2de fed^c | defe d2d2 ||
+|: a2ef gefe | defd gfe2 | a/a/a ef gefe | ded^c d2d2 :| 
+| D2DE FED^C | DEFE D^CD2 | D^CDE FED^C | DEFE D2D2 ||
+| (3ABA EF GEFE | DEFD GFE2 | A/2A/2A EF GEFE | DED^C D2D2 | 
+|a2ef gefe | defd gfe2 | a/a/a ef gefe | ded^c d2d2 ||  
+
+X: 2
+T: Gavotte des Montagnes (2)
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Bmin
+| e2dB cAFE | FAcd B2B2 | e2dB cAFE | FAcd B2B2 ||
+|: fegg fede | fegf efd2 | efdB cAFE | FAcd B2B2 :|
+
+X: 3
+T: Gavotte des Montagnes (3)
+R: Gavotte
+M: 4/4
+L: 1/8
+K: Bmin
+| Bcde fgfe | (3dcB dc B2 B2| Bcde fgfe | (3dcB dc B2 B2 ||
+|: Bcde fgaf | fgef D2 D2 |  Bcde fgfe | (3dcB dc B2 B2 :| 

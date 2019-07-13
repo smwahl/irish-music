@@ -6,10 +6,10 @@ Q:1/4=80
 M:4/4
 K:D
 B{^c}B | [M:4/4] E2   EF G3    A | B<e e4 ef      | e2{f} ed B3   A    | B>c  d6          |
-         e3      E    E3 E/F/    | G3  F  G/A/ B3 | A2    F  E3   D2   | E/E/ E6 B       :|
+         e3      E    E3 E/F/    | G3  F  G/A/ HB3 | A2    F  E3   HD2   | E/E/ E6 B       :|
          e2      e/f/ e3 de/f/   | g3  f  e>d  B2 | .AB/  B4 z3/2 B/c/ | d3   c  d3 c/d/  |  e4 d B2 A | G2 .AB/ B3 B/B |
          E2      EF   G3 A       | B<e e4 ef      | e2{f} ed B3   A    | B>c  d6          |
-         e3      E    E3 E/F/    | G3  F  G/A/ B3 | A2    F  E3   D2   | E/E/ E6 z        |]
+         e3      E    E3 E/F/    | G3  F  G/A/ HB3 | A2    F  E3   HD2   | E/E/ E6 z        |]
 
 X:1
 T:Song of the Books
@@ -23,3 +23,5 @@ B{^c}B | [M:4/4] "B,4in"E2   EF "D4out"G3    A | B<e "B4out"e4 ef      | "B4out"
         "A,in"d3   c  "Din"d3 c/d/  |  "E8in"e4 d "G3out"B2 A | "D4in"G2 .AB/ "B,5out"B3 B/B |
         "B,4in"E2   EF "D4out"G3    A | B<e "B4out"e4 ef      | "B4out"e2{f} ed "G3in"B3   A    | "Din" B>c  d6          |
          e3      "B,4in"E    E3 E/F/    | "D4out"G3  F  G/A/ "E5in"B3 | "D5out"A2    F  "B,4in"E3   "A,4out"D2   | "E,8in"E/E/ E6 B ||    
+
+

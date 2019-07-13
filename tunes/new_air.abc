@@ -43,3 +43,16 @@ F2 F2 E<A | G<F E2 E<F | A,2 A,2 A,<C |1 B,2 B,2 C<E :|2 B,2 B,2 F>E ||
 G2 B,2 A>F| G2 G,2 B,<D | F2 F2 G<F | E2 E2 F>E | 
 D2 A,2 F>D | E2 A,2 A,<B, | C2 F2 F2 | F<E E2 E<F | 
 C2 C2 C<F | A,2 A,2 A,<C | C<B, B,2 B,2 | B,6 ||
+
+X: 1
+T: The New Air
+M: 3/4
+L: 1/8
+K: Amix
+C: MAC
+c<e|: "B,5out"f2 f2 e<a | "F#3out"g<f e2 e<f | "E4in"A2 AB c<e | "Ein"e2 c2 c<e | 
+"B,5out"f2 f2 e<a | "F#3out"g<f e2 e<f | "E4in"A2 A2 A<c |1 "B,8out"B2 B2 c<e :|2 B2 B2 f>e ||
+| "Din"d2 A2 f>d | "A,out"e2 A2 f>e | "B,in" d2 B2 G2 | "A,out"A2 A2 e>f | 
+"B,in"g2 B2 a>f| "Din"g2 G2 B<d | "F#3out"f2 f2 g<f | "E4in"e2 e2 f>e | 
+"Din"d2 A2 f>d | "A,out"e2 A2 A<B | "C#in"c2 "F#out"f2 f2 | "F#out"f<e e2 e<f | 
+"C#3in"c2 c2 c<f | "A,out"A2 A2 A<c | "B,8in" c<B B2 B2 | B6 ||
