@@ -1,4 +1,4 @@
-(D harmonic Minor)
+﻿(D harmonic Minor)
 D
 Oh those who died for liberty
 D
@@ -11,7 +11,7 @@ Have died but for a dream
 Oh rise, rise, rise, Dark horse on the wind
     DAin  DGin          DEAin
 For in no nation on the earth
-     Bb,Dout C#Din         A,Dout 
+     Bb,Dout        C#Din  A,Dout 
 More broken  hearts you'll find. 
 
 Dout              DF            DA     Dd

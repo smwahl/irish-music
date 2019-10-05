@@ -1,0 +1,60 @@
+X: 1
+T: Glengarry's Dirk
+R: strathspey
+M: 4/4
+L: 1/8
+K: Cmaj
+G<EE>D C>EG>A|G<EEe d<c A2|G<EE>D C>EGc|e>dc<A G<E D2:|
+E<Gc<G A<Gc<G|E<Gc<G A<GE{GE}D|E<Gc<G A<Gcd|e>dc<A G<E D2|
+E<Gc<G A<Gc<G|E<Gce ge f2|a<c'g>e f>de>c|d>Bc>A G<E D2||
+
+
+X:1
+T:The Old Time Wedding
+R:reel
+M:4/4
+L:1/8
+K:Gdor
+A|GFDF GFDF|B2BG F3A|G2 Bc dcBA|GABc d2 df|
+gagf dfcA|BGFG B3c|dcBG FDBD|C2 DF G3:|
+f|gfdf gfdg|fdcd f3a|gfdg fadc|BGBc d2 df|
+gagf dfcA|BGFG B3c|dcBG FDBD|C2 DF G3:|
+
+X: 2
+T: Harris Dance
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+c2 ge g2 a2 | g2 eg geed | c2 ge g2 a2 | gede AA A2 :|
+e2 dc A2 GG | e2 dc AAAG | e2 dc A2 GG | cdcA GG G2 :|
+
+X:2
+T:The Periwig
+R:reel
+M:4/4
+L:1/8
+K:Dmin
+~f3a gfeg|fedf cA~A2|~f3a gfeg|1 fdec d3e:|2 fdec d3f||
+|:cA~A2 cAAf|cAAG FDDf|cA~A2 cAAg|1 fdec d3f:|2 fdec d3e||
+
+
+
+X:2
+T:The Periwig
+R:reel
+M:4/4
+L:1/8
+K:Dmin
+~f3a gfeg|fedf cA~A2|~f3a gfeg|1 fde^c d3e:|2 fde^c d3f||
+|:cA~A2 cAAf|dAAG FDDf|cA~A2 cAAg|1 fde^c d3f:|2 fde^c d3e||
+
+
+X:1
+T:The Periwig
+R:reel
+M:4/4
+L:1/8
+K:Dmin
+|:"Dm"f2ef "Am"gfeg|fdef "Dm"cA~A2|f2ef "Am"gfeg|1fdec "Dm"~d3e:|2fdec "Dm"~d3f||
+|:"F"cA~A2 cFAc|cFAc "C"BGGd|"F"cA~A2 cdec|1"Bb"~f2 ec "C"dgfd:|2"Bb"~f2 ec "C"dcde||
