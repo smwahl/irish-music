@@ -52,14 +52,26 @@ Bit A ne'er took it ill bein caad Erin-go-Bragh
 
 
 Gdor
+
+Intro/interlude:
+
+53320 00000 0
+55333 53310 2
+XXXXX 55333 3
+XXXXX XXXXX X
+
+53320 00000 0
+55333 53333 0
+XXXXX 55320 0
+XXXXX XXXX3 2
    
-   G               (C)              F       G
+   G                              F       G
 Ma name's Duncan Campbell fae the shire o Argyll
-     G               (C)        F           G
+     G                          C      F    G
 A've traivellt this country for mony's the mile
-     G               (C)      F        C
-A've traivellt thro Irelan, Scotlan an aa
-       G         F             D       G 
+     G                       F     (Bb) C
+A've traivellt thro Irelan, Scotlan an  aa
+       G         F       (Eb)  D       G 
 An the name A go under's bauld Erin-go-Bragh
 
 
