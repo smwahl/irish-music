@@ -1,36 +1,79 @@
 
 Do casadh cailín deas orm in uaigneas na dtrá,
-duh kah-suh kuhleen dus o-oruhm in oyginniss na draa
+duh kah-soh kahleen duhs o-orohm in oig-geniss na drah
 
 Ar lúb na coille s'glaise uair a bheag roim lá:
-Air lu-ib na kwilyeh sklisheh oo-air-eh vheal glim lah 
+Air loo-ib na kwil-eh sklish-eh oo-air-eh vhee-uhl-'grim lah 
 
 Sé'n fhreagar’ ó a thug sí liom go ciúin agus go tláth:
-sheh-in rhagur-och ohg shee loo-ohm goh kewn ah-goos goh t-lah
+shei-in rhagur-ohk' ohg shee loo-uhm goh kewn ah-goos goh t-lah
 
 Tá an saol ‘na gcoladh, is bogaimís an súisín bán.
+tah en sail na gull-lah, ees bog-oo-ihm-meesh ahn soo-sheen bawn.
+
+
+(Chorus)
 
 ‘S má bhíonn tú liom bí liom, a stóirín mo chroí,
+Smah-ah vee-en  too loo-uhm bee loo-uhm, ah stoh-ohreen moh' khree 
+
 ‘S má bhíonn tú liom bí liom os comhair a’ tí,
+Smah-ah vee-en  too loo-uhm bee loo-uhm-uhs koh-hoh-air tee,
+
 Má bhíonn tú liom, ‘s gur liom gach órlach ded’ chroí,
+Ma-ah vee-en too loo-uhm,  skgur loo-uhm guh' oar-lohk deh' khree
+
 ‘Sé mo mhíle chnoc nách liom Dé Domhnaigh tú mar mhnaoi.
+Shei moh vee-leh  knook nah'-ah-loohm dei doh-nick too mar vhnee
+
 
 Ó do bhíos seal im’ bhuachaill éadrom mhear ghroí,
-‘S do bhíosa sheal agus d’imireoinn cárta le mnaoi
-Ó do bhíosa seal agus d'imireoinn cúig nó thrí-
-Chun gur dhein a bhean so leongó liúngó dhom chroí.
+Oh duh vhees soh-haol ihm-muh  vwooh'-huhl  lei-trum vhar gree
 
-'S má bhíonn tú liom bí liom, a stóirín mo chroí,
-'S má bhíonn tú liom bí liom os comhair a' tí,
-Má bhíonn tú liom, 's gur liom gach órlach ded' chroí,
-'Sé mo mhíle chnoc nách liom Dé Domhnaigh tú mar mhnaoi.
+‘S do bhíosa sheal agus d’imireoinn cárta le mnaoi 
+stuh  vhee-sah haol ah-goos dih-mei-roh-in cart lehm-nee
+
+Ó do bhíosa seal agus d'imireoinn cúig nó thrí-
+Oh duh vhees sohl-haol ah-goos dih-mei-roh-in  koog-glei noh 'tree
+
+Chun gur dhein a bhean so leongó liúngó dhom chroí.
+koon-'guhr yhin ah van soh-hoal laon-goh lew-ehn goh-'huhm khree
+
+
+(Chorus)
+
 
 'S a Dhia na bhFeart, cad do chas ins a' dúthaigh seo mé?
-Fé chlócaíbh dearga i bhfad óm' cháirdibh gael?
-Ó do chuas isteach mar a raibh searc agus dian-ghrá mo chléibh,
-'S chuir an t-seanbhean amach ag casadh an tsúgáin mé.
+Seh eh hee-ah neh b-fahr, cah' doh hahs-sen doo-hee sao mee
 
-'S má bhíonn tú liom bí liom, a stóirín mo chroí,
-'S má bhíonn tú liom bí liom os comhair a' tí,
-Má bhíonn tú liom, 's gur liom gach órlach ded' chroí,
-'Sé mo mhíle chnoc nách liom Dé Domhnaigh tú mar mhnaoi.
+Fé chlócaíbh dearga i bhfad óm' cháirdibh gael?
+fei chloch'-eiv dar-gah eh-vahd ohm haor-ao-div gail 
+
+Ó do chuas isteach mar a raibh searc agus dian-ghrá mo chléibh,
+Oh duh hoo-ah ish-tock mar ah rehv-hark ah-goos dee-an-'grah mohsh-gleiv 
+
+'S chuir an t-seanbhean amach ag casadh an tsúgáin mé.
+'hwair ehn ten-eh-vhen eh-mahk eig-eh kah-sahn too-gah-in mei
+
+
+(Chorus)
+
+
+
+Harmonium (G drone)
+
+	D6       +4  D4   C35    B_36        G_46   
+Do casadh cailín deas orm in uaigneas na dtrá,
+duh kah-soh kahleen duhs o-orohm in oig-geniss na drah
+
+   D4      D5          D6        D7     (E6) G_5
+Ar lúb na coille s'glaise uair a bheag roim lá:
+Air loo-ib na kwil-eh sklish-eh oo-air-eh vhee-uhl-'grim lah 
+
+	 C5        D4  C35     B_36    C5    B_6     A_7       A_4
+Sé'n fhreagar’ ó a thug sí liom go ciúin agus go tláth:
+shei-in rhagur-ohk' ohg shee loo-uhm goh kewn ah-goos goh t-lah
+
+      G_5      A_4         B_3         C2  (C3) G_5
+Tá an saol ‘na gcoladh, is bogaimís an súisín bán.
+tah en sail na gull-lah, ees bog-oo-ihm-meesh ahn soo-sheen bawn.

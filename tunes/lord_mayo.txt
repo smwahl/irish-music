@@ -1,0 +1,33 @@
+X: 6
+T: Lord Mayo
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|:E|AG AB|e2 e/d/B/d/|e2 AB/A/|G/A/G/F/ EE|
+AG AB|e2 gg/f/|e2 e/d/B/G/|A2 z :||
+|:e|~a2 g/e/g/a/|b>b b/a/g|ed d/e/g|G>A GE|
+~a2 g/e/g/a/|b>b d'/b/a/g/|ed d/e/g|a3e|
+~a2 g/e/g/a/|b>b b/a/g|ed d/e/g|G>A GE|
+A/G/A/B/ dB|AG g>e|d2 B/d/B/G/|A2z||
+
+
+T: Chanter's Song
+R: polka
+M: 2/4
+L: 1/8
+K: Dmix
+DD AG/E/|DD cB/c/|dA AG/E/|cB/c/ AG/E/|
+DD AG/E/|DD cB/c/|dA AG/E/|D2 D2:|
+|:A>B cB/c/|A/G/A/B/ cB/c/|dA AG/E/|cB/c/ AG/E/|
+DD AG/E/|DD cB/c/|dA AG/E/|D2 D2:|
+X:1
+T:Chanter's Song
+R:polka
+M:2/4
+L:1/8
+K:Amix
+AA ed/B/|AA gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|
+|:e>f gf/g/|e/d/e/f/ gf/g/|ae ed/B/|gf/g/ ed/B/|
+AA ed/B/|AA gf/g/|ae ed/B/|A2 A2:|X: 1
