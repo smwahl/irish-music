@@ -1,0 +1,98 @@
+X: 1
+T: Beanfield
+R: bourrée 
+M: 2/4
+L: 1/8
+K: Gdor
+|:Gd dG|ee Gf|g>f eB|a>g fB|
+Gd dG|ee Gf|g>f eB|A2 A2:|
+K:Gmaj
+|:dB Be|cc fd|dg ee|a>g fA|
+dB Be|cc fd|dg e>d|c2 c2:|
+
+
+X: 1
+T: Monster Cafe 1(Transcription)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gdor
+G B/c/|: dc BA | ^FD F A/B/ | cB A/G/A/B/ | fe dc | 
+dc BA | ^FD F A/B/ | cB AG |1 cB A B/c/ :|2 cB Ac | 
+|: d2 d2 | d c2 d | f d2 f| d3 c/d/ | 
+_ed cB | A3 c |1 AA GA  | G/^F/G/A/ B/A/B/c/ :|2 A/c/B/A/ G^F | G2 ||
+
+
+X: 1
+T: Monster Cafe 1(tunebook version)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gdor
+|: dc BA | ^F2 A/F/A/B/ | cG Bd | fe dA | 
+dc BA | ^F2 A/F/A/B/ | cB AG | cB AG :| 
+K: Gmin 
+|: d2 d2 | d c2 d | f2 f2| f d2 d | 
+ed cB | A2 dc | BAGA  |1 G>A BG:|2  G4 || 
+
+
+X: 1
+T: Monster Cafe 1 (final simple)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gdor
+|: dc BA | ^F2 A/F/A/B/ | cG Bd | fe dA | 
+dc BA | ^FD F /A/B/ | cB AG | cB AG :|
+K: Gmin 
+|: d2 d2 | d c2 d |  f d2 f| d3 c/d/ | 
+ed cB | A3 d/c/ |1 BA GA  | G>A BA:|2 BA GA | G4 ||
+
+X: 1
+T: Monster Cafe 1(final)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gdor
+GB/c/|: dc BA | ^FD F A/B/ | cG B/G/B/d/ | fe dA | 
+dc BA | ^FD F /A/B/ | cB AG  |1 cB A B/c/ :|2 cB AG |
+K: Gmin 
+|: d2 d2 | d c2 d | f d2 f | d3 c/d/ | 
+ed cB | A3 d/c/ |1 BA GA  | G/D/G/A/ B/A/B/c/ :| | B/c/B/A/ GA | G4 ||
+
+X: 1
+T: Monster Cafe 1(variations)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gdor
+GB/c/|: dc BA | ^FD A/F/A/B/ | cG B/G/B/d/ | fe dA | 
+d/c/B/c/ BA | ^FD F /A/B/ | cB AG  |1 cB A B/c/ :|2 cB AG |
+K: Gmin 
+|: d2 d2 | d c2 d |  fd fd| f d2 c/d/ | 
+ed cB | A3 d/c/ | BA GA  | G/D/G/A/ B/A/B/G/ |
+d2 d2 | d c2 d |  f d2 f| d3 c/d/ |
+ed cB | A3 d/c/ | B/c/B/A/ GA | G4 ||
+
+
+X:3 
+T: Monster Cafe 2 (tunebook)
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gmin
+|: c>e d/c/d/e/ | fg d2 | d/c/d/e/ f/e/d/c/ | B/c/d/e/ dc | 
+c>e d/c/d/e/ | fg d2 | d/c/d/e/ f/e/d/c/ | B/c/d/B/ c2 :| 
+|: ce/c/-c2  | Bd fB | A>c B/A/B/c/ | d/c/B/A/ BG | 
+ce/c/-c2  | Bd fB | A>c B/A/B/c/ | d/c/B/A/ G2 :| 
+
+X:3 
+T: Monster Cafe 2 
+R: bourrée
+M: 2/4
+L: 1/8
+K: Gmin
+|: c>e d/c/d/e/ | fg d2 | d/c/d/e/ f/e/d/c/ | B/c/d/e/ dc | 
+c>e d/c/d/e/ | fg d2 | d/c/d/e/ f/e/d/c/ | B/c/d/B/ c2 :| 
+|: ce/c/-c2  | Bd/B/ f/B/d/B/ | A>c B/A/B/c/ | d/c/B/A/ BG | 
+ce/c/-c2  | Bd/B/ f/B/d/B/ | A>c B/A/B/c/ | d/c/B/A/ G2 :|

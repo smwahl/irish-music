@@ -1,0 +1,41 @@
+X: 1
+T: Joe Derrane's
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+~B3 BAF|AFE E2 F| DFA def|afe dBA|
+BdB BAF|AFE E2 F|DFA def|1edB B2 A:|2 edB B2 d||
+~e3 edB|AFA d2 A|def ~a3|baf afa|
+baf afa|baf edB|def afe|1 dBA B2 d:|2 dBA B2 A||
+
+X: 2
+T: Snake In The Cupboard
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+C: Jason Courtney
+B2f fed |efe edc |B2f fef |g3 fed|
+B2f fed |efe edc |B2f fef |a3 fed :|
+ABc dcd |edc dcA |Bcd ede|fed edc|
+cde fed |gfe fed |cde cde |1 cde aec :|2 cde a3 ||
+FGF FDD |FGF FDD |EFE EFG| AGF FDD|
+|1 FGF FDD | FGF FDD| EFE EFG| ABd f3 :|
+|2 EFE EFG | ABd fdd| gaf gdB| efd cBA ||
+
+X: 3
+T: The Diplodocus
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+C: Liz Carroll
+|:B|cAA edB|cAA ABc|dff g3|aee fed |
+cAA A2G|EAA AGE|DEF G2A|1 BAA A2 :|2 BAA Acd||
+|:e3 e2d|cAB AGE| G3 GEF | GAG FED |
+e3 e2d|cAB AGE|DEF G2A|BAA A3 |
+eAe e2d|cAB AGE| !slide!g3 gef|gag fed |
+e3 e2d|cAB AGE|DEF G2A| BAA Afg||
+|:a3 aef|g3 efg|fdB Adf|g3 efg |
+a3 aef|g3 efg|fed efd|1 cAA Afg :|2 cAA A2 ||

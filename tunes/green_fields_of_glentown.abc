@@ -1,0 +1,50 @@
+X: 1
+T: The Green Fields Of Glentown
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+EA,~A,2 E2DB,|G,B,~B,2 G,A,B,D|EA,~A,2 E2DE|GBeB dBAB|
+eB~B2 eBdB|AE~E2 DG,B,G,|A,E~E2 E2DE|GEDB, B,A,~A,2:|
+|:A2EA cAEA|G2DB, G,A,B,D|EA~A2 GABd|edBA aged|
+bg~g2 afge|dB~B2 GEDB,|A,E~E2 E2DE|GEDB, B,A,~A,2:|
+|:A2EA cAEA|aged bage|dG~G2 DGBd|gded Bdgd|
+e2Be eBdB|AE~E2 DG,B,G,|A,E~E2 E2DE|GEDB, B,A,~A,2:|
+
+
+
+X: 1
+T: The Green Fields Of Glentown (J Gilder Version)
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+EA,~A,2 EDB,D|G,B,~B,2 G,B,DB,|EA,~A,2 EDB,D|GBeB dBAB|
+eB~B2 eBdB|AE~E2 AEDB,|A,E~E2 A,EDE|GEDG, B,A,~A,2|
+EA,E=F EDB,D|G,B,~B,2 G,B,DB,|EA,~A,2 EDB,D|GBeB dBAB|
+eB~B2 eBdB|AE~E2 AEDB,|A,E~E2 A,EDE|GEDG, B,A,~A,2||
+|:~A2EA cA~A2|GEDB, G,A,B,D|EA~A2 GABd|edBA aged|
+bg~g2 abge|dB~B2 GEDB,|A,E~E2 A,EDE|GEDG, B,A,~A,2:|
+|:~A2EA cA~A2|gfed bage|dG~G2 BGBd|g{b}gdc Bgfg|
+e{f}eAe fedB|AE~E2 AED,B,|A,E~E2 A,EDE|GEDG, B,A,~A,2:|
+
+
+
+X: 1
+T: The Green Fields Of Glentown (Modified J Gilder Version)
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+   EA,~A,2 EDB,D | G,B,~B,2 G,A,B,D | EA,~A,2 EDB,D | GBeB    dBAB      |
+   eB~B2   eBdB  | AE~E2    DG,B,G, | A,E~E2  A,EDE | GEDG,   B,A,~A,2  |
+   EA,E=F  EDB,A, | G,B,~B,2 G,B,DB, | EA,~A,2 EDB,D | GBeB    dBAB      |
+   eB~B2   eBdB  | AE~E2    DG,B,G, | A,E~E2  A,EDE | GEDG,   B,A,~A,2 ||
+|: ~A2EA   cA~A2 | GEDB,    G,A,B,D | EA~A2   GABd  | edBA    aged      |
+   bg~g2   abge  | dB~B2    GEDB,   | A,E~E2  A,EDE | GEDG,   B,A,~A,2  |
+|  ~A2EA   cA~A2 | ~G3D     G,A,B,D | EA~A2   GABd  | edBA    aged      |
+   bg~g2   abge  | dB~B2    GEDB,   | A,E~E2  A,EDE | GEDG,   B,A,~A,2 ||
+|  ~A2EA   cA~A2 | aged     bage    | dG~G2   BGBd  | g{b}gdc Bgfg      |
+   e{f}eBe fedB  | AE~E2    DG,B,G,  | A,E~E2  A,EDE | GEDG,   B,A,~A,2  |
+|  ~A2EA   cAEA  | aged     bage    | dG~G2   DGBd  | g{b}gdc Bgfg      |
+   e{f}eBe fedB  | AE~E2    DG,B,G,  | A,E~E2  A,EDE | GEDG,   B,A,~A,2  |

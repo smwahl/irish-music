@@ -1,0 +1,35 @@
+X: 1
+T: The Hatchlings
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:E/F/GA Bgf|eEF G2F|E/F/GA B2A|Bcd DGF|
+E/F/GA B2A|Bgf efg|B3 AFG|1AGF E2 D:|2AGF E2 f||
+|:g2b agf|gfe Bef|g2b agf|edc def|
+g2b agf|gef gab|B3 AFG|1AGF E2 f:|2AGF E2 D||
+
+X: 1
+T: The Hatchlings
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|: "E,in" E/F/GA "E,in"Bgf|eEF "G,Din"G2F|E/F/GA "G,out"B2A|"B,in"Bcd DGF|
+"E,in"E/F/GA "E,in"B2A|"G,B,in"Bgf "A,out"efg|"B,Fout"B3 AFG|1 "A,out"AGF E2 D:|2AGF E2 f||
+|: "E,in"g2b agf| "E,in"gfe Bef|"G,Din"g2b agf|"A,in"edc def|
+"E,in"g2b agf|"G,Din"gef gab|"B,Fout"B3 AFG|1 "A,in"AGF E2 f:|2AGF E2 D||
+
+
+
+X: 1
+T: The Long Bow
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+F|:"E,in"GEF EF/G/A|BEe dBA|FDF ded|"A,out"Aag "B,out"fed|
+efe BAF|"Dout"ded AdA,|DFA ded|1"B,out"BAF "E,in"E2F:|2BAF E2B||
+|:"E,in"e2B "A,in"a2A|BGE EFE|d2D AdA,|DFA ded|
+BAF "B,in"GEE|BAF DFA|"Din"dag "F,out"fed|1"B,Fout"BAF "E,in"E2B:|2BAF E2F||
+

@@ -1,0 +1,24 @@
+X: 2
+T: The Hut On Staffin Island
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"A7"A,B,DE "D"D3E|"D"FDFA "Bm"d2 cA|"G"B3d "F#m"BAFD|"Em"E2 "F#m"FE "G"DB,B,D|
+"A7"A,B,DE "D"D3E|FE (3FGA "Bm"dDcD|"G"B3d "F#m"BAFD|1"Em"E2 "F#m"FE "G"D3B,:|2"A7"E2 "D/F#"FE "D"D2 FA||
+|"Bm":d4 d2 ed|"F#m"cBcd c2 BA|"G"B2 GA BcdB|"A"AFEF "D"D4|
+"Bm"d4 d2 ed|"F#m"cBcd c2 BA|"G"B2 GA B2 dB|"Em"AFEF "G"DB,B,D|
+"A7"A,B,DE "D"D3E|"D"FD "A"(3FGA "Bm"d2 "F#m"cA|"G"B3d "F#m"BAFD|"Em"E2 "F#m"FE "D"D4||
+
+X: 2
+T: The Hut On Staffin Island
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A,B,DE D3E    | FDFA d2    cd      | B3d BAFD       |  E2   FE     DB,B,D  |
+   A,B,DE D3E    | (3FED   FA  dDcD    | B3d BAFD       |1 E2   FE     D3B,   :|2 E2 FE D2 FA ||
+|: d4     d2  ed | cBcd c2    BA      | B2  BA   BcdB  |  AFEF DB, B,2        |
+   d4     d2  ed | cBcd c2    BA      | B2  BA   BcdB  |  AFEF D4             |
+   d4     d2  ed | cBcd c2    BA      | B2  BA   B2 dB |  AFEF DB,B,D         |
+   A,B,DE D3E    | (3FED   FA d2   cd | B3d BAFD       |  E2   FE     D4     ||

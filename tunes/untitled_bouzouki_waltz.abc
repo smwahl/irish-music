@@ -1,0 +1,55 @@
+X: 1
+T: Shaped by the Stream (working title)
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+ dc |: B4 A2 | F3 ED2 | E2 F2 D2 | B,2 A,2 B,2 | D4 E2 | F3 ED2 | E2 F2 A2 | B4 dc | 
+| B4 A2 | F3 ED2 | E2 F2 D2 | E2 D2 B,2 | E3 F/E/D2 | E2 D2 B,2 | A,2 B,2 C2 |1 D4 dc :|2 D6 ||
+|: ef d2 A2 | B3 cA2 | B3 cA2 | B2 A2 G2 | ef d2 A2 | B3 AG2 | F3 GD2 | E6 | 
+| ef d2 A2 | B3 cA2 | B3 cA2 | B2 A2 G2 | F2 G2 D2 | E3 F/E/D2 |1 E3 F/E/D2 | E3 F/E/D2 :|2 {A,}B,3 A,C2| D4 || 
+
+X:1
+T: Waltz Shaped by the Stream (working title)
+R:waltz
+M:3/4
+L:1/8
+K:Gmaj
+gf |: e4 d2 | B3 AG2 | A2 B2 G2 | E2 D2 E2 | G4 A2 | B3 AG2 | A2 B2 d2 | e4 gf | 
+| e4 d2 | B3 AG2 | A2 B2 G2 | A2 G2 E2 | A3 B/2A/2G2 | A2 G2 E2 | D2 E2 F2 |1 G4 gf :|2 G6 ||
+|: ab g2 d2 | e3 fd2 | e3 fd2 | e2 d2 c2 | ab g2 d2 | e3 dc2 | B3 cG2 | A6 | 
+| ab g2 d2 | e3 fd2 | e3 fd2 | e2 d2 c2 | B2 c2 G2 | A3 B/2A/2G2 |1 A3 B/2A/2G2 | A3 B/2A/2G2 :|2 {D}E3 DF2| G4 || 
+
+X: 1
+T: Shaped by the Stream (variations)
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+ dc |: B4 A2 | F3 ED2 | E2 F2 D2 | B,2 A,2 B,2 | D4 E2 | F3 ED2 | E2 F2 A2 | B4 dc | 
+| B4 A2 | F3 ED2 | E2 F2 D2 | B,2 A,2 B,2 | E3 F/E/D2 | E2 D2 B,2 | A,2 B,2 C2 |1 D4 dc :|2 D6 ||
+|: ef d2 A2 | B3 cA2 | B3 cA2 | B2 A2 G2 | ef d2 A2 | B3 AG2 | F3 GD2 | E6 | 
+| ef d2 A2 | B3 cA2 | B3 cA2 | B2 A2 G2 | F2 G2 D2 | E3 F/E/D2 |1 {A,}B,3 A,C2| D6 :|2 {A,}B,3 A,C2| D4 || 
+
+X: 1
+T: Shaped by the Stream (working title)
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+ dc |: "G" B4 A2 | "Dno3/A" F3 ED2 | "Asus4" E2 F2 D2 | "Bm7" B,2 A,2 B,2 | "Dno3/A" D4 E2 | "Asus4" F3 ED2 | "D/A" E2 F2 A2 | "G" B4 dc | 
+| "G" B4 A2 | "Dno3/A" F3 ED2 | "Asus4" E2 F2 D2 | "Bm7" E2 D2 B,2 | "Asus4" E3 F/E/D2 | "Dsus4" E2 D2 B,2 | "Asus4 " A,2 "(G/B) "B,2 "Dno3/C#"C2 |1 "Dno3" D4 dc :|2 "Dno3" D6 ||
+|: "Dno3" ef d2 A2 | "G" B3 cA2 | B3 cA2 | B2 A2 G2 | "Dno3" ef d2 A2 | "G" B3 AG2 | "D/A" F3 GD2 | "Asus2" E6 | 
+| "Dno3" ef d2 A2 | "G" B3 cA2 | B3 cA2 | B2 A2 G2 | "Bm7" F2 G2 D2 | "Asus4" E3 F/E/D2 |1 E3 F/E/D2 | E3 F/E/D2 :|2 "G/B"{A,}B,3 A, "Dno3/C#"C2| D4 || 
+
+X:1
+T:Shaped by the Stream (working title)
+R:waltz
+M:3/4
+L:1/8
+K:Fmaj
+fe |: "Bb" d4 c2 | "Fno3/C" A3 GF2 | "Csus4" G2 A2 F2 | "Dm7" D2 C2 D2 | "Fno3/C" F4 G2 | "Csus4" A3 GF2 | "F/C" G2 A2 c2 | "Bb" d4 fe | 
+| "Bb" d4 c2 | "Fno3/C" A3 GF2 | "Csus4" G2 A2 F2 | "Dm7" G2 F2 D2 | "Csus4" G3 A/2G/2F2 | "Fsus4" G2 F2 D2 | "Csus4 " C2 "(Bb/D) "D2 "Fno3/E"E2 |1 "Fno3" F4 fe :|2 "Fno3" F6 ||
+|: "Fno3" ga f2 c2 | "Bb" d3 ec2 | d3 ec2 | d2 c2 B2 | "Fno3" ga f2 c2 | "Bb" d3 cB2 | "F/C" A3 BF2 | "Csus2 (alt Bb)" G6 | 
+| "Fno3" ga f2 c2 | "Bb" d3 ec2 | d3 ec2 | d2 c2 B2 | "Dm7" A2 B2 F2 | "Csus4" G3 A/2G/2F2 |1 G3 A/2G/2F2 | G3 A/2G/2F2 :|2 "Bb/D"{C}D3 C "Fno3/E"E2| F4 || 
+

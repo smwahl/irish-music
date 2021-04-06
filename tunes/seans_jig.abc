@@ -1,0 +1,25 @@
+X: 1
+T: Sean's
+R: jig
+M: 6/8
+L: 1/8
+K: G
+|: B | BAG GAB | E2E E3 | DB,D GAB | BAG A2B | 
+BAG GAB |  E2E E3 | DB,D AGF | G4 z2 :| 
+|: E2E EFG | DB,D D3 | CB,C CB,A, | B,2C D2G | 
+ E2E EFG | DB,D DCB, | A,B,C CB,A, | G,6 :| 
+|:A,DF DFA | BAB B2B | AFD FDA, | EFE E2 E | 
+A,DF DFA | B2 B B^c | d^cB AGE | D6 :| 
+|: G,B,D B,DG | E2E EFG | B,DG BAG | F2 D D3 | 
+G,B,D B,DG | E2E EFG | ABA AGF | G6 :| 
+|: G,B,D B,DG | EDE EDC | B,DG BAG | ABA AGF | 
+ G,B,D B,DG | EDE EFG | ABA AGF |1 GBA G3 |2 G6 ||
+
+X: 1
+T: Sean's
+R: jig
+M: 6/8
+L: 1/8
+K: G
+|:A,DF DFA | BAB B2B | AFD FDA, | EFE E2 E | 
+A,DF DFA | B2 B B^c | d^cB AGE | D6 :| 

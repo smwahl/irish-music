@@ -1,0 +1,34 @@
+
+X:1
+T:Willie Coleman's
+C:Trad. arr. LN
+%%score { 1 | 2 }
+L:1/8
+Q:1/4=120
+M:6/8
+I:linebreak $
+K:G
+V:1 treble nm="Harp" snm="Hp."
+V:2 bass 
+V:1
+B2 G AGE | GED GA/B/d | edB dgb |{b} age dBA | B2 G AGE | GED GA/B/d | edB dBA |"1." 
+{d} AGF GF/G/A :|"2."${d} AGF G3 |: g2 g{g} edB | dgb{b} age | g2{a} g edB | GBd e2 f | 
+g2 g{g} edB | dgb{b} age |{g} dBd gdB |${d} AGF G3 :| 
+V:2
+I:repbra 0
+[G,,G,]2 [G,D]3 ([G,C]) | [G,C]2 [G,B,]4 | C,2 [G,C]3 C, | C3 [D,D]3 | [E,E]4 z ([D,D]) | 
+[D,D]3 [C,C]3 | C,2 G, C3 |"1." C,3 D,3 :|"2."$ .B,, z C, D,3 |: [G,,G,]4 z ([EG]) | [EG]3 D3 | 
+[CG]6 | [B,D]3 [CE]3 | [G,,G,]4 z ([EG]) | [EG]3 D3 | C2 G3 (D |$ D3) D,3 :| 
+
+
+X:1
+T:Willie Coleman's
+C:Trad. arr. LN
+L:1/8
+M:6/8
+K:G
+R: jig
+B2 G AGE | GED GA/B/d | edB dgb |{b} age dBA | 
+B2 G AGE | GED GA/B/d | edB dBA |1 {d} AGF GF/G/A :|2 {d} AGF G3 ||
+|: g2 g{g} edB | dgb{b} age | g2{a} g edB | GBd e2 f | 
+g2 g{g} edB | dgb{b} age |{g} dBd gdB |{d} AGF G3 :| 

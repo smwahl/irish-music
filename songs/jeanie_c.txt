@@ -1,5 +1,5 @@
 
-        Bsus(iB,8+4) A(iE4)     G(oG5)  D(oD8+5)
+        Bsus(iB,8+4) A(iE4)?     G(oG5)  D(oD8+5)
 Come    all ye      lads, draw near by me
 
         Bm(oG,8+10)   A(iA,8+5       G(iD4) D(oD5)
