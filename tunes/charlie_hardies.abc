@@ -1,0 +1,60 @@
+
+X:1
+T:Charlie Hardie's
+R: Reel
+L:1/8
+M:4/4
+K:E
+   Be ^G^c Be Ge    | cf Af    cf Af    |  eg    Bg eg Bg    |  gb af  ge  ec    |
+   Be Gc   Be Ge    | cf Af    cf Af    |1 eg    Bg eg Bg    |  gb af  ge  ec   :|2 eg Bg ef ge |  ab c'e e'e e'a ||
+|: g  eb   eg b  eg | f  BB/B/ Bd e  fa |  g/f/e b  eg b  e2 |  ab c'e e'e e' a  |
+   g  eb   eg b  eg | f  BB/B/ Bd e  fa |  gb    ag fe dc    |1 BA GF  Ee  ef   :|2 BA GF Ee ec |]
+
+X:1
+T:Charlie Hardie's
+R: Reel
+L:1/8
+M:4/4
+K:E
+N: For the high part use the "a" on the pull (middle row)
+|: g  eb   eg b  eg | f  BB/B/ Bd e  fa |  g/f/e b  eg b  e2 |  ab c'e e'e e' a  |
+   g  eb   eg b  eg | f  BB/B/ Bd e  fa |  gb    ag fe dc    |1 BA GF  Ee  ef   :|2 BA GF Ee ec |]
+
+
+
+X: 1
+T: Touching Cloth
+R: reel
+M: 4/4
+L: 1/8
+K: Emaj
+|:B~E3 cBGc|Bceg fgec|B~E3 cBGc|efge f2 ec|
+|B~E3 cBGc|Bceg faga|bgeg fgec|Bege fgec:||
+|:Be (3eee Bege|Bege fgec|Be (3eee Bege|(3fga ge fgec|
+|Be (3eee Bege|Bege faga|bgeg fgec|Bege fgec:||
+
+X: 1
+T: Sitting On The Throne
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:A2 eA fAeA|B2fB gBfB|c2 gc acgc|d2 ad bdad|
+|A2 eA fAeA|B2 fB gBcB|AcFG AcB/c/B/A|1 BdcB AFFG:|2 BdcB AFFE||
+|:FccB c^deg|fcfg agfe|gccB c^def|g2 fe gafe|
+|fccB c^deg|fcfg agfg|ecBA GABd|cdBc AFFE:||
+|:A2 eA fAec|ABcA (3Bcd cA|B~E3 Bdcd|BAFG AFEG|
+|A2 eA fAec|ABce a2 ga|(3bag (3agf gbaf|e^def ge=dB:||
+
+X: 1
+T: Sitting On The Throne
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:A2 eA fAeA|B2fB gBfB|c2 gc acgc|d2 ad bdad|
+|A2 eA fAeA|B2 fB gBcB|AcFG AB c/B/A|1 BdcB AFFG:|2 BdcB AFFE||
+|:FccB c^deg|fcfg agfe|gccB c^def|g2 fe gafe|
+|fccB c^deg|fcfg agfg|ecBA GABd|cdBc AFFE:||
+|:A2 eA fAec|ABcA (3Bcd cA|B~E3 Bdcd|BAFG AFEG|
+|A2 eA fAec|ABce a2 ga|bgaf gbaf|e^def ge=dB:||

@@ -33,3 +33,28 @@ efe BAF|"Dout"ded AdA,|DFA ded|1"B,out"BAF "E,in"E2F:|2BAF E2B||
 |:"E,in"e2B "A,in"a2A|BGE EFE|d2D AdA,|DFA ded|
 BAF "B,in"GEE|BAF DFA|"Din"dag "F,out"fed|1"B,Fout"BAF "E,in"E2B:|2BAF E2F||
 
+
+
+X: 1
+T: The Hatchlings (variations)
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|E/F/GA Bgf|eEF G2F|E/F/GA BGB|cAc d2F|
+E/F/GA B2A|Bgf efg|B3 AFG| AGF E2 D|
+|E/F/GA Bgf|eEF G2F|E/F/GA B3-|Bcd DGF|
+E/F/GA B2A|Bgf efg|B3 AFG| AGF E2 f||
+
+X: 1
+T: The Hatchlings
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+D|:E/F/GA Bgf|eEF G2F|E/F/GA B2A|Bcd DGF|
+E/F/GA B2A|Bgf efg|~B3 AFG|1AGF E2 D:|2AGF E2 f||
+|:gab agf|gfe Bef|g2b agf|edc def|
+|1 gab agf|gef gab|~B3 AFG|AGF E2 f:|
+|2 g2g e/f/ge| fec def|~B3 AFG|AGF E2 D|
+

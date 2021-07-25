@@ -1,0 +1,48 @@
+
+X:1
+T:Majas Hambo
+C:Kurt Wahl
+Z:2017
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:G
+"^A""G" B>A G2 B,2 |"C" C>B, CD E2 |"D" D>E F2 A2 |"G" B>A GE D2 |"G" B>A G2 B,2 | 
+"A" C>B, CD"C" E2 |"D" D>F Ac A>F |"G" G2 G4 ::"^B""G" G>A B2 G>A |"D" Bc A3 G |"D" F>A d2 d2 | 
+"G" d>c BA G2 |"G" G>B d2 d2 |"C" g>f ed c>B |"D" A>G FA d>F |"G" G2 G4 
+
+X:1
+T:Bison Polska
+C:Kurt Wahl
+Z:2017
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+"^A""A" EA c2 B>A | 
+"G" BG G3 G- | GB dd BB |"A" c2 ed/c/"E" dB |"A" cA E3 E- |"A" EA c2 B>A |"G" BG G3 G- | GB dd BB | 
+"A" c2 ed/c/"E" dB |1"A" cA A4 :|2"A" cA A3 E- |:"^B""A" EA c2 eg |"D" ^f2 fe/d/"A" e2- | 
+eg"D" ^fd/f/ ag/f/ |"C" ge"A" c2 eg |"D" ^f2 fe/d/"C" e2- | eg"D" ^fe/d/"A" ec | 
+"A/G" AE"F" F2 Ac |"G" BG G3 G- |"E" GB dd BB |"A" c2 ed/c/"G" dB |1"A" cA A3 (E :|"A" c)A A4 |] 
+
+
+X:1
+T:Bison Polska
+C:Kurt Wahl
+L:1/8
+M:3/4
+K:G
+|: EA c2 B>A | BG G3 G- | GB dd BB |c2 ed/c/ dB | cA E3 E- | EA c2 B>A | 
+BG G3 G- | GB dd BB | c2 ed/c/ dB |1cA A4 :|2 cA A3 E- ||
+|: EA c2 eg |f2 fe/d/ e2- | eg fd/f/ ag/f/ | ge c2 eg | f2 fe/d/ e2- | eg fe/d/ ec | 
+ AE =F2 Ac | BG G3 G- |GB dd BB |c2 ed/c/ dB |1 cA A3 (E :|2 cA A4 |] 
+
+X:1
+T:Bison Polska
+C:Kurt Wahl
+L:1/8
+M:3/4
+K:G
+|: EA c2 eg |f2 fe/d/ e2- | eg fd/f/ ag/f/ | ge c2 eg | f2 fe/d/ e2- | eg fe/d/ ec | 
+ AE =F2 Ac | BG G3 G- |GB dd BB |c2 ed/c/ dB |1 cA A3 (E :|2 c)A A4 |] 

@@ -1,0 +1,58 @@
+
+X: 1
+T: Class composition Jig
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+C: Sean Wahl
+| B |: AFD ECA, | DFA Bcd | AFD BAG | FED E2B | 
+AFD ECA, | DFA Bcd | AFD GEC |1 D2E F2B :|2 D2E F2 G | 
+ECA, GFE | DB,G, G,A,G, | ECA, GFE | D2E F2 G | 
+ECA, GFE | DB,G, A,B,D | ECA, DB,G, | A,3 A,2F | 
+ECA, GFE | DB,G, G,A,G, | ECA Bcd | c2A Bcd | 
+ecA dB^G | AEC FDB, | ECA, DB,G, | A,2C E2B ||
+
+
+X:1
+T:Class composition Jig
+R:jig
+M:6/8
+L:1/8
+K:Gmaj
+C:Sean Wahl
+| e |: dBG AFD | GBd efg | dBG edc | BAG A2e | 
+dBG AFD | GBd efg | dBG cAF |1 G2A B2e :|2 G2A B2 c | 
+AFD cBA | GEC CDC | AFD cBA | G2A B2 c | 
+AFD cBA | GEC DEG | AFD GE^C | D3 D2B | 
+AFD cBA | GEC CDC | AFd efg | f2d efg | 
+afd ge^c | dAF BGE | AFD GE^C | D2F A2e ||
+
+
+X:1
+T:Kurt's Jig
+R:jig
+M:6/8
+L:1/8
+K:Gmaj
+C:Sean Wahl
+| e |: "G"dBG "D"AFD | "G"GBd "C"efg | "G"dBG "C"edc | "Em (or G)"BAG "D"A2e | 
+"G"dBG "D"AFD | "G"GBd "C"efg | "G"dBG "D"cAF |1 "G"G2A B2"(C)"e :|2 "G"G2A B2 "(C)"c ||
+"D"AFD "C"cBA | "G"GEC "C"CDC | "D"AFD "C"cBA | "G"G2A B2 "(C)"c | 
+"D"AFD "C"cBA | "G"GEC DEG | "D"AFD "G"GE^C | "D"D3 D2"(G)"B | 
+"D"AFD "C"cBA | "G"GEC "C"CDC | "D"AFd "A"efg | "D"f2d "A"efg | 
+"D"afd "A"ge^c | "Bm (or D)"dAF "Em (or G)"BGE | "D"AFD "G"GE^C | "D"D2F A2 "(A)"e ||
+
+X:1
+T:Kurt's Jig
+R:jig
+C:Sean Wahl
+M:6/8
+L:1/8
+K:Gmaj
+ e |: "G"dBG "D"AFD | "G"GBd "C"efg | "G"dBG "C"edc | "Em"BAG "D7"A2e | 
+"G"dBG "D"AFD | "G"GBd "C"efg | "G"dBG "D"cAF |1 "Em"G2A  "C"B2e :|2 "Em"G2A B2 "Am7"c ||
+"D"AFD "Am"cBA | "C"GEC "Am"CDC | "D"AFD cBA | "C"G2A "G"B2c | 
+"D"AFD "Am"cBA | "C"GEC "Am"DEG | "D"AFD "A"GE^C | "D"D3 "G"D2B | 
+"D"AFD "C"cBA | "G"GEC "C"CDC | "D"AFd "A"efg | "D"f2d "A"efg | 
+"D"afd "A"ge^c | "Bm"dAF "G"BGE | "D"AFD "A"GE^C | "D"D2F A2"A"e |]

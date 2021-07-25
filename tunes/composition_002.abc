@@ -1,0 +1,38 @@
+
+X: 1
+T: Class composition Reel
+R: Reel
+M: 4/4
+L: 1/8
+K: Bmin
+C: Sean Wahl
+|: B2fB cdef | B2af edcd | c2Af edcB | G2Ed cBAc | 
+B2fB cdef | BAaf edcB | GEdc FDdB | cfec dcBA :| 
+|: FBBc cddF | GBBc cddG | Accd edce | fgfe dcBA | 
+|1 FBBc cddF | GBcd edcB | cAEA cdcB | GEdB cBAE :| 
+|2 FBBc cdec | BAaf edcB | GEdc FDdB | cfec dBBc ||
+|: dBfB dBba | cAeA cAgf | eGBe GBed | cAEC GFBc | 
+|1 dBfB dBba | cAeA fAec | BGeG fGeB | fgfe dcBc :| 
+|2 dBfB dBba | cAaf edcB |  GEdc FDdB | cfec dBB2 ||
+
+
+X: 1
+T: Strauss Crossing the Puddle
+T: The Damp Chihuahua
+C: Sean Wahl
+R: Reel
+%O: American
+%N: David Brewer Composition workshop
+%P: 3
+%Q: 1/4=120
+M: 4/4
+L: 1/8
+K: Bmin
+|: "Bm"B2fB cdef | B2af edcd | "A"c2Af edcB | "F#m"G2Ed "(A)"cBAc | 
+"Bm"B2fB cdef | "A(sus2)"BAaf edcB | "Em"GEdc "D"FDdB | "F#m"cfec "(Bm)"dcBA :| 
+|: "B" FBBc cddF | "G"GBBc cddG | "A" Accd edce | "F#m"fgfe "(A)"dcBA | 
+|1 "Bm"FBBc cddF | "G"GBcd edcB | "A"cAEA cdcB | "Em"GEdB "F#m"cBAE :| 
+|2 "Bm"FBBc cdec | "A(sus2)"BAaf edcB | "Em"GEdc "D"FDdB | "F#m"cfec "(Bm)"dBBc ||
+|: "Bm"dBfB dB"(A)"ba | "A(sus2)"cAeA cA"(Gb5)"gf | "Em"eGBe GBed | "F#m"cAEC "(Gb5)"GFBc | 
+|1 "Bm"dBfB dB"(A)"ba |"A(sus2)"cAeA fAec | "Em"BGeG fGeB |  "F#m"fgfe "(Asus2)"dcBc :| 
+|2 "Bm"dBfB dB"(A)"ba |"A(sus2)" cAaf edcB |  "Em"GEdc "D"FDdB | "F#m"cfec "Bm"dBB2 ||
