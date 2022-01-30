@@ -1,0 +1,49 @@
+X: 1
+T: The Otter's Holt
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+e|:fBBA FEFB|(3ABA FB ABde|fBBA FEFA|(3Bcd cA Bcde|
+fBBA FEFB|(3ABA FB ABde|faaf effe|1 dBBA ~B3e:|2 dBAF B3c||
+d2 fd Adfa|bfaf effe|(3ddd fd Adfa|bfaf egfe|
+defd Adfa|bfaf efde|fBBA FEFA|(3Bcd cA B3c|
+~d3f a2 fa|(3baf af effe|d2 fd adfa|bfaf effe|
+dcdf a2 fa|(3baf af effe|fBBA FEFA|(3Bcd cA ~B3e||
+
+
+X: 2
+T: The Otter's Holt
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+e|:fBBA FEFB|A3F ABde|fBBA FEFA|BdcA B2 de|
+fBBA FEFB|A3F ABde|fbaf efde|1 fBBA B3e:|2 fBBA B3c||
+|:d2 fdAd f2|a3f edBc|d2 fdAd f2|a3f egfe|
+d2 fdAd f2|a3f efde|fBBA FEFA|1 BdcA B3c:|2 BdcA B3e||
+
+X: 3
+T: The Otter's Holt
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+e|:fBBA FEFB|(3ABA FB ABde|fBBA FEFA|(3Bcd cA Bcde|
+fBBA FEFB|(3ABA FB ABde|faaf effe|1 dBBA ~B3e:|2 dBAF B3c||
+|:d2fd Adfa|bfaf effe|d2fd Adfa|bfaf ~e3f|
+~d2fd Adfa|bfaf efde|fBBA FEFA|(3Bcd cA ~B3c:|
+
+
+T: The Otter's Holt
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+e|:fBBA FEFB|A2 FB ABde|fBBA FEFA|(3Bcd cA Bcde|
+fBBA FEFB|A2 FB ABde|faaf effe|1 dBBA ~B2de:|2 dBAF B2Bc||
+|d2fd Adfa|bfaf effe|d2fd Adfa|bfaf egfe|
+~d2fd adfa|bfaf efde|fBBA FEFA|(3Bcd cA ~B2Bc|
+|d2fd Adfa|bfaf effe|d2fd Adfa|bfaf ~e3f|
+~d3f adfa|bfaf efde|fBBA FEFA|(3Bcd cA ~B2de||
+

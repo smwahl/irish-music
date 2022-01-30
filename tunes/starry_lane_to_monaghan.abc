@@ -1,0 +1,31 @@
+
+X:1
+T:Starry Lane to Monaghan
+L:1/8
+R:Reel
+M:4/4
+K:D
+V:1
+E^F |: [M:4/4] GE BE  eE  BE | {A}   GF GB{B} AF DF | GD B,D   GA Bd | e/f/g fg{g} ed cd        |
+       BG      EF GD  B,D    | {A}    GF GB{B} AF DF | GA BG    FG AF | EF    GA    BE EE       :|
+    |: ge      be gb  eg     | fd{f} dc de    fa    | gb ef    fg fe | de    fd    Be ef        |
+       ge      BA ^GB ed     | B/c/d eg fd    ef    | gb eg{g} fe ce | {e}   dB    AF E2 E/E/E ||
+       ge      be gb  eg     | fd{f} dc de    fa    | gb ef    fg fe | de    fd    Be ef        |
+       ge      BA ^GB ed     | B/c/d eg fd    ef    | gb eg{g} fe ce | {e}   dB    AF E2 E/E/E  |]
+
+
+
+X:1
+T:Starry Lane to Monaghan
+L:1/8
+R:Reel
+M:4/4
+K:D
+V:1
+E^F |: [M:4/4] GE BE  eE  BE | {A}   GF GB{B} AF DF | G D/D/D   GA Bd | e/f/g fg{g} ed cd        |
+       BG      EF GD  D/D/D    | {A}    GF GB{B} AF DF | GA BG    FG AF | EF    GA    BE EE       :|
+    |: ge      be gb  eg     | fd{f} dc de    fa    | gb ef    fg fe | de    fd    Be ef        |
+       ge      BA ^GB ed     | B/c/d eg fd    ef    | gb eg{g} fe ce | {e}   dB    AF E2 E/E/E ||
+       ge      be gb  eg     | fd{f} dc de    fa    | gb ef    fg fe | de    fd    Be ef        |
+       ge      BA ^GB ed     | B/c/d eg fd    ef    | gb eg{g} fe ce | {e}   dB    AF E2 E/E/E  |]
+

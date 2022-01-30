@@ -1,0 +1,41 @@
+X: 1
+T: Mrs. Lawrie's
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+d2cd BG3  | GDB,D G^FGA | BG3     AGAc | dggf g2ag  |
+fddf gfdc | BB2B  A2Bc  | dBcA    B2Ac | B3A  GABc :|
+d2cA BDAc | B3A   GBAG  | F3G     FC3  | FGAc d2cA  |
+GABc dc3  | dcBA  BGGF  | DFFE    FGAc | dgfa g2Bc :|
+dggf dggf | dggf  d2cB  | cf3     cfcf | gfcA FABc  |
+d3B  c3A  | B3G   AGFG  | G,A,B,C DGFG | AdcA GABc :|
+
+
+X: 1
+T: McGlinchey's
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+   cBAc  BGG^F      | G2    (3DE^F GABG  | ~G2   AF   ~F2 Bc |  dggf   g2   ag   |
+   fd    ~d2   gfdc | ~B3c  ~A3c         | cdcA  BG   (3BBc  |1 BGG^F  G4       :|2 BGG^F G2 Bc ||
+|: (3ccB BA    BdcA | (3Bcd AF     G2 DE | ~F3G  FC   (3CCC  |  FEFG   AcBA      |
+   GABc  dccc       | dBAG  AFFF         | DG^FD GABc        |  dg^fa  g    Bc  :|
+|: dggg  g2    ^fg  | dgg^f d2     cB    | cfff  cfef        |  gfcA   F2   Bc   |
+   ~d3B  ~c3A       | BABG  AFDC         | B,DGA BdcA        |  ^cd^FA G2   B=c :|
+
+
+
+X: 1
+T: Mrs. Lawrie's
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+Bc|: d2cd BG3  | GDB,D G^FGA | B ~G3     AGAc | dggf g2ag  |
+fd ~d2 gfdc | BB2c  A2Bc  | dBcA    B2Ac | B3A  GABc :|
+d2cA BDAc | B3A   GBAG  | F3G     FC3  | FGAc d2cA  |
+GABc dc3  | dcBA  BGGF  | DFFE    FGAc | dgfa g2Bc :|
+dggf dggf | dggf  d2cB  | cf3     cfef | gfcA FABc  |
+d3B  c3A  | B3G   AGFC  | G,A,B,C DGFG | AdcA GABc :|

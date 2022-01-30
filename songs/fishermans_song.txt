@@ -50,3 +50,14 @@ K:C
 E5G|A4B2|AGE3D|CEG2A2|E2D4|-D4cB|A3BAG|E3/4D5/4E2G2|
 A6|-A4EG|A4BA|AGE3D|CEG2A2|E2D4|-D4CD|E2A2G2|
 E3DCE|D3/4E/4DC2G,2|A,6|-A,6|
+
+
+       F#4         D3           D5       E5
+By the storm-torn shoreline, a woman is standing,
+	F#4                D3           F#4(+B_)
+The spray strung like jewels in her hair;
+        F#4          D3              D5       E3
+And the sea tore the rocks near that desolate landing,
+	B5			 D3              A5    B5(+8)
+As though it had known she stood there.
+

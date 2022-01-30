@@ -1,0 +1,33 @@
+
+X:1
+T:Álvastakkur
+C:Kristian Blak, arr. Laurel North
+R:Waltz
+M:3/4
+K:F
+FG |:[M:3/4]"F" A2 AG Fd |"A" c2 cA DA |"B" !arpeggio![DFG]2 GF Fc |"F" A4 Ac |"B" d f2 d2 G | 
+"D" AG F2 FG |"G" A c2 A GF |1"C" G3 G"B" FG :|2"C" G3 G"^Am" AG |:"D" Ff !arpeggio![FAf]2 [Dd]2 | 
+"A" [Cc]A A3 G |"B" A2 c2 df | g3 a gf |"F" dc A3 G |"G" A =B3 AG |"G" cd G2"C" D[B,F] |1 
+"F" [CF] z z2 AG :|2"F" F6 |] 
+
+X:1
+T:Álvastakkur
+C:Kristian Blak, arr. Laurel North
+R:Waltz
+M:3/4
+K:Gmaj
+GA |: B2 BA  Ge   | d2  dB EB    |  A2 AG Gd     |  B4 Bd    |
+      e  g2  e2 A | BA  G2 GA    |  B  d2 B  AG  |1 A3 AGA :|2 A3 ABA  ||
+   |: Gg g2  e2   | dB  B3 A     |  B2 d2 eg     |  a3 bag  |  ed B3 A  |
+      B  ^c3 BA   | de A2 EG |1 G  z  z2 BA :|2 G6       |]
+
+X:1
+T:Álvastakkur
+C:Kristian Blak, arr. Laurel North
+R:Waltz
+M:3/4
+K:Fmaj
+FG |: A2 AG Fd | c2 cA DA | G2 GF Fc | A4 Ac |
+d f2 d2 G | AG F2 FG | A c2 A GF |1 G3 GFG :|2 G3 GAG ||
+|: Ff f2 d2 | cA A3 G | A2 c2 df | g3 agf | dc A3 G |
+A =B3 AG | cd G2 DF |1 F z z2 AG :|2 F6 |]

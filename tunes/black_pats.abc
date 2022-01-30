@@ -1,0 +1,45 @@
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:F
+   [CF]2 Ac    dA cA | Gc{c} AG    FD CD     | F2     A/B/c dc AG |  Ac    fa    ga/g/ fg  |
+   af    f/f/f gf ef | cd    fd    cA GA     | F2     A/B/c dA cA |  Gc{c} AG    FD    CD :|
+   F3    G{G}F DC D  | F     EF    GA dd/d/d | c2     AF    cF AF |  Gc{c} AG    FD    CD  |
+   FE    FG{G} FD CD | FE    FG    Ac fg     | af     f/f/f gf df |  cf    ag    fc    df  |
+   [Fc]3 A{B}  AG FD | CF    F/F/F Ad d/d/d  | c2     AF    cF AF |  Gc{c} AG    FD    CD  |
+   FE    FG{G} FD CD | FE    FG    Ac fg     | af     f/f/f gf df |  cf    ag    f2    fg ||
+|: a2{b} af    df cd | fd    cA    F4        | [cfa]2 fc    ac fc |  dg    g/g/g ga    fg  |
+   a2{b} af    df cd | fd    cA    cd fg     | a/g/f  gf    df cA |1 Gc{c} AG    FG    Ac :|2 Gc{c} AG FD CD | [CF]8 |]
+
+
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:Gmaj
+   [DG]2  Bd      eB dB | Ad{d} BA      GE DE       | G2      B/2c/2d ed BA |  Bd    gb      ab/2a/2 ga  |
+   bg     g/2g/2g ag fg | de    ge      dB AB       | G2      B/2c/2d eB dB |  Ad{d} BA      GE      DE :|
+   G3     A{A}G   ED E  | G     FG      AB ee/2e/2e | d2      BG      dG BG |  Ad{d} BA      GE      DE  |
+   GF     GA{A}   GE DE | GF    GA      Bd ga       | bg      g/2g/2g ag eg |  dg    ba      gd      eg  |
+   [Gd]3  B{c}    BA GE | DG    G/2G/2G Be e/2e/2e  | d2      BG      dG BG |  Ad{d} BA      GE      DE  |
+   GF     GA{A}   GE DE | GF    GA      Bd ga       | bg      g/2g/2g ag eg |  dg    ba      g2      ga ||
+|: b2{c'} bg      eg de | ge    dB      G4          | [dgb]2  gd      bd gd |  ea    a/2a/2a ab      ga  |
+   b2{c'} bg      eg de | ge    dB      de ga       | b/2a/2g ag      eg dB |1 Ad{d} BA      GA      Bd :|2 Ad{d} BA GE DE | [DG]8 |]
+
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:Gmaj
+   G2Bd    eBdB         | Ad{d}BA GEDE               | G2      B/2c/2d edBA |  Bdgb    ab/2a/2 ga    |
+   bg       g/2g/2g ageg | dege    dBAB               | G2      B/2c/2d eBdB |  Ad{d}BA GEDE         :|
+   G3A      {A}GEDE      | GFGA    B       ee/2e/2e   | d2BG    dGBG         |  Ad{d}BA GEDE          |
+   GFGA     {A}GEDE      | GFGA    Bdga               | bg      g/2g/2g ageg |  dgba    gdeg          |
+   d3B      {c}BAGE      | DG      G/2G/2G Be e/2e/2e | d2BG    dGBG         |  Ad{d}BA GEDE          |
+   GFGA     {A}GEDE      | GFGA    Bdga               | bg      g/2g/2g ageg |  dgba    g2ga         ||
+|: b2{c'}bg egde         | gedB    G4                 | b2gd    bdgd         |  ea      a/2a/2a abga  |
+   b2{c'}bg egde         | gedB    dega               | b/2a/2g ag      egdB |1 Ad{d}BA GABd         :|2 Ad{d}BA GEDE | G8 |]

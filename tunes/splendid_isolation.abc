@@ -1,0 +1,59 @@
+
+X: 2
+T: Splendid Isolation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+|:(E/F/G) AF GdcA|.G/.G/.G AG FGAc|dAcA GABc|dggf g2 ga|
+bgag fd ~d2|~f3 g fdcA|GcAG FGAc|dAcA G4:|
+|:~g2 ag fd ~d2|gfdc (A/B/c) dc|AG ~G2 Acdc|AG ~G2 .F2 ~F2|
+~F2 AF GdcA|.G/.G/.G AG FGAc|dg ~g2 fgag|fdcA G4:|
+
+X: 7
+T: Splendid Isolation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+F3 F||(E/F/G) AF GdcA|G/G/G AG FGAc|dAcA GABc|dggf g2ga|
+bgag fd d/d/d|fadg fdcA|GcAG FGAc|dAcA [G3G,3]F|
+(E/F/G) AF GdcA|G/G/G AG FGAc|dAcA GABc|dg g/g/g g2 ga|
+bgag fd d/d/d|fadg fdcA|GcAG FGAc|dAcA GA (B/c/d)||
+g2 ag fd d/d/d|gfdc Acdc|AG G/G/G Acdc|AG G/G/G F2 FE|
+FGAF GdcA|G/G/G AG FGAc|dg g/g/g fg (3abg|fdcA G2 (B/c/d)|
+g2 ag fd d/d/d|gfdc Acdc|AG G/G/G Acdc|AG G/G/G F2 (3FEF|
+(3FEF AF GdcA|G/G/G AG FGAc|dg g/g/g fgag|fdcA [G3G,3]F||
+
+X: 1
+T: Splendid Isolation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+|:FGGF GdcA|G2AG FGAc|dAcA GABc|dggf ~g3a|
+bgag fd~d2|f2eg fdcA|G2AG FGAc|dAcA ~G3z:|
+|:g2ag fd~d2|gfdc Acdc|AG~G2 Acdc|AG~G2 F4|
+FGGF GdcA|G2AG FGAc|dg~g2 fgag|fdcA G4:|
+
+
+X: 7
+T: Splendid Isolation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+F |: GBAF   GdcA       | G/G/G AG       FGAc  |  dAcA GABc           |  dggf g2ga         |
+     bgag    fd   d/d/d      | efge  fdcA           |  G/G/G AG FGAc           |1 dAcA [G3G,3]F    :|2 dAcA GABd||
+  |: g2      ag   fd d/d/d   | gfdc  Acdc           |  AG   G/G/G Acdc     |  AG   G/G/G F2 FE  |
+     F2AF    GFAF            | G/G/G AG       FGAc  | dg   g/g/g fgag |1  fdcA GABd :|   |2 fdcA  [G3G,3]F||
+
+
+
+X: 7
+T: Splendid Isolation (variation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+G(3DEF |: G2AF   GdcA 
