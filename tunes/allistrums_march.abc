@@ -46,7 +46,7 @@ B2A B2F|B2A BAF|B2A B2F|B/c/dB cAF||
 
 
 X: 3
-T: Allistrum's March
+T: Allistrum's March (Gloaming)
 R: jig
 M: 6/8
 L: 1/8
@@ -59,3 +59,19 @@ d2f e2f|d2 {e}~d2 (3cBA|d2f e2f|~d3 B2A|
 d2f e2f|d2 {e}~d2 (3cBA|d2f e2f|~d3 B2A||
 B2A B2F|~B2A B2F|BdB c2F|B/c/dB c2F|
 B2A B2F|~B2A B2F|BdB c2F|B/c/dB c2F||
+
+
+X: 3
+T: Allistrum's March 
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FAd fee|fed dBA|FAd fee|fed B2A|
+FAd fee|fed dBA|FAd fee|fed B2A||
+FF/F/E FDD|EDd dBA|FF/F/E FDD|EDd B2A|
+FF/F/E FDD|EDd dBA|FF/F/E FDD|EDd B2A||
+d2f e2f|ded dBA|d2f e2f|ded B2A|
+d2f e2f|ded (3dcBA|d2f e2f|ded B2A||
+B2A BFF|~B2A BEE|B2A BFF|~B2A BEE|
+B2A BFF|~B2A BEE|B2A BFF|B/c/dc BAG||

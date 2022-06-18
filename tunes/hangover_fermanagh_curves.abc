@@ -1,0 +1,33 @@
+X: 1
+T: The Hangover
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:Ecc cdc|BGG GzG|AdA def|ecc czB|
+=ceg gfe|ded BAG|AB=c BAB|GEE E2z:|
+|:=ceg gfe|dBB BzB|dBB fef|gee ezd|
+=ceg gfe|ded BAG|AB=c BAB|1 GEE Ez=c:|2 GEE E3||
+
+X: 1
+T: The Hangover
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:Ecc cdc|BGG GzG|AdA def|ecc czB|
+=ceg gfe|ded BAG|AB=c BAB|1 GEE E2z:|2 GEE E2B:|
+|:=ceg gfe|dBB BzB|dBB fef|gee ezd|
+=ceg gfe|ded BAG|AB=c BAB|1 GEE EzB:|2 GEE E3||
+
+
+X: 1
+T: The Fermanagh Curves
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+B|:dgd gag|fdd dzd|^dbb bba|gee eze|
+^daa aba|gee aba|gfe dBA|FBB BzB:|
+|:ebb bba|gee eze|=ceg a ab|gee eze|
+^daa aba|gee aba|gfe dBA|1 FBB BzB:|2 FBB B3||

@@ -1,0 +1,26 @@
+X: 1
+T: Leinster Hornpipe
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+d>c|: (3BdB GB (3AcA FA | Gdgf edBG | F>GA>B cdef | gdBG A2dc |
+(3BdB GB (3AcA FA | G>Bgf edBG | F>GA>B c>def |1 g2 f2 g2 dc:|2 g2 f2 g2 Bc ||
+dgfg d>gB>g | d>gf>g b>agf | eAfA eAfA | edcB dcBA |
+GBDB GBDB | GBgf edBG |  FGAB cdef |  g2 f2 g2 Bc |
+d>gfg d>gB>g | d>gf>g b>agf | eAfA eAfA | e>dcB d>cBA |
+GBDB GBDB | (3GAG g>f edBG | FGAB cdef | g2 f2 g2 dc |
+
+
+X: 1
+T: Leinster Hornpipe
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+dc|: (3BdB GB (3AcA FA | Gdgf edBG | FGAB cdef | gdBG A2dc |
+(3BdB GB (3AcA FA | GBgf edBG | FGAB cdef |1 g2 f2 g2 dc:|2 g2 f2 g2 Bc ||
+dgfg dgBg | dgfg bagf | eAfA eAfA | edcB dcBA |
+GBDB GBDB | GBgf edBG |  FGAB cdef |  g2 f2 g2 Bc |
+dgfg dgBg | dgfg bagf | eAfA eAfA | edcB dcBA |
+GBDB GBDB | (3GAG gf edBG | FGAB cdef | g2 f2 g2 dc |
