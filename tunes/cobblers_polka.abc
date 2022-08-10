@@ -1,0 +1,89 @@
+X: 1
+T: The Cobbler's
+R: polka
+M: 2/4
+L: 1/8
+K: Bmin
+|:dB fB|de f2|dB fB|c/B/A/c/ e2|
+dB fB|de f2|d>e f/e/d|B2 {d}B2:|
+|:f>e f/b/a|fe f2|dB fB|c/B/A/c/ e2|
+f>e f/b/a|fe f2|d>e f/e/d|B2{d} B2:|
+
+X:1
+T:The Cobbler's
+R:polka
+M:2/4
+L:1/8
+K:Emin
+|:GE BE|GA B2|GE BE|F/2E/2D/2F/2 A2|
+GE BE|GA B2|G>A B/2A/2G|E2 {G}E2:|
+|:B>A B/2e/2d|BA B2|GE BE|F/2E/2D/2F/2 A2|
+B>A B/2e/2d|BA B2|G>A B/2A/2G|E2{G} E2:|
+
+X: 13
+T: Dálaigh's
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+|:E>F GA|Be ed|Bd/B/ AF|EF DF|
+E>F GA|Be ed|Bd/B/ AF|1 GE ED:|2 GE E2||
+|:e e2 f|g>a ge|d>c de|fa df|
+e e2 f|g>a ge|d>B AF|1 GE E2:|2 GE ED||
+
+X:13
+T:Dálaigh's
+R:polka
+M:2/4
+L:1/8
+K:Ador
+|:A>B cd|ea ag|eg/2e/2 dB|AB GB|
+A>B cd|ea ag|eg/2e/2 dB|1 cA AG:|2 cA A2||
+|:a a2 b|c'>d' c'a|g>f ga|bd' gb|
+a a2 b|c'>d' c'a|g>e dB|1 cA A2:|2 cA AG||
+
+X:1
+T:The Cobbler's (Cormac Begley version)
+R:polka
+M:2/4
+L:1/8
+K:Emin
+|: EF| GE eE|GA B>A|GE eE|F/E/D/F/ AB/A/|
+GE eE|GA B>A|GA B/A/G|E2:|
+|:EA| BA/B/ ed|BA B>A|GE eE|F/E/D/F/ AG/A/|
+BA/B/ ed|BA B>A|GA B/A/G|E2 :|
+
+X: 13
+T: Dálaigh's (Downeys 1, Cormac Begley version)
+R: polka
+M: 2/4
+L: 1/8
+K: Edor
+B,|:E2 FA|Be ed|Bd/B/ AF|EF D2|
+E>F GA|Be ed|Bd/B/ AF|1 FE ED:|2 DE E2||
+|:e e2 f|af ed|Be eB|fa d2|
+Be ef|af ed| Bd/B/ AF|1 FE E2:|2 DE ED||
+
+
+X:13
+T:Dálaigh's (Downeys 1, Cormac Begley version)
+R:polka
+M:2/4
+L:1/8
+K:Ador
+E|:A2 Bd|ea ag|eg/2e/2 dB|AB G2|
+A>B cd|ea ag|eg/2e/2 dB|1 BA AG:|2 GA A2||
+|:a a2 b|d'b ag|ea ae|bd' g2|
+ea ab|d'b ag| eg/2e/2 dB|1 BA A2:|2 GA AG||
+
+X:13
+T:Dálaigh's (Downeys 1, Cormac Begley version)
+R:polka
+M:2/4
+L:1/8
+K:Ador
+E,|:A,2 B,D|EA AG|EG/2E/2 DB,|A,B, G,2|
+A,>B, CD|EA AG|EG/2E/2 DB,|1 B,A, A,G,:|2 G,A, A,2||
+|:A A2 B|dB AG|EA AE|Bd G2|
+EA AB|dB AG| EG/2E/2 DB,|1 B,A, A,2:|2 G,A, A,G,||
+

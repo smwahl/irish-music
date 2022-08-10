@@ -1,0 +1,67 @@
+X: 1
+T: The Road To Glountane
+R: barndance
+M: 4/4
+L: 1/8
+K: Amaj
+E2EF A2AB|ceec BAF2|f2 ec ABcA|ecBA FAAF|
+E2EF A2AB|ceec BAF2|f2 ec ABcA|1 ecBc A2AF:|2 ecBc A4||
+|:ecef a2 af|ecBA FAAB|cBAB cBBA|cABA ceaf|
+ecef a2 af|ecBA FAAB|cBAB cBBA|1 ceBc A4:|2 ceBc A2AF||
+
+
+X:1
+T:The Road To Glountane
+R:barndance
+M:4/4
+L:1/8
+K:Gmaj
+GE|: D2DE G2GA|BddB AGE2|e2 dB GABG|dBAG EGGE|
+D2DE G2GA|BddB AGE2|e2 dB GABG|1 dBAB G2GE:|2 dBAB G4||
+|:dBde g2 ge|dBAG EGGA|BAGA BAAG|BGAG Bdge|
+dBde g2 ge|dBAG EGGA|BAGA BAAG|1 BdAB G4:|2 BdAB G2GE||
+
+
+
+X:1
+T:The Road To Glountane
+R:barndance
+M:4/4
+L:1/8
+K:Dmaj
+A,2A,B, D2DE|FAAF EDB,2|B2 AF DEFD|AFED B,DDB,|
+A,2A,B, D2DE|FAAF EDB,2|B2 AF DEFD|1 AFEF D2DB,:|2 AFEF D4||
+|:AFAB d2 dB|AFED B,DDE|FEDE FEED|FDED FAdB|
+AFAB d2 dB|AFED B,DDE|FEDE FEED|1 FAEF D4:|2 FAEF D2DB,||
+
+
+X:1
+T:The Road To Glountane (Cormac Begley Version)
+R:barndance
+M:4/4
+L:1/8
+K:Gmaj
+GE| D2DE G2GA|B2dB AGGd|e2 dB GABc|dBAG E2GE|
+D2DE G2GA|B2dB {B}AGGd|e2 dB GABc| dBAB G2GE|
+D2DE G2Gd|B2dB AGGd|eBdB GABc|dBAG ~E2GE|
+D2DE G2GA|B2dB {B}AGGd|[Ce]2 dB GABc| dBAB G2ge||
+d2de gage|dBAG E2GA|B ~A3 B ~A2 G|BGAG EGGe|
+d2de gage|dBAG E2GA|B ~A3 BdeB| dBAB G2ge|
+d2de g3e |dBAG [C,E]2GA |B ~A3 B ~A2 G|BGAG EGGe|
+[GBd]3e g2[GCg]e|[BDd]BAG [CE]2GA|B ~A3 BdeB| dBAB G2GE||
+
+X:1
+T:The Road To Glountane (Cormac Begley Version)
+R:barndance
+M:4/4
+L:1/8
+K:Amaj
+AF| E2EF A2AB|c2ec BAAe|f2 ec ABcd|ecBA F2AF|
+E2EF A2AB|c2ec {c}BAAe|f2 ec ABcd| ecBc A2AF|
+E2EF A2Ae|c2ec BAAe|fcec ABcd|ecBA ~F2AF|
+E2EF A2AB|c2ec {c}BAAe|[Df]2 ec ABcd| ecBc A2af||
+e2ef abaf|ecBA F2AB|c ~B3 c ~B2 A|cABA FAAf|
+e2ef abaf|ecBA F2AB|c ~B3 cefc| ecBc A2af|
+e2ef a3f |ecBA [D,F]2AB |c ~B3 c ~B2 A|cABA FAAf|
+[Ace]3f a2[ADa]f|[cEe]cBA [DF]2AB|c ~B3 cefc| ecBc A2AF||
+
