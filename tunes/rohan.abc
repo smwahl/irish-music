@@ -1,0 +1,160 @@
+I:abc-charset utf-8
+X: 1
+T: Riders of Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+| z A/A/ Ac B2 c2| d2 A6| z A/A/ Ac B2 e2 | f2 a6| 
+| z E/E/ A/A/A B2 cc/c/ | d2 A6 | B2 G2 F3 G | G2 E6 |
+| z A/A/ Ac B2 e2 | f2 d6 | z A/A/ Ac B2 e2 | 
+
+X: 1
+T: Riders of Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+|f2 a4 B2 |
+| B2 G4 G/B/c  | d4 A- A/A/d/e/ | e4 c3-/c/e/ | e2 G2 F3 G |
+| G2 E4 - E/E/A/B/ | c2 B2 A3 A/B/ | A4 zAde | f2= c2 c2 B2 | A2 c>c d4 | a8 |
+
+X: 1
+T: Riders of Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+|f2 a4 B2 |
+| B2 G4 G/B/c  | d4 A- A/A/d/e/ | e4 c3-/c/e/ | e2 G2 F3 G |
+| G2 E4 - E/E/A/B/ | c2 B2 A3 A/B/ | A4 
+
+
+X: 1
+T: Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+| z A/A/ Ac B2 c2| d2 A6| z A/A/ Ac B2 e2 | f2 a6| 
+| z E/E/ A/A/A B2 cc/c/ | d2 A6 | B2 G2 F3 G | G2 E6 |
+| z A/A/ Ac B2 e2 | f2 d6 | z A/A/ Ac B2 e2 |f2 a4 - aB |
+| B2 G4 G/B/c  | d4 A- A/A/d/e/ | e4 c3-/c/e/ | e6 z2 | 
+
+
+X: 1
+T: Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+|: z A/A/ Ac B2 c2| d2 A6| z A/A/ Ac B2 e2 | f2 a6| 
+| z E/E/ A/A/A B2 cc/c/ | d2 A6 | B2 G2 F3 G | G2 E6 |
+| z A/A/ Ac B2 e2 | f2 d6 | z A/A/ Ac B2 e2 |f2 a4 - aB |
+| B2 G3 G/B/c/d-  | d2 A3 A/d/e/e- | e2 c3 - c/c/e/e- |1 e6 z2 :|2 e8 :|
+
+X: 1
+T: Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+|: z A/A/ Ac B2 c2| d2 A6| z A/A/ Ac B2 e2 | f2 a6| 
+| z E/E/ A/A/A B2 cc/c/ | d2 A6 | B2 G2 F3 G | G2 E6 |
+| z A/A/ Ac B2 e2 | f2 d6 | z A/A/ Ac B2 e2 |f2 a4 - aB |
+| B2 G3 G/B/c/d-  | d2 A3 A/d/e/e- | e2 c3 - c/c/e/e- | e2 G2 F3 G |
+G2 E4 - E/E/A/B/ | c2 B2 A3 A/B/ | A8 |
+
+
+
+X: 1
+T: Rohan
+R: air
+M: 4/4
+L: 1/8
+K: Ador
+|: z  A/A/ Ac    B2 c2    | d2 A6          | z  A/A/ Ac B2 e2  |  f2 a6     |
+|  z  E/E/ A/A/A B2 cc/c/ | d2 A6          | B2 G2 F3 G        |  G2 E6     |
+|  z  A/A/ Ac    B2 e2    | f2 d6          | z  A/A/ Ac B2 e2  |  f2 a4 B2  |
+|  B2 G4   G/B/c          | d4 A- A/A/d/e/ | e4 c3-/c/e/       |1 e6 E2    :|2 e2 G2 F3 G |
+|  G2 E4   -     E/E/A/B/ | c2 cB A3 A/B/  | A8               ||
+
+X:1
+T:Rohan
+R:air
+M:4/4
+L:1/8
+K:Edor
+|: z e/2e/2 eg f2 g2 | a2 e6 | z e/2e/2 eg f2 b2 | c'2 e'6 |
+| z B/2B/2 e/2e/2e f2 gg/2g/2 | a2 e6 | f2 d2 c3 d | d2 B6 |
+| z e/2e/2 eg f2 b2 | c'2 a6 | z e/2e/2 eg f2 b2 | c'2 e'4 f2 |
+| f2 d4 d/2f/2g | a4 e- e/2e/2a/2b/2 | b4 g3-g/2b/2 |1 b6 B2 :|2 b2 d2 c3 d |
+| d2 B4 - B/2B/2e/2f/2 | g2 gf e3 e/2f/2 | e8 ||
+
+X:1
+T:Rohan
+R:air
+M:4/4
+L:1/8
+K:Edor
+|: z E/2E/2 EG F2 G2 | A2 E6 | z E/2E/2 EG F2 B2 | c2 e6 |
+| z B,/2B,/2 E/2E/2E F2 GG/2G/2 | A2 E6 | f2 d2 c3 d | d2 B6 |
+| z E/2E/2 EG F2 B2 | c2 A6 | z E/2E/2 EG F2 B2 | c2 e4 f2 |
+| f2 d4 d/2f/2g | a4 e- e/2e/2a/2b/2 | b4 g3-g/2b/2 |1 b6 B2 :|2 b2 d2 c3 d |
+| d2 B4 - B/2B/2e/2f/2 | g2 gf e3 e/2f/2 |  e8  ||
+
+
+X:1
+T:Rohan
+R:air
+M:4/4
+L:1/8
+K:Edor
+| z E/2E/2 EG F2 G2 | A2 E6 | z E/2E/2 EG F2 B2 | c2 e6 |
+| z B,/2B,/2 E/2E/2E F2 GG/2G/2 | A2 E6 | f2 d2 c3 d | d2 B6|
+| z E/2E/2 EG F2 G2 | A2 E6 | z E/2E/2 EG F2 B2 | c2 e6 |
+| z B/2B/2 e/2e/2e f2 gg/2g/2 | a2 e6 | f2 d2 c3 d | d2 B6 ||
+%| z E/2E/2 EG F2 G2 | A2 E6 | z E/2E/2 EG F2 B2 | c2 e6 |
+%| z B,/2B,/2 E/2E/2E F2 GG/2G/2 | A2 E6 | f2 d2 c3 d | d2 B6 |
+| z E/2E/2 EG F2 B2 | c2 A6 | z E/2E/2 EG F2 B2 | c2 e4 f2 |aaaaa
+| f2 d4 d/2f/2g | a4 e- e/2e/2a/2b/2 | b4 g3-g/2b/2 | b2 d2 c3 d |
+| d2 B4 - B/2B/2e/2f/2 | g2 gf/e/ d2 de/f/ | e2 ed/c/ B3 A | B3 B/B/ A3 A/A/ | B8 |
+
+
+
+
+
+X: 1
+T: Rohan
+C: Howard Shore
+S: CutiePie on YouTube – https://www.youtube.com/watch?v=PRWkAzQmNZ4&list=PLfUZy8uhccNg2Xx3W9v0WQVHTYMt6Gvrl&index=3&t=75s
+Z: Transcription: Alina Larson (from whistle tabs)
+R: Air
+M: 4/4
+L: 1/8
+K:Edor
+P: CutiePie setting %(each line break being one cluster of notes)
+%1st system
+z E/E/ EG F2 G2|A2 E6|\
+E2 E2 E3 D|E8|\
+z E/E/ EG F2 G2|A2 d6|\
+z B/B/ e/e/e f2 g2|a2 e6|\
+f2 d2 c3 d|d2 B6||
+%2nd system
+z E/E/ EG F2 G2|A2 E6|\
+z E/E/ EG F2 B2|c2 e6|\
+z B/B/ e/e/e f2 g2|a2 e6|\
+f2 d2 c3 d|d2 B6||
+%3rd system
+z E/E/ EG F2 G2|A2 E6|\
+z E/E/ EG F2 G2|A2 d6|\
+z B/B/ e/e/e f2 g2|a2 e6|\
+f2 d2 c3 d|d2 B6||
+%4th system
+z E/E/ EG F2 G2|A2 E6|\
+z E/E/ EG F2 B2|c2 e6|\
+z B/B/ e/e/e f2 g2|a2 e6|\
+f2 d2 c3 d|d2 B6||
+%5th system
+z E/E/ EG F2 G2|A2 E6|\
+F2 D2 D3 E|D8|]

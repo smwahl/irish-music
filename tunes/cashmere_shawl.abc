@@ -1,11 +1,12 @@
-X: 1
-T: Cashmere Shawl
-R: reel
-M: 4/4
-L: 1/8
-K: Dmaj
-|B2Bc BAFA | BABc  e2cA| BdcA BAFf |1 afec dBcA :|2  afec d3e|
-|f2fa fede | fAdf  e2de | f2fa fede | fgaf e2de | 
-|f2fa fede | fAdf  e2de | faa2 fbb2 | afec dBcA ||
+
+X:1
+T:The Cashmere Shawl
+L:1/8
+M:4/4
+R:reel
+K:Bmin
+B3 c BAFA | BABc e2 cA | Bd cA BA FA |1 afec dBcA :|2 afec d3 e || 
+f3 a fede | fAdf e2 de | f3 a fede | fgaf e2 de | 
+f3 a fede | fAdf e2 de | fa a/a/a fb b/b/b | afec dBcA || 
 
 

@@ -1,0 +1,97 @@
+X: 1
+T: The Halloween
+C: Jean Dirval
+%O: Quebec
+S: PDF from Will Wheeler
+Z: Transcription: Alina Larson; chords: fiddle castro (YouTube video)
+R: Jig
+M: 6/8
+L: 1/8
+K: Bm
+F|:\
+"Bm"B3 Bcd|"A"c2A ABc|"G"B2G GAB|"F#m"A2F FEF|
+"Bm"B3 Bcd|"A"c2A ABc|"D"def "F#m"edc|1 "Bm"B3 BAF:|2 "Bm"B3 Bde|]
+|:"D"f2f fed|"A"cde Adc|"G"Bcd dcB|"F#m"cFF Fde|
+"Bm"f2f fed|"A"cde Adc|"G"Bcd "F#m"cBA|1 "Bm"B3 Bde:|2 "Bm"B3 B3|]
+
+X: 2
+T: The Addams Family
+S: PDF from Will Wheeler
+Z: Transcription: Alina Larson; chords: Will Wheeler ?
+R: Jig
+M: 6/8
+L: 1/8
+K: G
+D3|:\
+"G"G2B A2G|"C"EA2- A2G|"D"F2A G2E|"G"DG2- G2D|\
+"G"G2B A2G|"C"EA2- A2G|
+"D"F2D E2F|1 "G"G3 D3:|2 "G"G3 DEF\
+|:"G"Gz2 z3|z3 EF^G|
+"A"Az2 z3|z3 EF^G|\
+"A"Az2 EF^G|"A"Az2 DEF|"G"Gz2 z3|1 z3 DEF:|2 "D7"z3|]
+
+X: 3
+T: Jump at the Sun %(in Em, Dm)
+C: John Kirkpatrick
+%O:England
+S: PDF from Will Wheeler
+Z: Transcription: Alina Larson; chords: Mike Long
+R: Jig
+M: 6/8
+L: 1/8
+K:Em
+"Em"EGB ^A2B|EGB ^A2B|eBB eBB|"B"cBA GAF|\
+"Em"EGB ^A2B|EGB ^A2B|
+eBB "Am"cBA|"B"GAF "Em"E3:|\
+|:"Em"eBB efg|"B"fBB agf|"Em"eBB efg|
+"B"f2B c2B|\
+"Em"eBB efg|"B"fBB agf|"Em"eBB "Am"cBA|"B"GAF "Em"E3:|
+%P: In Em (transposed from Dm setting)
+%K:Em
+%"Em"EGB ^A2B|EGB ^A2B|eBB eBB|"B"cBA GAF|\
+%"Em"EGB ^A2B|EGB ^A2B|
+%eBB "Am"cBA|"B"GAF "Em"E3:|\
+%|:"Em"e2B gfe|"B"f2B agf|"Em"e2B gfe|
+%"B"B^AB c2B|\
+%"Em"e2B gfe|"B"f2B agf|"Em"eBB "Am"cBA|"B"GAF "Em"E3:|
+%P: In Dm
+%K: Dm
+%"Dm"DFA ^G2A|DFA ^G2A|dAA dAA|"A"BAG FGE|\
+%"Dm"DFA ^G2A|DFA ^G2A|
+%dAA "Gm"BAG|"A"FGE "Dm"D3:|\
+%|:"Dm"d2A fed|"A"e2A gfe|"Dm"d2A fed|
+%"A"A^GA B2A|\
+%"Dm"d2A fed|"A"e2A gfe|"Dm"dAA "Gm"BAG|"A"FGE "Dm"D3:|
+
+X: 4
+T: Funeral March of a Marionette
+T: Alfred Hitchcock Theme
+C: F. Gounod
+S: PDF from Will Wheeler
+Z: Transcription: Alina Larson; chords: Will Wheeler; harmony line: Richard Page
+R: Jig
+M: 6/8
+L: 1/8
+K: Am
+V:1 clef=treble
+E|:\
+"Am"c2c cBA|"E7"B2c d2E|"Am"c2c cBA|"E7"B2c d2E|
+|1 "Am"A2c "G"e2d|"C"c2e "G"g2f|"Em"e2g "B7"b2a|"E7"^g>fe dcE:|
+|2 "Am"c2e "G7"g2f|"C"edc "G"_Bdf|"Am"A^GA "E"=B2c|"E7"B3 "Am"A2z|]
+[|"E"e2E E^DE|"B7"^G2^F "E"E3|"E"e2E E^DE|"B7"^G2^F "E"E3|\
+"E"e2E "F"FGA|"E"B2E "F"FGA|
+"E"B2E EDE|"E7"DED c2B||\
+"Am"A2c cBA|"E7"B2c d2E|"Am"c2c cBA|
+"E7"B2c d2E|\
+"Am"c2e "G7"g2f|"C"edc "G"_Bdf|"Am"A^GA "E"=B2c|"E7"B3 "Am"A2|]
+V:2 clef=treble
+B,|:\
+A,2A A^G^F|^G2A B2B,|A,2A A^G^F|^G2A B3|
+| A2c e2d|c2e g2f| e2g b2a|^g>fe dcB,:|
+| c2e g2f|edc _Bdf| A^GA =B2c|B3 A2z|]
+[|e2E E^DE|^G2^F E3|e2E E^DE|^G2^F E3|\
+e2E FGA|B2E FGA|
+B2E EDC|DED C2B,||\
+A,2A A^G^F|^G2A B2B,|A,2A A^G^F|
+^G2A B3|\
+c2e g2f|edc _Bdf|A^GA =B2c|B3 A2|]

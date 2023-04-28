@@ -15,7 +15,7 @@ K:F
 
 
 
-X:1
+X:
 T:Black Pat's
 C:Tommy Peoples
 M:4/4
@@ -43,3 +43,50 @@ K:Gmaj
    GFGA     {A}GEDE      | GFGA    Bdga               | bg      g/2g/2g ageg |  dgba    g2ga         ||
 |: b2{c'}bg egde         | gedB    G4                 | b2gd    bdgd         |  ea      a/2a/2a abga  |
    b2{c'}bg egde         | gedB    dega               | b/2a/2g ag      egdB |1 Ad{d}BA GABd         :|2 Ad{d}BA GEDE | G8 |]
+
+
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:Dmaj
+[A,D]2 FA BF AF | EA{A} FE DB, A,B, | D2 F/2G/2A BA FE | FA df ef/2e/2 de |
+fd d/2d/2d ed cd | AB dB AF EF | D2 F/2G/2A BF AF | EA{A} FE DB, A,B, :|
+D3 E{E}D B,A, B, | D CD EF BB/2B/2B | A2 FD AD FD | EA{A} FE DB, A,B, |
+DC DE{E} DB, A,B, | DC DE FA de | fd d/2d/2d ed Bd | Ad fe dA Bd |
+[DA]3 F{G} FE DB, | A,D D/2D/2D FB B/2B/2B | A2 FD AD FD | EA{A} FE DB, A,B, |
+DC DE{E} DB, A,B, | DC DE FA de | fd d/2d/2d ed Bd | Ad fe d2 de ||
+|: f2{g} fd Bd AB | dB AF D4 | [Adf]2 dA fA dA | Be e/2e/2e ef de |
+f2{g} fd Bd AB | dB AF AB de | f/2e/2d ed Bd AF |1 EA{A} FE DE FA :|2 EA{A} FE DB, A,B, | [A,D]8 |]
+
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:Dmaj
+D2 FA BF AF | EA{A} FE DB AF | D2 F/2G/2A BA FE | FA df ef/2e/2 de |
+fd d/2d/2d ed cd | AB dB AF EF | D2 F/2G/2A BF AF | EA{A} FE DB AF :|
+D3 E{E}D B AF | D3 EF BB/2B/2B | A2 FD AD FD | EA{A} FE DB AF |
+D3 E{E} DB AF | D3 E FA de | fd d/2d/2d ed Bd | Ad fe dA Bd |
+A3 F{G} FE ED | AD D/2D/2D FB B/2B/2B | A2 FD AD FD | EA{A} FE DB AF |
+D3 E{E} DB AF | D3 E FA de | fd d/2d/2d ed Bd | Ad fe d2 de ||
+|: f2{g} fd Bd AB | dB AF D4 | f2 dA fA dA | Be e/2e/2e ef de |
+f2{g} fd Bd AB | dB AF AB de | f/2e/2d ed Bd AF |1 EA{A} FE DE FA :|2 EA{A} FE DB AF | [A,D]8 |]
+
+
+X:1
+T:Black Pat's
+C:Tommy Peoples
+M:4/4
+K:Dmaj
+D2 FA BF AF | EA{A} FE DG FE | D2 F/2G/2A BA FE | FA df ef/2e/2 de |
+fd d/2d/2d ed cd | AB dG FE EF | D2 F/2G/2A BF AF | EA{A} FE DG FE :|
+D3 E{E}D G FE | D3 EF BB/2B/2B | A2 FD AD FD | EA{A} FE DG FE |
+D3 E{E} DG FE | D3 E FA de | fd d/2d/2d ed Bd | Ad fe dA Bd |
+A3 F{G} FE ED | AD D/2D/2D FB B/2B/2B | A2 FD AD FD | EA{A} FE DG FE |
+D3 E{E} DG FE | D3 E FA de | fd d/2d/2d ed Bd | Ad fe d2 de ||
+|: f2{g} fd Bd AB | dG FE D4 | f2 dA fA dA | Be e/2e/2e ef de |
+f2{g} fd Bd AB | dG FE AB de | f/2e/2d ed Bd AF |1 EA{A} FE DE FA :|2 EA{A} FE DB AF | [A,D]8 |]
+

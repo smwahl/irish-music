@@ -15,3 +15,55 @@ L:1/8
 K:Amix
 E<A, A,2 B,>G, D>B, | E<A, A,2 D>G (3FED | E<A, A,2 B,>G, D>B, | G<B, G,>B, D>G (3FED :|
 C<E E>F G>E A>E | C<E E>F G>E (3FED | C<E E>F G>E A>E | D<B, G,>B, D>G (3FED :|
+
+X: 1
+T: Mrs Martha Knowles
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+e|:A2 e2 deed|e2 dB gdde|A2 BG AABd|e2 Bg AAAe:|
+|:Aaag aeea|g2 eg d2 eg|BGGA B2 AB|edBg AAAe:|
+|:Aeed eAAe|dgBd Gdde|A2 BG AABd|e2 Bg AAAe:|
+|:aeea e2 a(e|e)aea gedB|A2 BG AABd|1 e2 Bg AAAe:|2 e2 Bg AA Az||
+
+X: 2
+T: Mrs Martha Knowles
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+e/|:A2 e2 d>ee>d|{f}e2 d>B g>dd<e|(3AAA B>G {B}A2B>d|{f}e2 B<g AAA>e:|
+|:A>aa>g a>ee<a|g2 e<g d2 e<g|B>GG>A {c}B2 A>B|e>dB<g AAA>e:|
+|:A>ee>d e>AA<e|d<gBd G>dd<e|A2 B>G {B}A2Bd|{f}e2 B<g AAA>e:|
+|:a>ee>a e2 a(e|e)ae>a g>ed>B|A2 B>G A2B>d|1 {f}e2 B>g AAA>e:|2 e2 B>g AA A z||
+
+X: 2
+T: The Pitnacree Ferrymen
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:f|aA A/A/A fede|f2ef dB B/B/B|aA A/A/A fede|fedB A/A/A A:|
+|:B|AGAB defd|e/e/e fd edBd|AGAB defd|efdB A/A/A A:|
+
+X: 2
+T: The New Shilling
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+Bcde f2 ea|cAeA aAec|
+Bcde f2 ea|cAec B2f2:|
+|:B2 b^a b2 bf|abaf deed|
+efab faea|cAec B2f2:|
+
+X: 3
+T: The New Shilling
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:Bcde f2ea|cAeA aAec|Bcde faea|cAec B/B/Bf2:|
+B/B/B b^a bff^g|abaf defd|efab faea|cAec B/B/Bf2|
+B/B/B b^a bBbf|abaf defd|efab faea|cAec B/B/B f2||

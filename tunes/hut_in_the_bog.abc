@@ -32,3 +32,27 @@ d3 f{f} dc Bc | df dB c2 Bc | d3 f{f} dc Bc |df dB cd/2c/2 Bc |
 d3 f{f} dc Bc | d_efd c2 Bc | d ~f3 d ~g3 | fd cA B2 A/2B/2c || 
 dBfB d ~B3 | dBfd cd/2c/2 Bc | dBfB dBBa | gfdB cd/2c/2 Bc | 
 f ~B3 F ~B3 | dBfd cd/2c/2 Bc | d ~f3 d ~g3 | fd cA B2 Bc AB||
+
+X:1
+T:Hut in the Bog
+R:Reel
+M:4/4
+K:Gmin
+G3 AG F D2 | GF GA Bc A B | G3 AG F D2 | fd cA Bc AB | 
+G2 AG{A} GF D2 | GF GA Bc AB | G3 AG F D2 | fd cA B2 A/2B/2c || 
+d3 f{f} dc Bc | df dB c2 Bc | d3 f{f} dc Bc |df dB cd/2c/2 Bc | 
+d3 f{f} dc Bc | d_efd c2 Bc | d ~f3 d ~g3 | fd cA B2 A/2B/2c || 
+dBfB d ~B3 | dBfd cd/2c/2 Bc | dBfB dBBa | gfdB cd/2c/2 Bc | 
+f ~B3 F ~B3 | dBfd cd/2c/2 Bc | d ~f3 d ~g3 | fd cA B2 Bc AB||
+
+X:1
+T:Hut in the Bog
+R:Reel
+M:4/4
+K:Emin
+E3 FE D ~D,2 | ED EF GA F G | E3 FE D ~D2 | dB AF GA FG | 
+E2 FE{F} ED ~D2 | ED EF GA FG | E3 FE D ~D2 | dB AF G2 F/2G/2A || 
+B3 d{d} BA GA | Bd BG A2 GA | B3 d{d} BA GA |Bd BG AB/2A/2 GA | 
+B3 =c BA GA | B=cdB A2 GA | B ~d3 B ~e3 | dB AF G2 F/2G/2A || 
+BGdG B ~G3 | BGdB AB/2A/2 GA | BGdG BGGf | edBG AB/2A/2 GA | 
+d ~G3 D ~G3 | BGdB AB/2A/2 GA | B ~d3 B ~e3 | dB AF G2 GA FG||

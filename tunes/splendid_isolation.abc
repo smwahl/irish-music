@@ -48,7 +48,11 @@ F |: GBAF   GdcA       | G/G/G AG       FGAc  |  dAcA GABc           |  dggf g2g
   |: g2      ag   fd d/d/d   | gfdc  Acdc           |  AG   G/G/G Acdc     |  AG   G/G/G F2 FE  |
      F2AF    GFAF            | G/G/G AG       FGAc  | dg   g/g/g fgag |1  fdcA GABd :|   |2 fdcA  [G3G,3]F||
 
+%  |: g2      ag   fd d/d/d   | gfdc  Acdc           |  AG   G/G/G Acdc     |  AG   G/G/G F2 FE  |
+%  ~F2AF GdcA         | G/G/G AG       FGAc  | dg   g/g/g fgag |1  fdcA GABd :|   |2 fdcA  [G3G,3]F||
 
+%  |: g2      ag   fd d/d/d   | gfdc  Acdc           |  AG   G/G/G Acdc     |  AG   G/G/G F2 FE  |
+%  FGAF GdcA         | G/G/G AG       FGAc  | dg   g/g/g fgag |1  fdcA GABd :|   |2 fdcA  [G3G,3]F||
 
 X: 7
 T: Splendid Isolation (variation
@@ -57,3 +61,26 @@ M: 4/4
 L: 1/8
 K: Gdor
 G(3DEF |: G2AF   GdcA 
+
+X: 7
+T: Splendid Isolation
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+F |: GBAF GdcA          | G/G/G AG   FGAc | dAcA  GABc       |  dggf g2ga            |
+     bgag fd   d/d/d    | efge  fdcA      | G/G/G AG    FGAc |1 dAcA [G3G,3]F       :|2    dAcA GABd         ||
+  |: g2   ag   fd d/d/d | gfdc  Acdc      | AG    G/G/G Acdc |  AG   G/G/G    F2 FE  |
+     FGAF GdcA          | G/G/G AG   FGAc | dg    g/g/g fgag |1 fdcA GABd           :|   | 2    fdcA [G3G,3]F||
+
+
+X:7
+T:Splendid Isolation
+R:reel
+M:4/4
+L:1/8
+K:Edor
+D |: EGFD EBAF | E/2E/2E FE DEFA | BFAF EFGA | Beed e2ef |
+gefe dB B/2B/2B | cdec dBAF | E/2E/2E FE DEFA |1 BFAF [E3E,3]D :|2 BFAF EFGB ||
+|: e2 fe dB B/2B/2B | edBA FABA | FE E/2E/2E FABA | FE E/2E/2E D2 DC |
+DEFD EBAF | E/2E/2E FE DEFA | Be e/2e/2e defe |1 dBAF EFGB :||  dBAF [E3E,3]D||

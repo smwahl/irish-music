@@ -53,3 +53,13 @@ fe |: "Bb" d4 c2 | "Fno3/C" A3 GF2 | "Csus4" G2 A2 F2 | "Dm7" D2 C2 D2 | "Fno3/C
 |: "Fno3" ga f2 c2 | "Bb" d3 ec2 | d3 ec2 | d2 c2 B2 | "Fno3" ga f2 c2 | "Bb" d3 cB2 | "F/C" A3 BF2 | "Csus2 (alt Bb)" G6 | 
 | "Fno3" ga f2 c2 | "Bb" d3 ec2 | d3 ec2 | d2 c2 B2 | "Dm7" A2 B2 F2 | "Csus4" G3 A/2G/2F2 |1 G3 A/2G/2F2 | G3 A/2G/2F2 :|2 "Bb/D"{C}D3 C "Fno3/E"E2| F4 || 
 
+X:1
+T:Shaped by the Stream
+R:waltz
+M:3/4
+L:1/8
+K:Gmaj
+gf |: "C" e4 d2 | "Gno3/D" B3 AG2 | "Dsus4" A2 B2 G2 | "Em7" E2 D2 E2 | "Gno3/D" G4 A2 | "Dsus4" B3 AG2 | "G/D" A2 B2 d2 | "C" e4 gf | 
+| "C" e4 d2 | "Gno3/D" B3 AG2 | "Dsus4" A2 B2 G2 | "Em7" A2 G2 E2 | "Dsus4" A3 B/2A/2G2 | "Gsus4" A2 G2 E2 | "Dsus4 " D2 "(C/E) "E2 "Gno3/F#"F2 |1 "Gno3" G4 gf :|2 "Gno3" G6 ||
+|: "Gno3" ab g2 d2 | "C" e3 fd2 | e3 fd2 | e2 d2 c2 | "Gno3" ab g2 d2 | "C" e3 dc2 | "G/D" B3 cG2 | "Dsus2 (alt C)" A6 | 
+| "Gno3" ab g2 d2 | "C" e3 fd2 | e3 fd2 | e2 d2 c2 | "Em7" B2 c2 G2 | "Dsus4" A3 B/2A/2G2 |1 A3 B/2A/2G2 | A3 B/2A/2G2 :|2 "C/E"{D}E3 D "Gno3/F#"F2| G4 || 

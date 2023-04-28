@@ -1,34 +1,14 @@
-X: 12
+
+X:1
 T:The Punch in the Dark
 C:Gerry O'Connor
-D:Sean Smyth : Blue Fiddle
-M:C
 L:1/8
-K:Bdor
-B2 Bd cBdc| BdcA FEFB| dcBd cBdB| caag afec|
-B2 Bd cBdc| BdcA ~F2 FD| DE ~E2 ABcA|1 caag afec:|2 caag aece||
-|:eaag aece| ~a2 ae gabg| ga ~a2 aece| dcBd cAce|
-eaag aece| ~a2 ae gabg| ga ~a2 aece|1 dcBd cace:|2 dcBd cAdc ||
+Q:1/4=120
+M:4/4
+K: Amaj
+B3 d ^cBdc | BdcA F3 A | BABd cBdB | ca{b} ag afec | 
+B3 d cBdc | BdcA F3 G | AE E/E/E ABce |1 fcec B3 A :|2 fcec Befg ||
+|: a3 g aece | a3 f gabg | a3 g aece | dcBc defg | a3 g aece |  
+a3 f gabg |1 a3 g aece | dcBc defg :|2 a3 g agfe | fe dc dcBA || 
 
-X: 1
-T: A Punch In The Dark
-R: reel
-M: 4/4
-L: 1/8
-K: Bdor
-|:B3d cBdc|BdcA F3A|BdcB dcBd|caag afec|
-dcBd cBdc|BdcA F3E|C3F EFAB|1 cdec decd:|2 cdec defg||
-|:a2ag aece|~a3e gabg|a2ag aece|dB~B2 defg|
-a2ag aece|~a3e gabg|a2ge (3fga ec|1 dcBc defg:|2 decd Bdcd||
 
-X: 2
-T:The Punch in the Dark
-C:Gerry O'Connor
-D:Sean Smyth : Blue Fiddle
-M:C
-L:1/8
-K:Bdor
-B2 Bd cBdc| BdcA FEFA| BdcB dcBd| caag afec|
-B2 Bd cBdc| BdcA ~F2 FD| DE ~E2 ABcA|1 caag afec:|2 dcBd defg||
-|:a2ag aece| ~a2 ae gabg| ga ~a2 aece| dcBd cAce|
-eaag aece| ~a2 ae gabg| ga ~a2 aece|1 dcBc defg:|2 dcBd cAdc ||
