@@ -1,0 +1,44 @@
+X: 1
+T: Superfly
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:Bf ~f2 gfeg|f3 g fedf|e3 f edce|dBBA BAFA|
+Bf ~f2 gfeg|f3 g fedf|e3 f edce|dBBA B2 BA:|
+|:Bcde f2 Bc|defB g2 Bc|defd agfa|gfeg fedc|
+Bcde f2 Bc|defB g2 Bc|defd agfa|gfeg fedc:|
+
+X: 2
+T: Superfly
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:Bf ~f2 gfeg|f2 fg fedf|e2 ef edce|ed c/B/A BAFA|
+Bf ~f2 gfeg|f2 fg fedf|e2 ef edcd|ed c/B/A B2 BA:|
+|:Bcde f2 Bc|defB g2 Bc|defB a2 fa|gfed ed c/B/A|
+[1 Bcde f2 Bc|defB g2 Bc|defB a2 Bc|defd gfed:|
+[2 Bcde f2 Bc|defB g2 Bc|defB a2 fa|gfed ed c/B/A|
+
+X: 4
+T: Superfly
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:Bf~f2 gfeg|~f3g fedf|~e3f edcd|ed (3cBA BAFA|
+Bf~f2 gfeg|~f3g fedf|efdf edcd|ed (3cBA B2BA:|
+|:Bcde f2Bc|defB g2Bc|defd aa fa|gfed ed (3cBA|
+Bcde f2Bc|de (3fed g2Bc|defd aa fa|gfed ed (3cBA:|
+
+X: 4
+T: Superfly (Mix with McGoldrick version)
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|:Bf~f2 gfeg|~f3g fedf|~e3f edcd|ed (3cBA BAFA|
+Bf~f2 gfeg|~f3g fedf|efdf edcd|ed (3cBA B2BA:|
+|:Bcde f2Bc|defB g2Bc|defd agfa|gfed fedc|
+Bcde f2Bc|de (3fed g2Bc|defd agfa|gfed ed (3cBA:|

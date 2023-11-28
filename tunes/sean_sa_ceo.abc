@@ -45,3 +45,16 @@ K:Dmix
 | F~D3 A,DEG | F~D3 GCEG| F~D3 A,DFD |(3EFG cA GAB^c ||
 | d2 fd edfd | ~d2fd A2 AB | c2 ec dcec | (3ccc ec ABcA |
 | d2 fd edfd | defd ~A3B | ~c3e dcAB | cBcA GCEG ||
+
+
+X:1
+T:Sean Sa Cheo
+M:4/4
+L:1/8
+K:Dmix
+|: A2 Gc AD (3EFG | A~A2F GCEG | DAAG ABcA | GBcA GCEG |
+|  A2 Gc AD (3EFG | AGAF GC (3EFG | ~A3G ABcA | GBcA GCEG |
+| F~D3 FDEG | F~D3 GCEG| F~D3 A,DFD | (3EFG cA GCEG |
+| F~D3 A,DEG | F~D3 GCEG| F~D3 A,DFD |(3EFG cA GAB^c ||
+| d2 fd edfd | ~d2fd A2 AB | c2 ec dcec | (3ccc ec GAB^c |
+| d2 fd edfd | defd ~A3B | ~c3e dcAB | cBcA GCEG ||
