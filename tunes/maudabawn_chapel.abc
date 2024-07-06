@@ -9,6 +9,27 @@ EF|:"C" G3 F E2 DB,|"G/B" G,A,B,D"C" E2 DB,|"G/B" G,A,B,D GABd|"C" gabg efga|
 |:"Em" E2 BE dEBE|"D" Ed^cB AD (3FED|"Em" E2 BE dEBE|{/^c}"D" BA FD A,DFD|
 "Em" EBBA B3 d|BAGA B^cde|"D" fd ~d2 gfe^c|1 "D" dBAF "Em" GEED:|2 "D" dBAF "Em" GEEF||
 
+X: 1
+T: Maudabawn Chapel
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G3 D E2 DB,|G,A,B,D EGDB,|G,A,B,D GABd|gabg eaaf|
+gbag efge|dged B^cde|g2 fa gedB|AcBA GEED:|
+|:E2 BE dEBE|Ed^cB AFDF|~E3 F GFGB|AF (3FFF DFAF|
+EBBA B3 B|BAGA B^cde|f2 af gfe^c|dBAF GEED:|
+
+X: 2
+T: Maudabawn Chapel
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:G3 D E2 DB,|G,A,B,D EGDB,|G,A,B,D GABd|gabg eaaf|
+[1gbag efge|dged B^cde|g2 fa gedB|AcBA GEED:|
+[2 ~g3a b/a/g a/g/f|gfed eage|dged BedB|AGBA GEED||
+
 
 X: 8
 T: Maudabawn Chapel
@@ -53,3 +74,16 @@ L: 1/8
 K: Gmaj
  |: E2 BE dEBE| Ed^cB AD (3FED|~E3 F GFGB|A ~F2 D A,DFD|
  EBBA B3 d|BAGA B^cde| fd ~d2 gfe^c|1 "D" dBAF  GEED:|2  dBAF  GEEF||
+
+
+X: 8
+T: Maudabawn Chapel
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+EF|: G3 F E2 DB,| G,A,B,D E2 DB,| G,A,B,D GABd| gabg eaaf|
+[1gbag efge|dged B^cde|g2 fa gedB|AcBA GEEF:|
+[2 ~g3a b/a/g a/g/f|gfed eage|dged BedB|AcBA GEED||
+|: E2 BE dEBE| Ed^cB AD (3FED|~E3 F GFGB|AF (3FFF DFAF|
+ EBBA B3 d|BAGA B^cde| fd ~d2 gfe^c|1 dBAF  GEED:|2  dBAF  GEEF||

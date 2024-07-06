@@ -1,0 +1,27 @@
+X: 6
+T: The Bunch Of Keys
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GF|DGGF G3A|BGdG eGdG|DFFE F3G|AF F2 dFAF|
+DGGF G3A|BDGA BA (2Bcd|f3d cAFA|1 (3Bcd cA G3F:|2 (3Bcd cA G2 Bc||
+|:dggf g3a|bg g2 bgaf|dffe f3g|af f2 afbf|
+dggf g3a|bgag fdde|f3d cAFA|(3Bcd cA G3A:|
+|:BG G2 BGdG|BG G2 (3Bcd gd|AF F2 AFcF|AF F2 ABcA|
+BG G2 BDGA|BGGA BA (3Bcd|f3d cAFA|(3Bcd cA G3A|
+|:BD D2 BDdD|BDGA (3Bcd gd|AD D2 ADBD|AD D2 ABcA|
+BDGB DGBD|BDGA BA (3Bcd|f3d cAFA|(3Bcd cA G2||
+
+
+X: 6
+T: The Bunch Of Keys (mec lir version)
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+GF |:DGGF ~G3A|BGdG eGdG|DFFE ~F2cF|~F2cF dFcF |
+DGGF ~G3A|ABGA Bcde | ~f2 (3efg fdcA |1 AGFG AGGF :|2 AGFG AGGc | 
+|:dggf g3a|bg ~g2 bgaf|dffe f3g|af ~f2 afgf|
+|1 dggf g3a|bg ~g2 bgaf | ~f2 (3efg fdcA | AGFG AGGc :|
+|2 dg~g2 dgBg|~g2 cfAf  | fd (3efg fdcA | AGFG AGGF |

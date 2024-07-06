@@ -1,0 +1,121 @@
+X:1
+
+T:Ai, Mouraria x
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+I:linebreak $
+K:C
+"C" E2 Gc cBcd |"D7" e2 d4 cA |"G7" e2 d2 B3 G |"C" c8- |"Cm" c z C2 _E3 _A |:$ 
+[K:Eb]"G7""^A" G2 D6 |"G7" F2 FF F G2 E |"Cm" (3DED C6- | C z E2 G3 c |"Bb7" B2 F6 | B2 BB- B=ABd | 
+"Eb" c2 G6- |"G7" G2 z2 (3G2 c2 =B2 |$"Cm" d2 c2- ccGE | D2 C2 z C DE |"Fm" G2 F6- | 
+"G7" F2 z2 (3G2 d2 ^c2 | e2 d2- dd=BG |$"G7" F2 D2 z D EF |"Cm" (3ABA"G7" G6- |"Cm" G z C2 E3 A | 
+"G7" G2 D6 | F2 FF F G2 E |"Cm" (3DED C6- | C z E2 G3 c |$"Bb7" B2 F6 | B2 BB- B=ABd |"Eb" c2 G6- | 
+"G7" G2 z2 (3G2 c2 =B2 |"Cm" d2 c2- ccGE |$"C7" D2 C2 z C D=E |"Fm" B2 A6- | A2 z2 d2 cB | 
+"Cm" (3ABA G2 c2 BA |"G7" (3GAG F2 G2 FE |"C" (3D=ED C6- | C z =A2"C#dim7" G3 F ||$ 
+[K:C]"G7""^B" B,2 B,6 | D2 BA D B2 A |"C" C8 | E2 Gc- cBcd |"E7" e2 B4 ^GE |$ 
+"F" (d4"F#dim7" d)cBc |"C6" (3ABA G6- |"C" G z A2"C#dim7" G3 F |"G7" B,2 B,6 | D2 BA D B2 A | 
+"C" C8 |$"C" E2 Gc- cBcd |"D7" e2 d4 cA |"G7" e2 d2 B3 G |1"C" c8- | c"^A" z"^B""^to" C2 _E3 _A :|2 
+"C" c8- | c z A2"C#dim7" G3 F :|3$"C" c8- | c2 z2 c'2 z2!fine! |] 
+
+X:1
+T:Ai, Mouraria x
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+I:linebreak $
+K:Amaj
+"A" c2 ea agab |"B7" c'2 b4 af |"E7" c'2 b2 g3 e |"A" a8- |"Am" a z A2 =c3 =f |:$ 
+[K:Cmaj]"E7""^A" e2 B6 |"E7" d2 dd d e2 c |"Am" (3BcB A6- | A z c2 e3 a |"G7" g2 d6 | g2 gg- g^fgb | 
+"C" a2 e6- |"E7" e2 z2 (3e2 a2 ^g2 |$"Am" b2 a2- aaec | B2 A2 z A Bc |"Dm" e2 d6- | 
+"E7" d2 z2 (3e2 b2 ^a2 | c'2 b2- bb^ge |$"E7" d2 B2 z B cd |"Am" (3fgf"E7" e6- |"Am" e z A2 c3 f | 
+"E7" e2 B6 | d2 dd d e2 c |"Am" (3BcB A6- | A z c2 e3 a |$"G7" g2 d6 | g2 gg- g^fgb |"C" a2 e6- | 
+"E7" e2 z2 (3e2 a2 ^g2 |"Am" b2 a2- aaec |$"A7" B2 A2 z A B^c |"Dm" g2 f6- | f2 z2 b2 ag | 
+"Am" (3fgf e2 a2 gf |"E7" (3efe d2 e2 dc |"A" (3B^cB A6- | A z ^f2"A#dim7" e3 d ||$ 
+[K:Amaj]"E7""^B" G2 G6 | B2 gf B g2 f |"A" A8 | c2 ea- agab |"C#7" c'2 g4 ^ec |$ 
+"D" (b4"D#dim7" b)aga |"A6" (3fgf e6- |"A" e z f2"A#dim7" e3 d |"E7" G2 G6 | B2 gf B g2 f | 
+"A" A8 |$"A" c2 ea- agab |"B7" c'2 b4 af |"E7" c'2 b2 g3 e |1"A" a8- | a"^A" z"^B""^to" A2 =c3 =f :|2 
+"A" a8- | a z f2"A#dim7" e3 d :|3$"A" a8- | a2 z2 a'2 z2!fine! |]
+
+
+X:1
+T:Ai, Mouraria
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+K:Amaj
+C2 EA AGAB |"B7" c2 B4 AF | c2 B2 G3 E | A8- |"Am" A z A,2 =C3 =F |:$ 
+
+
+X:1
+T:Ai, Mouraria
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+K:Amaj
+C2 EA AGAB |"B7" c2 B4 AF | c2 B2 G3 E | A8- |"Am" A z A,2 =C3 =F | 
+|: [K:Cmaj] E2  B,6   | D2    DD    D E2 C     |  (3B,CB,  A,6- | A, z   C2   E3 A    |
+   G2       D6        | G2    GG-   G^FGB      |  A2       E6-  | E2 z2  (3E2 A2 ^G2  |
+   B2       A2- AAEC  | B,2   A,2   z A, B,C   |  E2       D6-  | D2 z2  (3E2 B2 ^A2  |
+   c2       B2- BB^GE | D2    B,2   z B, CD    |  (3FGF    E6-  | E  z   A,2  C3 F    |
+   E2       B,6       | D2    DD    D E2 C     |  (3B,CB,  A,6- | A, z   C2   E3 A    |
+   G2       D6        | G2    GG-   G^FGB      |  A2       E6-  | E2 z2  (3E2 A2 ^G2  |
+   B2       A2- AAEC  | B,2   A,2   z A, B,^C  |  G2       F6-  | F2 z2  B2   AG      |
+   (3FGF    E2  A2 GF | (3EFE D2    E2 DC      |  (3B,^CB, A,6- | A, z   ^F2  E3 D   ||
+   [K:Amaj] G,2 G,6   | B,2   GF    B, G2 F    |  A,8           | C2 EA- AGAB         |
+   c2       G4  ^EC   | (B4   B)AGA            |  (3FGF    E6-  | E  z   F2   E3 D    |
+   G,2      G,6       | B,2   GF    B, G2 F    |  A,8           | C2 EA- AGAB         |
+   c2       B4  AF    | c2    B2    G3 E       |1 A8-           | A  z   A,2  =C3 =F :|
+|2 A8-                | A     z     F2 E3 D   :|3 A8-           | A2 z2  a2   z2      |]
+
+
+X:1
+T:Ai, Mouraria
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+K:Amaj
+   C2       EA  AGAB  | c2    B4    AF         |  c2       B2 G3 E | A8-                 |  A z A,2 =C3 =F |
+|: [K:Cmaj] E2  B,6   | D2    DD    D E2 C     |  (3B,CB,  A,6-    | A,  z C2 E3 A       |
+   G2       D6        | G2    GG-   G^FGB      |  A2       E6-     | E2  z2 (3E2 A2 ^G2  |
+   B2       A2- AAEC  | B,2   A,2   z A, B,C   |  E2       D6-     | D2  z2 (3E2 B2 ^A2  |
+   c2       B2- BB^GE | D2    B,2   z B, CD    |  (3FGF    E6-     | E   z A,2 C3 F      |
+   E2       B,6       | D2    DD    D E2 C     |  (3B,CB,  A,6-    | A,  z C2 E3 A       |
+   G2       D6        | G2    GG-   G^FGB      |  A2       E6-     | E2  z2 (3E2 A2 ^G2  |
+   B2       A2- AAEC  | B,2   A,2   z A, B,^C  |  G2       F6-     | F2  z2 B2 AG        |
+   (3FGF    E2  A2 GF | (3EFE D2    E2 DC      |  (3B,^CB, A,6-    | A,  z ^f2 e3 d     ||
+   [K:Amaj] G2  G6    | B2    gf    B g2 f     |  A8               | C2  EA- AGAB        |
+   c2       G4  ^EC   | (B4   B)AGA            |  (3FGF    E6-     | E   z f2 e3 d       |
+   G2       G6        | B2    gf    B g2 f     |  A8               | C2  EA- AGAB        |
+   c2       B4  AF    | c2    B2    G3 E       |1 A8-              | A   z A,2 =C3 =F   :|
+|  2        A8-       | A     z     F2 E3 D   :|  3        A8-     | A2  z2 a2 z2        |]
+
+X:1
+T:Ai, Mouraria
+C:F. Valerio
+Z:A. Do Vale
+L:1/8
+M:4/4
+K:Amaj
+   c2       ea  agab  | "B7"  c'2   b4 af    |  c'2    b2 g3 e | a8-                 |  "Am" a z A2 =c3 =f |
+|: [K:Cmaj] e2  B6    | d2    dd    d e2 c   |  (3BcB  A6-     | A   z c2 e3 a       |
+   g2       d6        | g2    gg-   g^fgb    |  a2     e6-     | e2  z2 (3e2 a2 ^g2  |
+   b2       a2- aaec  | B2    A2    z A Bc   |  e2     d6-     | d2  z2 (3e2 b2 ^a2  |
+   c'2      b2- bb^ge | d2    B2    z B cd   |  (3fgf  e6-     | e   z A2 c3 f       |
+   e2       B6        | d2    dd    d e2 c   |  (3BcB  A6-     | A   z c2 e3 a       |
+   g2       d6        | g2    gg-   g^fgb    |  a2     e6-     | e2  z2 (3e2 a2 ^g2  |
+   b2       a2- aaec  | B2    A2    z A B^c  |  g2     f6-     | f2  z2 b2 ag        |
+   (3fgf    e2  a2 gf | (3efe d2    e2 dc    |  (3BcB A6-     | A   z ^f2 e3 d     ||
+   [K:Amaj] G2  G6    | B2    gf    B g2 f   |  A8             | c2  ea- agab        |
+   c'2      g4  ^ec   | (b4   b)aga          |  (3fgf  e6-     | e   z f2 e3 d       |
+   G2       G6        | B2    gf    B g2 f   |  A8             | c2  ea- agab        |
+   c'2      b4  af    | c'2   b2    g3 e     |1 a8-            | a   z A2 =c3 =f    :|
+|2        a8-       | a     z     f2 e3 d :|3      a8-     | a2  z2 a'2 z2       |]
+
+
+
