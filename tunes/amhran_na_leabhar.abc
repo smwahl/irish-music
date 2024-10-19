@@ -25,3 +25,15 @@ B{^c}B | [M:4/4] "B,4in"E2   EF "D4out"G3    A | B<e "B4out"e4 ef      | "B4out"
          e3      "B,4in"E    E3 E/F/    | "D4out"G3  F  G/A/ "E5in"B3 | "D5out"A2    F  "B,4in"E3   "A,4out"D2   | "E,8in"E/E/ E6 B ||    
 
 
+
+X:1
+T:Song of the Books
+L:1/8
+Q:1/4=80
+M:4/4
+K:Ddor
+A{=B}A | [M:4/4] D2 DE F3 G | A<d d4 de | d2{e} dc A3 G | A>B c6 |
+d3 D D3 D/2E/2 | F3 E F/2G/2 HA3 | G2 E D3 HC2 | D/2D/2 D6 A :|
+d2 d/2e/2 d3 cd/2e/2 | f3 e d>c A2 | .GA/2 A4 z3/2 A/2B/2 | c3 B c3 B/2c/2 | d4 c A2 G | F2 .GA/2 A3 A/2A |
+D2 DE F3 G | A<d d4 de | d2{e} dc A3 G | A>B c6 |
+d3 D D3 D/2E/2 | F3 E F/2G/2 HA3 | G2 E D3 HC2 | D/2D/2 D6 z |]
