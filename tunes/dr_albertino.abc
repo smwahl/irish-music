@@ -92,5 +92,43 @@ A,B,DF             ABdf              | f<a2E     =F^FA/F/E             | D=CB,B,
 dBGE               D2B,A,-           | A,BAF     EDB,A,                | ^G,D    F2       A,CE2            | D4      z   ddd               |
 dBGE               D2B,A,-           | A,BAF     EDB,A,                | ^G,D    F2       A,CE2            | D8                            |
 
+X:1
+T:Dr. Albertino
+R:tango
+L:1/8
+Q:1/4=120
+M:4/4
+K:Amin clef=treble
+| G/^F/   =F2  F,2 G,2 ^G,2 A,2|
+
+
+
+X:2
+T:Dr. Albertino
+L:1/8
+Q:1/4=120
+M:4/4
+K:Amin
+z                 A      fd _B2 A2 | ^G3/2     B3/2   d/f/ e3      | z       A        e^c A2 G2        | F3/2   A3/2 ^c/e/ d3          |
+^G,A,             DF     _BA =GF   | F/G/F/E/- E2     A,/^G,/ =G,3 | z       A,       ^CE AG FE        | G/^F/  =F6  z                 |
+z                 A      fd _BF A2 | ^G3/2     B3/2   d/f/ e3      | z       A        e^c A2 G2        | F3/2   A3/2 ^c/e/ d2 [G,_B,]- |
+[G,B,][B,D]/[DF]/ [G_B]F ED ^CD    | E/F/E/D/- D_B,   A,F, E,D,    | F,A,/D/ F[F,F]   E,A,/^C/ E[E,^C] | [D,D]6 z    f-                |
+fAdf              eA^ce            | dFAd      cEGc                | _BDF_B  ADFA                      | (EG)   G4   z (e              |
+e)G_Be            dG_Bd            | ^cEG^c    _BDF_B              | AGE^C   _BAA^G                    | (^GA)  A2   AGA f-            |
+fAdf              eA^ce            | dFAd      cEGc                | _BDF_B  ADFA                      | (EG)   G2   G^FG e-           |
+eG_Be             dG_Bd            | ^cEG^c    _BDF_B              | AGE^C   A,G,F,E,                  | D,6    z2                     |
+z                 A      fd _B2 A2 | ^G3/2     B3/2   d/f/ e3      | z       A        e^c A2 G2        | F3/2   A3/2 ^c/e/ d3          |
+^G,A,             DF     _BA =GF   | F/G/F/E/- E2     A,/^G,/ =G,3 | z       A,       ^CE AG FE        | G/^F/  =F6  z                 |
+z                 A      fd _BF A2 | ^G3/2     B3/2   d/f/ e3      | z       A        e^c A2 G2        | F3/2   A3/2 ^c/e/ d2 [G,_B,]- |
+[G,B,][B,D]/[DF]/ [G_B]F ED ^CD    | E/F/E/D/- D_B,   A,F, E,D,    | F,A,/D/ F[F,F]   E,A,/^C/ E[E,^C] | [D,D]6 z    (A,               |
+[K:D]  A,)B,DF ABd !breath!f | a3    f2     d3             | z    Adf   z     ^Acf         | z       Bdg b4           |
+A,CEG  (3Ace   g(!breath!b   | b2-)  ba     gecA           | GA   c/e/  g2    fgb          | ba(3fdA A4               |
+A,B,DF ABdf                  | a2    =F     ^F A/F/ E D=C  | z    B,B,  ^DFBA (G-          | G4)     z ddd            |
+dBGE   D2      B,A,-         | A,BAF EDB,A,                | ^G,D F2    A,C   E2           | D4      z4               |
+A,B,DF ABdf-                 | a3    f2     d2 d/e/        | A2   (3fdA ^G2   fd/A/        | G8                       |
+A,CEG  (3Ace   g(!breath!b   | b3)   g      g2 z2          | gec  A     B/B/  A2    ^G/=G/ | FAdf    f !slide!a/a/ a2 |
+A,B,DF ABdf                  | a2    =F     ^F A/F/ E D =C | z    B,B,  ^DFBA G-           | G3      z2 ddd           |
+dBGE   D2      B,A,-         | A,BAF EDB,A,                | ^G,D F2    A,C   E2           | D4      z ddd            |
+dBGE   D2      B,A,-         | A,BAF EDB,A,                | ^G,D F2    A,C   E2           | !>!D !>!B !>!A !>!F !>!D z !arpeggio!!>![DFABd]2 |]
 
 

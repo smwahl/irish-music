@@ -1,3 +1,4 @@
+I:abc-charset utf-8
 X: 8
 T: Maudabawn Chapel
 R: reel
@@ -87,6 +88,20 @@ EF|: G3 F E2 DB,| G,A,B,D E2 DB,| G,A,B,D GABd| gabg eaaf|
 [2 ~g3a b/a/g a/g/f|gfed eage|dged BedB|AcBA GEED||
 |: E2 BE dEBE| Ed^cB AD (3FED|~E3 F GFGB|AF (3FFF DFAF|
  EBBA B3 d|BAGA B^cde| fd ~d2 gfe^c|1 dBAF  GEED:|2  dBAF  GEEF||
+
+X: 1
+T: Maudabawn Chapel
+R: reel
+M: 4/4
+C: Ed Reavy
+S: Maureen Fitzpatrick on ‘The Music of Ed Reavy’
+K: Edor
+EF |: (3GFE {F}ED EB,DB, | G,A,B,D EB,DB, | G,A,B,D GABd | gabg eaaf |
+|1 gabg efge | dfed Bc d2 | (3efg fa gbec | dBA=c BE{F}EF :|
+|2 ~g3 a {b}agaf | gfed efge | dfe=c BcdB | A=cBA GE{F}ED |]
+|: E2 BE eEBE | GABG AFDF | ~E3 F GFGB | A2 (3FED A,DFD |
+E2 BE eEBE | {Bc}BAFA Bcde | ~f2 (3agf gfec |1 dBA=c BE{F}ED :|2 dBA=c BE{F}EF ||
+“end”dBAF E3 z |]
 
 
  X: 8

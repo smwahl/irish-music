@@ -1,0 +1,38 @@
+
+X:1
+T:Balada da Oliveira (Ador)
+%%score ( 1 2 )
+L:1/8
+Q:1/4=120
+M:3/4
+K:G
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:1
+AB |: c3 E Ac | e4 de | d6 | c4 AB |
+c3 A ce | a3 g g=f | e6 | e2 z2 AB |
+^c3 E Ac | !arpeggio!e2 d2 cB | A6 | A4 AA |
+A4 ^GA | c4 BA | A4 A2 | ^G4 AB |
+c3 E Ac | e4 de | d6 | c4 AB |
+c3 A ce | a3 g g=f | e6 | e2 z2 AB |
+^c3 E Ac | e2 e2 cB | A6 | A4 AA |
+A4 cA | A4 ^G2 | A6 | A6 |1 A4 ^GA || 
+B3 E ^GB | d2 c2 BA | G6 | F4 GA |
+B3 D GB | ^c4 Bc | B6 | ^A6 | 
+z B, ^DF AB | c2 BA GF | F4 EF | G3 B, DE |
+=F3 G _Bd | =fe dc BA | A6 | ^G4 AB :|2 A4 ^G2 || A6 |] 
+V:2
+x2 |: A,E, A,C E2 | z ^G, B,(E E2) | G,A, G,A, G,A, | F,A, F,(A, A,2) |
+=F,A, F,2 z2 | D,A, D,2 G,2 | z C EG CE | ^G,B E(D D2) |
+z A, (^C2 C2) | !arpeggio![D,A,=FA]A, CA, C2 |  [F,A,C]A, B,A, CA, | F,A, CA, C2 |
+[D,A,C]A, CA, C2 | [^D,A,B,]A, =F(B, B,2) | E,D E=F FD | E,E DE F=F |
+[A,E]E, A,(B, B,2) | z ^G, A,(E E2) | G,A, G,A, G,A, | F,A, F,(A, A,2) | 
+=F,A, F, z3 | D,A, D,2 G,2 | z C EG CE | ^G,B E(D D2) |
+z A, (^C2 C2) | [D,A,=FA]A, F A,3 | [F,A,C]A, B,A, CA, | F,A, CA, C2 |
+[D,A,CF]A, C(A, A,2) | E,=F DF E,D | [A,CE][CE] [G,G][F,F] [=F,=F][E,E] | [A,CE][CE] [G,G][F,F] [=F,=F][E,E] |1 [A,CE]4 z2 || 
+E,B, E,2 z2 | =F,A, F,A, D,2 | _E,A, CA, CA, | D,A, C D,2 z |
+G,B, G,4 | =F,B, G F,3 | F,C EC EC | F,C EC E,C |
+^D,4 D,2 | ^D,C C2 =D,2 | E,B, E,3 z | E,B, E,3 z |
+D,D D,3 z | D,4 D,2 | =F,B, C^C [D,D]^D | E,B, E, B,3 :|2 [^D,A,CF]4 [E,B,D]2 || [A,CE]6 |] 
+
+

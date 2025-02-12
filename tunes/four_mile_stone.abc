@@ -1,4 +1,4 @@
-X: 2
+ X: 2
 T: Cloch Na Ceithre Mhile
 R: reel
 M: 4/4
@@ -44,14 +44,15 @@ A2eA ~A2AB|(3cBA BG AGAB| (3cBA BG AG.E A|1 GEDG EBdB:|2 GEDG EAAG|
 |:A2cA eA ~A2|A ~e3 d2BA|G2dG eG .d2|(3ded (3BdB (3GAG DA|
 E2 ~A2 AB (3cde|AG ED~E2AB|(3cBA BG AGEA|GEDG EAAG:|
 
-X: 4
-T: Cloch Na Ceithre Mhile
-R: reel
-M: 4/4
-L: 1/8
-K: Ador
-A2eA ~A2eA|~A2ge dBAB|G2(3BAG dGBA|G~B3 GBdB|
-A2eA ~A2AB|(3cBA BG AGAB| (3cBA BG AG.E A|1 GEDG EBdB:|2 GEDG EAAG|
-|:A2cA eA ~A2|A ~e3 d2BG|AGdG eG .d2|(3ded (3BdB (3GAG DA|
-EA ~A2 AB (3cde|AG ED~E2AB|(3cBA BG AGEA|GEDG EAAG:|
 
+
+X:1
+T:Cloch Na Ceithre Mhile
+R:reel
+M:4/4
+L:1/8
+K:Ador
+A2eA ~A2eA|~A2ge dBAB|G2(3BAG dGBA|GB~B2 GBdB|
+A2eA ~A2ab|(3c'ba bg agab| (3c'ba bg ag.e a|gedB GAAG:|
+|:Aac'a e'a ~a2|a ~e'3 d'2bg|ag d'g e'g .d'2|(3d'e'd' (3bd'b (3gag dg|
+ea ~a2 ab (3c'd'e'|ag ed~e2ab|(3c'ba bg agea|gedB GAAG:
