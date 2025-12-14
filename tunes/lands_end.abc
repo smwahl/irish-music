@@ -1,0 +1,29 @@
+X:1
+T:Land's End
+R:slip jig
+M:9/8
+L:1/8
+K:Dmin
+D3 DCA, CDF|G3 GFG Acd|f2 d dcA cAG|1 G3 GFG AFE:|2 G3 GFG Acd||
+f2 d dcA c2 f|e3 ede gfe|f2 d dcA cAG|1 G3 GFG Acd:|2 G3 GFG AFE|| \
+
+X:5
+T:Land's End
+R:slip jig
+M:9/8
+L:1/8
+K:Dmin
+D3 DCA, CDF|~G3 GFG Acd|f3 dcA cAF|G2G GFG AFE|
+D3 DCA, CDF|~G3 GFG Acd|f3 dcA cAF|~G3 GFG Acd||
+f3 dcA cdf|~e3 ede gec|f3 dcA cAF|G3 GFG Acd|
+f3 dcA cdf|~e3 ede g3|fdc dcA cAF|G2G GFG AFE|| 
+
+
+X:1
+T:Land's End
+R:slip jig
+M:9/8
+L:1/8
+K:Dmin
+D3 DCA, CDF|G3 GFG Acd|f2 d dcA cAF|1 G3 GFG AG/F/E:|2 G3 GFG Acd||
+f2 d dcA cdf|e3 ede gfe|1 f2 d dcA cAF| G3 GFG Acd:|2 efe dcA cAF| GAG GFG AG/F/E|| 

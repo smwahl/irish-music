@@ -1,0 +1,30 @@
+X: 10
+T: The Maid At The Spinning Wheel
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|:~G3 B2G|BcA B2D|~G3 cAG|F2G AFD|
+~G3 B2G|BcA B2g|fed cAF|1 AGF GED:|2 AGF GBc||
+|:BAG AFD|~D3 AFD|~D3 AFD|EFG ABc|
+BAG AFD|~D3 AFD|ded cAG|1 AGF GBc:|2 AGF G2d||
+|:GB/c/d gba|gdB ecA|dBG cAG|~F3 AFD|
+GB/c/d gba|gdB ecA|fed cAF|1 AGF GED:|2 AGF ~G2c||
+|:BAG Afd|Bgd Afd|Bgd AFD|EFG ABc|
+BAG AFD|~D3 AFD|ded cAG|1 AGF ~G2c:|2 AGF G2|| 
+
+
+X: 10
+T: The Maid At The Spinning Wheel
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+D|:~G3 B2G|BcA B2D|~G3 BAG|F2G AFD|
+~G3 B2G|BcA B2g|fed cAF|1 AGF G2D:|2 AGF GBc||
+|:BAG AFD|~D3 AFD|~D3 AFD|EFG ABc|
+BAG AFD|~D3 AFD|ded cAF|1 AGF GBc:|2 AGF G2D||
+|:GB/c/d gba|gdB ecA|dBG cAG|~F3 AFD|
+GB/c/d gba|gdB ecA|fed cAF|1 AGF G2D:|2 AGF ~G2c||
+|:BAG Afd|Bgd Afd|Bgd AFD|EFG ABc|
+BAG AFD|~D3 AFD|ded cAF|1 AGF ~G2c:|2 AGF G2|| 
